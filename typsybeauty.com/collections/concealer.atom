@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/concealer.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2025-05-05T18:18:45+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/10077036314933</id>
+    <published>2025-05-05T18:18:45+05:30</published>
+    <updated>2025-05-05T18:18:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/concealer-ph-blush"/>
+    <title>Concealer + Ph Blush</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/pH-Blush_Concealer.jpg?v=1746448917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Late nights, flawless mornings – meet the Hangover Proof Full Coverage Concealer.</span></p>
+<p dir="ltr"><span>This light-as-air, full-coverage concealer hides dark circles, blemishes, redness, and signs of last night – no creasing, no caking.</span></p>
+<p dir="ltr"><span>Why it's a game-changer:</span></p>
+<p dir="ltr"><span>Full coverage with a natural matte finish</span></p>
+<p dir="ltr"><span>Sweat-proof, water-resistant &amp; crease-proof</span></p>
+<p dir="ltr"><span>Shea Butter-infused for hydration &amp; smooth application</span></p>
+<p dir="ltr"><span>Blurs fine lines, pores &amp; wrinkles effortlessly</span></p>
+<p dir="ltr"><span>XL pillowy doe-foot for easy, precise use</span></p>
+<p dir="ltr"><span>Doubles as a highlighter &amp; contour stick</span></p>
+<p dir="ltr"><span>9 versatile shades made for Indian skin tones</span></p>
+<p dir="ltr"><span>Made in Korea</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Orange Corrector / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0877</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Orange Corrector / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0886</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Orange Corrector / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0895</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Orange Corrector / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0904</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>White Russian - Fair with neutral undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0869</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>White Russian - Fair with neutral undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0878</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>White Russian - Fair with neutral undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0887</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>White Russian - Fair with neutral undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0896</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Prosecco - Light with pink undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0870</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Prosecco - Light with pink undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0879</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Prosecco - Light with pink undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0888</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Prosecco - Light with pink undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0897</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Brandy - Tan with warm undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0874</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Brandy - Tan with warm undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0883</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Brandy - Tan with warm undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0892</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Brandy - Tan with warm undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0901</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Dark Rum - Tan deep with olive undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0875</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Dark Rum - Tan deep with olive undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0884</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Dark Rum - Tan deep with olive undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0893</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Dark Rum - Tan deep with olive undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0902</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Espresso Martini - Deep with neutral undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0876</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Espresso Martini - Deep with neutral undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0885</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Espresso Martini - Deep with neutral undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0894</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Espresso Martini - Deep with neutral undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0903</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Pina Colada - Light medium with warm undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0871</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Pina Colada - Light medium with warm undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0880</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Pina Colada - Light medium with warm undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0889</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Pina Colada - Light medium with warm undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0898</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Baileys - Medium with warm undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0872</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Baileys - Medium with warm undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0881</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Baileys - Medium with warm undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0890</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Baileys - Medium with warm undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0899</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Whiskey - Medium with neutral undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0873</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Whiskey - Medium with neutral undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0882</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Whiskey - Medium with neutral undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0891</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Whiskey - Medium with neutral undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0900</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077075341621</id>
+    <published>2025-05-05T17:03:18+05:30</published>
+    <updated>2025-05-05T17:03:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/concealer-lip-treatment-balm"/>
+    <title>Concealer + Lip Treatment Balm</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Peptide_Concealer.jpg?v=1746429435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Late nights, flawless mornings – meet the Hangover Proof Full Coverage Concealer.</span></p>
+<p dir="ltr"><span>This light-as-air, full-coverage concealer hides dark circles, blemishes, redness, and signs of last night – no creasing, no caking.</span></p>
+<p dir="ltr"><span>Why it's a game-changer:</span></p>
+<p dir="ltr"><span>Full coverage with a natural matte finish</span></p>
+<p dir="ltr"><span>Sweat-proof, water-resistant &amp; crease-proof</span></p>
+<p dir="ltr"><span>Shea Butter-infused for hydration &amp; smooth application</span></p>
+<p dir="ltr"><span>Blurs fine lines, pores &amp; wrinkles effortlessly</span></p>
+<p dir="ltr"><span>XL pillowy doe-foot for easy, precise use</span></p>
+<p dir="ltr"><span>Doubles as a highlighter &amp; contour stick</span></p>
+<p dir="ltr"><span>9 versatile shades made for Indian skin tones</span></p>
+<p dir="ltr"><span>Made in Korea</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0764</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0773</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0782</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0755</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0791</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1027</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0756</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0765</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0774</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0747</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0783</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1019</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0757</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0766</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0775</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0748</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0784</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1020</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0761</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0770</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0779</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0752</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0788</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1024</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0762</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0771</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0780</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0753</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0789</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1025</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0763</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0772</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0781</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0754</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0790</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1026</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0758</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0767</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0776</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0749</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0785</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1021</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0759</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0768</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0777</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0750</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0786</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1022</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0760</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0769</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0778</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0751</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0787</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1023</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077070917941</id>
+    <published>2025-05-05T17:03:15+05:30</published>
+    <updated>2025-05-05T17:03:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/concealer-orange-corrector"/>
+    <title>Concealer + Orange Corrector</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Orange-Corrector_447c32bb-b140-4c7f-8bb9-6ec991beb0e8.jpg?v=1746440727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Late nights, flawless mornings – meet the Hangover Proof Full Coverage Concealer.</span></p>
+<p dir="ltr"><span>This light-as-air, full-coverage concealer hides dark circles, blemishes, redness, and signs of last night – no creasing, no caking.</span></p>
+<p dir="ltr"><span>Why it's a game-changer:</span></p>
+<p dir="ltr"><span>Full coverage with a natural matte finish</span></p>
+<p dir="ltr"><span>Sweat-proof, water-resistant &amp; crease-proof</span></p>
+<p dir="ltr"><span>Shea Butter-infused for hydration &amp; smooth application</span></p>
+<p dir="ltr"><span>Blurs fine lines, pores &amp; wrinkles effortlessly</span></p>
+<p dir="ltr"><span>XL pillowy doe-foot for easy, precise use</span></p>
+<p dir="ltr"><span>Doubles as a highlighter &amp; contour stick</span></p>
+<p dir="ltr"><span>9 versatile shades made for Indian skin tones</span></p>
+<p dir="ltr"><span>Made in Korea</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>Orange Corrector 01 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0921</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>White Russian 01 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0913</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>Prosecco 02 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0914</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>Brandy 06 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0918</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>Dark Rum 07 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0919</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>Espresso Martini 08 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0920</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>Pina Colada 03 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0915</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>Baileys 04 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0916</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077070917941</id>
+      <title>Whiskey 05 / Orange Corrector</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0917</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9518455750965</id>
+    <published>2025-04-28T00:05:21+05:30</published>
+    <updated>2025-04-28T00:05:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/hangover-proof-concealer-dip-dab-blender"/>
+    <title>Hangover Proof Concealer + Dip &amp; Dab Blender</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Concealer_Blender_13d0d754-089f-4d7c-973f-ff37c4d079e9.jpg?v=1737453746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            1529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combo containing any shade of the Hangover Proof Concealer + the Dip &amp; Dab Blender</p>
+<p>Hangover Proof Concealer: This concealer boasts a long-wear, sweat, and crease-proof formula that provides light-as-air, full coverage. It masterfully hides under-eye circles, acne scars, blemishes, fine lines, pores, and wrinkles, while also reducing redness. Enriched with Shea butter, it ensures your look remains flawless all day, without creasing or settling into fine lines or pores. This concealer stands as your resilient beauty ally, promising to keep your appearance impeccable, no matter how the night went.</p>
+<p>Specially formulated to flatter Indian skin tones, it comes available in 9 versatile shades and doubles as a fantastic tool for highlighting and contouring.</p>
+<p>Dip &amp; Dab Blender: Elevate your makeup game to a flawless, celebrity-like finish in seconds with the Dip &amp; Dab beauty blender. This innovative makeup beauty blender offers the best of both worlds through its dual texture design; featuring a unique foam on one side for blending and a silicone surface on the other for application. Plus, its flat side is meticulously engineered to contour to the unique angles and curves of your face seamlessly.</p>
+<p>Dip: Use the silicone side of this beauty blender sponge to apply liquids and creams effortlessly. Thanks to its non-porous nature, it ensures minimal product wastage by preventing absorption unlike regular foam blenders, delivering higher coverage.</p>
+<p>Dab: When you’re ready to blend, flip over to the sponge side to achieve a seamless and airbrushed finish. The soft, mini beauty blender texture is perfect for tapping your way to that desired flawless finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>White Russian - Fair with neutral undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Prosecco - Light with pink undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0316</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Pina Colada - Light medium with warm undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0317</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Baileys - Medium with warm undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Whiskey - Medium with neutral undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Brandy - Tan with warm undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Dark Rum - Tan deep with olive undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Espresso Martini - Deep with neutral undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Orange Corrector / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/8275402195253</id>
+    <published>2024-04-09T18:51:17+05:30</published>
+    <updated>2024-04-09T18:51:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/hangover-proof-full-coverage-concealer"/>
+    <title>Hangover Proof Full Coverage Concealer</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Baileys_9ffe09e0-6315-4903-95be-31007188588b.jpg?v=1735825064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morning afters should never dampen your glow. Whether you're looking to disguise under-eye bags, blemishes, redness, or signs of the previous night's escapades, keep your secret concealed with the Hangover Proof Full Coverage Concealer.</p>
+<p>This <strong>full coverage</strong> concealer boasts a <strong>long-wear, sweat, and crease-proof</strong> formula that provides  <strong>light-as-air</strong>, full coverage. It masterfully hides under-eye circles, acne scars, blemishes, fine lines, pores, and wrinkles, while also reducing redness. Enriched with <strong>Shea butter</strong>, it ensures your look remains flawless all day, without creasing or settling into fine lines or pores. This concealer stands as your resilient beauty ally, promising to keep your appearance impeccable, no matter how the night went.</p>
+<p>Whether you need a full-coverage concealer for mature skin, a water-based formula, or the best option for oily or dry skin, the Hangover Proof Concealer has you covered. Its <strong>hydrating formula</strong> makes it perfect for dry skin, while its versatility shines as an ideal concealer stick. Embrace flawless skin every day with this exceptional multitasker.</p>
+<p>Specially formulated to flatter Indian skin tones, it comes available in 9 versatile shades and doubles as a fantastic tool for highlighting and contouring.</p>
+<p><strong>Why is it special:</strong></p>
+<p>• Full-coverage formula with natural matte finish<br>• Infused with Shea Butter<br>• Sweat, water resistant and crease-proof formula that won't cake or settle<br>• Helps smooth &amp; blur appearance of fine lines, pores &amp; wrinkles<br>• Applies easily with XL pillowy soft doe-foot applicator<br>• Made in Korea</p>
+<p><em>100% vegan &amp; cruelty-free</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>Orange Corrector 01</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0025</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>White Russian 01</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0017</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>Prosecco 02</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0018</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>Brandy 06</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0022</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>Dark Rum 07</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0023</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>Espresso Martini 08</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0024</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>Pina Colada 03</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0019</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>Baileys 04</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0020</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8275402195253</id>
+      <title>Whiskey 05</title>
+      <s:price currency="INR">990.00</s:price>
+      <s:sku>CCF-0021</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

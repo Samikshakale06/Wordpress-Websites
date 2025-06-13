@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/sheet-mask.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2022-08-04T10:39:00+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/7644263940294</id>
+    <published>2022-08-04T10:39:00+05:30</published>
+    <updated>2022-08-04T10:39:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/get-set-glow-brightening-sheet-mask-1"/>
+    <title>Get Set Glow Brightening Sheet Mask</title>
+    <s:type>Sheet Mask</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_3460f32e-e0c0-4895-ab32-64e7d2717901.png?v=1685431122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Sheet Mask<br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><i>All that glitters is truly gold!</i> </p> <p>Experience an immediate golden radiance with our skin-loving sheet mask, infused with powerful actives such as <b>Hyaluronic Acid and Niacinamide.</b> Our formula <b>not only hydrates your skin but also brightens and protects its moisture barrier</b>, giving you the perfect glow that you deserve. </p>   <p>The special<b> tencel structure</b> ensures a<b> comfortable</b> and optimal <b>fit for your face,</b> providing 50% more moisture absorption than cotton, thanks to its <b>eco-friendly and breathable material</b>. The Get, Set, Glow! sheet mask features a<b> unique golden metallic appearance and a smooth, soft surface </b> that perfectly drapes on all face shapes, leaving your skin feeling fresh and revitalized.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7644263940294</id>
+      <title>Sheet Mask</title>
+      <s:price currency="INR">239.00</s:price>
+      <s:sku>SC-0001</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

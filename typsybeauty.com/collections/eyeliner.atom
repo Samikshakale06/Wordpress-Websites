@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/eyeliner.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2024-03-20T12:30:22+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/9250289877301</id>
+    <published>2024-03-20T12:30:22+05:30</published>
+    <updated>2024-03-20T12:30:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/twice-the-fun"/>
+    <title>Twice the Fun</title>
+    <s:type>Eye Pencil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Blue-bombsicle.jpg?v=1731301942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Eye Pencil<br>
+        <strong>Price: </strong>
+            950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Committing to colour has never been so easy.  </em></p>
+<p>Introducing our revolutionary 2-in-1 coloured eye pencil, a makeup essential that effortlessly combines versatility with a spectrum of complimentary, wearable colors in matte and metallic finish. Perfect for both makeup beginners and seasoned artists, this pencil is thoughtfully designed to simplify your beauty routine. </p>
+<p>The carefully curated color range focuses on harmonious shades, pre-matched for a foolproof application. Unlike the intimidation of liquid eyeliners or the complexity of eyeshadows, our pencil offers an approachable alternative, making eye makeup less daunting for all. This multitasking gem serves as an eyeliner, kajal, and eyeshadow, allowing you to achieve a full eye look with just one tool. </p>
+<p>With its smudge-friendly formula, you have ample playtime before it sets, giving you the flexibility to create the perfect look. The colors are MUA approved, adhering to color theory principles for a professional finish. </p>
+<p>From work meetings to coffee breaks and wedding guest looks, this 2-in-1 eye pencil adapts seamlessly to every occasion. Its creamy texture glides effortlessly, ensuring a smooth application without any tugging or pulling. Experience the luxury of crease-proof, smudge-proof color that stays vibrant all day, providing a flawless finish from dawn to dusk. </p>
+<p><strong>Why is it special:</strong></p>
+<p>• One pencil, three functions – eyeliner, kajal, and eyeshadow – offering a comprehensive solution for a full eye look in a single product.<br>• Beginner-friendly, pre-matched, complimentary colors in matte and metallic finish both in 1 pencil.<br>• Creamy texture glides smoothly for effortless application, without tugging or pulling.<br>• Crease-proof and smudge-proof, it offers a lightweight formula that stays vibrant throughout the day.<br>• Suitable for contact lens wearers.</p>
+<p><em>100% vegan &amp; Cruelty-free.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BOGO MSG</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>hello</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Eyeliner</s:tag>
+    <s:tag>VTO-Eyepencil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Wine and Dine 01 - Plum burgundy &amp; Shimmery maroon rust</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0017</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Blue Bombsicle 02 - Navy blue &amp; Shimmery aqua blue</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0018</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Mojito Crush 03 - Dark Forest green &amp; Silvery taupe</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0019</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Bubbling Beer 04 - Chocolate brown shade &amp; Coppery gold</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0020</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Coconut Rum 05 - Black &amp; Matte nude cream</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0021</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/6841380765894</id>
+    <published>2021-08-11T17:45:33+05:30</published>
+    <updated>2021-08-11T17:45:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/double-shot-dual-eyeliner-01"/>
+    <title>Double Shot Kajal + Eyeliner</title>
+    <s:type>Double Shot Eyeliner</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st_89d1c340-3d1d-45ae-a45b-699755952ae3.jpg?v=1731322603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Double Shot Eyeliner<br>
+        <strong>Price: </strong>
+            760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Why settle for one when you can have both?</em></p>
+<p>Introducing our groundbreaking <strong>two-in-one</strong> eyeliner, ingeniously designed to cater to your dynamic lifestyle and diverse beauty needs. This <strong>travel-friendly</strong> eyeliner is the epitome of durability, boasting a <strong>smudge-proof, waterproof formula</strong> that promises to stay put for up to <strong>48 hours</strong>. It's the perfect companion for those seeking reliability and versatility in their makeup routine.</p>
+<p>On one end, it features a <strong>precision felt tip liner</strong> that allows for the creation of razor-sharp lines with effortless grace. On the opposite end, discover the luxury of a <strong>super-soft, creamy retractable</strong> kajal pencil. Ideal for crafting that sought-after smoky eye or achieving dramatic flair, our kajal eyeliner is as multifunctional as it gets.</p>
+<p>The Double Shot is the ultimate beauty hack for anyone looking to streamline their makeup collection without sacrificing performance. Whether you're constantly on the move, jet-setting around the globe, or simply in need of a swift beauty fix, our two-in-one eyeliner offers the perfect solution.</p>
+<p><strong>Why is it special:</strong></p>
+<p>• Intense black ultra-fine felt tip eyeliner<br>• Rich, creamy kajal glides easily<br>• Waterproof, sweat-proof, and smudge-proof for 24+ hours<br>• Intensely pigmented for rich colour payoff<br>• Ophthalmologically tested to ensure safety, even for sensitive eyes<br>• Long-lasting formula guarantees no flaking or fading throughout the day<br>• One stroke application<br>• Suitable for sensitive eyes</p>
+<p><em>100% Vegan, Paraben and Cruelty-free</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>eye liner</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>look 1</s:tag>
+    <s:tag>look 2</s:tag>
+    <s:tag>look 3</s:tag>
+    <s:tag>look 4</s:tag>
+    <s:tag>look 5</s:tag>
+    <s:tag>look 6</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>Selling Fast</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>VTO-Eyeliner</s:tag>
+    <s:tag>VTO-Kajal</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/6841380765894</id>
+      <title>Black</title>
+      <s:price currency="INR">760.00</s:price>
+      <s:sku>CCE-0003</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

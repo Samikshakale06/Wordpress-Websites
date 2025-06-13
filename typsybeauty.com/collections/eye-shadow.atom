@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/eye-shadow.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2025-04-28T00:05:14+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/9862858703157</id>
+    <published>2025-04-28T00:05:14+05:30</published>
+    <updated>2025-04-28T00:05:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/twice-the-fun-magic-dust-combo"/>
+    <title>Magic Dust + Twice The Fun Combo</title>
+    <s:type>Magic Dust Foil Eyeshadow</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1All_c5e855db-4c1f-46eb-a515-a76b2e485cbf.jpg?v=1729597082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Magic Dust Foil Eyeshadow<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combo containing our Twice The Fun 2 in 1 Eyeliner and Magic Dust Foil Eyeshadow in the shade of your choice</p>
+<p><strong>Twice the Fun 2-in-1 Eyeliner:</strong></p>
+<p>Simplify your eye makeup with our dual-ended eyeliner pencil, offering matte and metallic finishes in perfectly paired shades. Whether you're a beginner or a pro, this versatile pencil works as an eyeliner, kajal, and eyeshadow in one. Its creamy, smudge-proof formula glides on effortlessly for a long-lasting, vibrant look from day to night.</p>
+<p><strong>Magic Dust Foil Eyeshadow:</strong></p>
+<p>Elevate your eye look with just one swipe of our highly pigmented Magic Dust Foil Eyeshadow. The smooth, blendable formula delivers a metallic, foil-like finish that lasts all day with no fallout. Perfect for both subtle and bold looks, it’s a must-have for the festive season!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>GOLD</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Spellbound 01</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0445</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Wish Upon a Star 02</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0446</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Twinkling Treasure 03</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0447</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Frozen Fractals 04</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0448</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Pot of Gold 05</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0449</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Spellbound 01</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0450</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Wish Upon a Star 02</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0451</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Twinkling Treasure 03</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0452</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Frozen Fractals 04</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0453</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Pot of Gold 05</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0454</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/7976497905973</id>
+    <published>2022-10-30T21:16:19+05:30</published>
+    <updated>2022-10-30T21:16:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/magic-dust-foil-eyeshadow-frozen-fractals"/>
+    <title>Magic Dust Foil Eyeshadow</title>
+    <s:type>Magic Dust Foil Eyeshadow</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Twinkling_33301583-b34b-40ab-8c34-9c82959745db.jpg?v=1734087912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Magic Dust Foil Eyeshadow<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>One swipe and your eyeshadow look is done!</em></p>
+<p>The Magic Dust Foil Eyeshadow is a game-changer, specially for the festive and wedding season. These pots are filled with <strong>highly pigmented, pressed Pearl formulas</strong> that will take your eye makeup to the next level.</p>
+<p>Our creamy formula allows for easy blending, so you can achieve the perfect look every time. The build-up is smooth and seamless, resulting in a pigment-packed <strong>metallic foil finish</strong> that lasts all day with <strong>no fallout</strong>.</p>
+<p>Whether you're a professional makeup artist or just starting out, our Magic Dust Foil Eyeshadow Pots are easy to use and perfect for creating a variety of looks. From subtle daytime looks to bold evening looks, our pots have got you covered. Plus, our travel-friendly packaging makes it easy to take your Magic Dust Foil Eyeshadow Pots with you wherever you go.</p>
+<p><strong>Why is it special:</strong></p>
+<p>• Pressed Pearl Cream formula<br>• High shine &amp; Intense Pigment<br>• Strong adhesion - no creasing and no glitter fallout<br>• One Swipe application with buildable coverage<br>• Light weight &amp; Long stay formula<br>• Made in Korea</p>
+<p><em>100% Vegan, Paraben and Cruelty-free</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BOGO MSG</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>GOLD</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>VTO-Eyeshadow</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Frozen Fractals 01</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0010</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Wish Upon a Star 02</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0009</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Spellbound 03</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0008</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Twinkling Treasure 04</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0007</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Pot of Gold 05</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0006</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

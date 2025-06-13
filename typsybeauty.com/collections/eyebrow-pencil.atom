@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/eyebrow-pencil.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2024-01-15T11:59:05+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/9050246021429</id>
+    <published>2024-01-15T11:59:05+05:30</published>
+    <updated>2024-01-15T11:59:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/fold-you-so"/>
+    <title>Eyebrow Pencil with Brush</title>
+    <s:type>Brow Pencil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Brows_1st_Image-Light_Brown.jpg?v=1743489670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Brow Pencil<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="" data-end="520" data-start="484"><strong data-end="520" data-start="484">Brows in your pocket. Literally.</strong></p>
+<p class="" data-end="596" data-start="522">This isn’t just a brow pencil. It’s your mini glam squad — folded in half.</p>
+<p class="" data-end="925" data-start="598">Introducing the <em data-end="637" data-start="614">Fold You So Slim Brow</em> — India’s first foldable, dual-ended brow pencil with a precision tip on one side and a dense spoolie on the other. Whether you’re between meetings or mid-air, this ultra-skinny Korean-made stick creates soft, hair-like strokes in seconds — and blends down to a natural, polished finish.</p>
+<p class="" data-end="969" data-start="927">It folds. It fills. It fits in your pouch.</p>
+<h3 data-start="976" data-end="1009" class="">✨ What makes it so damn good:</h3>
+<ul data-start="1010" data-end="1339">
+<li data-start="1010" data-end="1068" class="">
+<p data-start="1012" data-end="1068" class="">Glides on like a dream for <strong data-start="1039" data-end="1068">natural, buildable payoff</strong></p>
+</li>
+<li data-start="1069" data-end="1125" class="">
+<p data-start="1071" data-end="1125" class="">Tapered oval tip mimics hair strokes — no blocky edges</p>
+</li>
+<li data-start="1126" data-end="1174" class="">
+<p data-start="1128" data-end="1174" class=""><strong data-start="1128" data-end="1145">Dense spoolie</strong> shapes and blends like a pro</p>
+</li>
+<li data-start="1175" data-end="1248" class="">
+<p data-start="1177" data-end="1248" class=""><strong data-start="1177" data-end="1191">Folds down</strong> for easy travel, touch-ups, and clutch-friendly stashing</p>
+</li>
+<li data-start="1249" data-end="1295" class="">
+<p data-start="1251" data-end="1295" class=""><strong data-start="1251" data-end="1276">Available in 3 shades</strong> to match your vibe</p>
+</li>
+<li data-start="1296" data-end="1339" class="">
+<p data-start="1298" data-end="1339" class="">Made in Korea • 100% vegan &amp; cruelty-free</p>
+</li>
+</ul>
+<p><em>100% vegan &amp; Cruelty-free.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BOGO MSG</s:tag>
+    <s:tag>eyebrow</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9050246021429</id>
+      <title>Light Brown 01</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCE-0014</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9050246021429</id>
+      <title>Medium Brown 02</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCE-0015</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9050246021429</id>
+      <title>Dark Brown 03</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCE-0016</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

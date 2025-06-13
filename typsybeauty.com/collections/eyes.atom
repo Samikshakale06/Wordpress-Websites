@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/eyes.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2025-04-28T00:05:14+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/9862858703157</id>
+    <published>2025-04-28T00:05:14+05:30</published>
+    <updated>2025-04-28T00:05:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/twice-the-fun-magic-dust-combo"/>
+    <title>Magic Dust + Twice The Fun Combo</title>
+    <s:type>Magic Dust Foil Eyeshadow</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1All_c5e855db-4c1f-46eb-a515-a76b2e485cbf.jpg?v=1729597082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Magic Dust Foil Eyeshadow<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combo containing our Twice The Fun 2 in 1 Eyeliner and Magic Dust Foil Eyeshadow in the shade of your choice</p>
+<p><strong>Twice the Fun 2-in-1 Eyeliner:</strong></p>
+<p>Simplify your eye makeup with our dual-ended eyeliner pencil, offering matte and metallic finishes in perfectly paired shades. Whether you're a beginner or a pro, this versatile pencil works as an eyeliner, kajal, and eyeshadow in one. Its creamy, smudge-proof formula glides on effortlessly for a long-lasting, vibrant look from day to night.</p>
+<p><strong>Magic Dust Foil Eyeshadow:</strong></p>
+<p>Elevate your eye look with just one swipe of our highly pigmented Magic Dust Foil Eyeshadow. The smooth, blendable formula delivers a metallic, foil-like finish that lasts all day with no fallout. Perfect for both subtle and bold looks, it’s a must-have for the festive season!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>GOLD</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Spellbound 01</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0445</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Wish Upon a Star 02</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0446</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Twinkling Treasure 03</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0447</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Frozen Fractals 04</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0448</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Wine n Dine 01 / Pot of Gold 05</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0449</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Spellbound 01</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0450</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Wish Upon a Star 02</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0451</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Twinkling Treasure 03</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0452</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Frozen Fractals 04</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0453</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9862858703157</id>
+      <title>Bubbling Beer 02 / Pot of Gold 05</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0454</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9519174189365</id>
+    <published>2025-04-28T00:05:12+05:30</published>
+    <updated>2025-04-28T00:05:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/everyday-combo-liner"/>
+    <title>Everyday Combo | Lip Oil + kajal/Liner</title>
+    <s:type>Makeup Combo</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_78445788-e95c-4db9-87c9-118227bd8930.jpg?v=1715693472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Makeup Combo<br>
+        <strong>Price: </strong>
+            1741.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combo containing the Double Shot Liner + Kajal and any shade of the lip oil from the Shade Shifter Collection</p>
+<p>Shade Shifter Sparkle: A range of glitter pH reactive lip oils from the iconic Shade Shifter collection. It delivers the same colour-changing, long lasting tint, but with a dazzling sparkle. Available in 3 juicy shades, this ultra hydrating formula glimmers with glitter particles to unveil smooth, high-shine, irresistible lips. Our iconic doe-foot applicator hugs lips for easy glide- on application that leaves lips feeling cocooned with vibrant shine. Experience a 99% natural formula powered by Rosehip &amp; Jojoba Oil, Shea Butter and Peach Extract for more hydration and collagen boost.</p>
+<p>Shade Shifter Lip and Cheek Oil Ph-enomenal 01: color-changing lip and cheek oil, a marvel in the realm of custom cosmetics. Thanks to its innovative pH-reactive formula, this revolutionary product provides a personalized tint, perfectly tailored to complement every skin tone and type. Infused with nourishing Acai Berry and Hibiscus oil, it provides the utmost hydration, reviving dry and chapped lips while simultaneously giving your cheeks a naturally flushed look and a dewy radiance. Experience a dual-benefit with a sheer, glossy, mirror-like shine for your lips and a luminous, dewy glow for your cheeks. Discover the magic and transform your beauty routine!</p>
+<p>Shade Shifter Lip and Cheek Oil Midnight: a sparking new variant - Midnight 02 - a black cheek and lip oil that shifts to a custom berry-pink shade. This universally flattering, 2-in-1 multifunctional pH-powered lip &amp; cheek tint shifts like magic into a custom berry-pink shade, while drenching skin in lasting non-sticky, juicy colour and shine. Infused with Goji Berry and Blackberry, the Shade Shifter Midnight instantly nourishes, hydrates and soothes lips and gives a dewy, my-skin-but-better natural flush on the cheeks. Never heavy or sticky, this weightless formula borrows from the best of both gloss and balm worlds.</p>
+<p>Double Shot Liner + Kajal: two-in-one eyeliner, ingeniously designed to cater to your dynamic lifestyle and diverse beauty needs. This travel-friendly eyeliner is the epitome of durability, boasting a smudge-proof, waterproof formula that promises to stay put for up to 48 hours. It's the perfect companion for those seeking reliability and versatility in their makeup routine.</p>
+<p>On one end, it features a precision felt tip liner that allows for the creation of razor-sharp lines with effortless grace. On the opposite end, discover the luxury of a super-soft, creamy retractable kajal pencil. Ideal for crafting that sought-after smoky eye or achieving dramatic flair, our kajal eyeliner is as multifunctional as it gets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>eye liner</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Starlight - Clear with champagne glitter / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Sunset Glow - Coral with gold glitter / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Magenta Moon - Magenta with silver glitter / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Shade Shifter Phenomenal - Clear to a natural pink / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Shade Shifter Midnight - Black to a berry pink / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9250289877301</id>
+    <published>2024-03-20T12:30:22+05:30</published>
+    <updated>2024-03-20T12:30:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/twice-the-fun"/>
+    <title>Twice the Fun</title>
+    <s:type>Eye Pencil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Blue-bombsicle.jpg?v=1731301942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Eye Pencil<br>
+        <strong>Price: </strong>
+            950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Committing to colour has never been so easy.  </em></p>
+<p>Introducing our revolutionary 2-in-1 coloured eye pencil, a makeup essential that effortlessly combines versatility with a spectrum of complimentary, wearable colors in matte and metallic finish. Perfect for both makeup beginners and seasoned artists, this pencil is thoughtfully designed to simplify your beauty routine. </p>
+<p>The carefully curated color range focuses on harmonious shades, pre-matched for a foolproof application. Unlike the intimidation of liquid eyeliners or the complexity of eyeshadows, our pencil offers an approachable alternative, making eye makeup less daunting for all. This multitasking gem serves as an eyeliner, kajal, and eyeshadow, allowing you to achieve a full eye look with just one tool. </p>
+<p>With its smudge-friendly formula, you have ample playtime before it sets, giving you the flexibility to create the perfect look. The colors are MUA approved, adhering to color theory principles for a professional finish. </p>
+<p>From work meetings to coffee breaks and wedding guest looks, this 2-in-1 eye pencil adapts seamlessly to every occasion. Its creamy texture glides effortlessly, ensuring a smooth application without any tugging or pulling. Experience the luxury of crease-proof, smudge-proof color that stays vibrant all day, providing a flawless finish from dawn to dusk. </p>
+<p><strong>Why is it special:</strong></p>
+<p>• One pencil, three functions – eyeliner, kajal, and eyeshadow – offering a comprehensive solution for a full eye look in a single product.<br>• Beginner-friendly, pre-matched, complimentary colors in matte and metallic finish both in 1 pencil.<br>• Creamy texture glides smoothly for effortless application, without tugging or pulling.<br>• Crease-proof and smudge-proof, it offers a lightweight formula that stays vibrant throughout the day.<br>• Suitable for contact lens wearers.</p>
+<p><em>100% vegan &amp; Cruelty-free.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BOGO MSG</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>hello</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Eyeliner</s:tag>
+    <s:tag>VTO-Eyepencil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Wine and Dine 01 - Plum burgundy &amp; Shimmery maroon rust</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0017</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Blue Bombsicle 02 - Navy blue &amp; Shimmery aqua blue</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0018</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Mojito Crush 03 - Dark Forest green &amp; Silvery taupe</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0019</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Bubbling Beer 04 - Chocolate brown shade &amp; Coppery gold</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0020</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9250289877301</id>
+      <title>Coconut Rum 05 - Black &amp; Matte nude cream</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku>CCE-0021</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9050246021429</id>
+    <published>2024-01-15T11:59:05+05:30</published>
+    <updated>2024-01-15T11:59:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/fold-you-so"/>
+    <title>Eyebrow Pencil with Brush</title>
+    <s:type>Brow Pencil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Brows_1st_Image-Light_Brown.jpg?v=1743489670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Brow Pencil<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="" data-end="520" data-start="484"><strong data-end="520" data-start="484">Brows in your pocket. Literally.</strong></p>
+<p class="" data-end="596" data-start="522">This isn’t just a brow pencil. It’s your mini glam squad — folded in half.</p>
+<p class="" data-end="925" data-start="598">Introducing the <em data-end="637" data-start="614">Fold You So Slim Brow</em> — India’s first foldable, dual-ended brow pencil with a precision tip on one side and a dense spoolie on the other. Whether you’re between meetings or mid-air, this ultra-skinny Korean-made stick creates soft, hair-like strokes in seconds — and blends down to a natural, polished finish.</p>
+<p class="" data-end="969" data-start="927">It folds. It fills. It fits in your pouch.</p>
+<h3 data-start="976" data-end="1009" class="">✨ What makes it so damn good:</h3>
+<ul data-start="1010" data-end="1339">
+<li data-start="1010" data-end="1068" class="">
+<p data-start="1012" data-end="1068" class="">Glides on like a dream for <strong data-start="1039" data-end="1068">natural, buildable payoff</strong></p>
+</li>
+<li data-start="1069" data-end="1125" class="">
+<p data-start="1071" data-end="1125" class="">Tapered oval tip mimics hair strokes — no blocky edges</p>
+</li>
+<li data-start="1126" data-end="1174" class="">
+<p data-start="1128" data-end="1174" class=""><strong data-start="1128" data-end="1145">Dense spoolie</strong> shapes and blends like a pro</p>
+</li>
+<li data-start="1175" data-end="1248" class="">
+<p data-start="1177" data-end="1248" class=""><strong data-start="1177" data-end="1191">Folds down</strong> for easy travel, touch-ups, and clutch-friendly stashing</p>
+</li>
+<li data-start="1249" data-end="1295" class="">
+<p data-start="1251" data-end="1295" class=""><strong data-start="1251" data-end="1276">Available in 3 shades</strong> to match your vibe</p>
+</li>
+<li data-start="1296" data-end="1339" class="">
+<p data-start="1298" data-end="1339" class="">Made in Korea • 100% vegan &amp; cruelty-free</p>
+</li>
+</ul>
+<p><em>100% vegan &amp; Cruelty-free.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BOGO MSG</s:tag>
+    <s:tag>eyebrow</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9050246021429</id>
+      <title>Light Brown 01</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCE-0014</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9050246021429</id>
+      <title>Medium Brown 02</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCE-0015</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9050246021429</id>
+      <title>Dark Brown 03</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCE-0016</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/8066730426677</id>
+    <published>2023-01-07T11:22:37+05:30</published>
+    <updated>2023-01-07T11:22:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/drink-blink-mascara"/>
+    <title>Drink &amp; Blink Mascara</title>
+    <s:type>Mascara</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Curling-1st.jpg?v=1731318352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Mascara<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><i>Let your lashes do the talking!</i></p>
+<p><strong>Curling</strong><br>Welcome to the world of gravity-defying curls! Equal parts fun and sassy, this variant is equipped with a <b> bent brush head that reaches every last lash and will give you a lifted, fanned-out effect.</b></p>
+<p><strong>Volumizing</strong><br>This variant is <b>designed for drama, and has tons of oomph, and impressive definition.</b> The innovative <b>flexi-wand with comb-like bristles</b> to take care of sparse, wispy lashes and the<b> ball at the end to coat your lower lashes with minimal mess and zero clumping.<br></b><br><strong>Lengthening</strong><br>With the <b>lengthening variant,</b> go from nine to wine with this flutter-inducing mascara that has an innovative <b>hourglass brush</b> is covered with <b>comb-like bristles</b> to separate every single lash for maximum definition and a full bodied look that lasts.<br><br>The Drink and Blink Mascara collection has 3 variants for extreme length, major volume, and dramatic curling. Each mascara is designed like a wine bottle with a flexible silicone wand for easy application. Infused with nourishing <b>Jojoba Ester, </b>and a perfect <b>blend of Polymer and waxes </b>to prevent lash weigh-down.<br><br><strong>Why is it special</strong></p>
+<ul>
+<li>Long Wearing yet slides right off at the end of the day.</li>
+<li>Ultimate fake lash effect</li>
+<li>Ultra-buildable texture</li>
+<li>Even coverage from bottom to tip</li>
+<li>Flexible, silicon innovative brush heads</li>
+<li>Mess-free application with no clumping</li>
+</ul>
+<p class="mt-40"><i>100% Vegan, paraben, mineral oil, silicon and cruelty free</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>40%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Mascara</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>VTO-Mascara</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8066730426677</id>
+      <title>Curling</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0013</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8066730426677</id>
+      <title>Volumizing</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0012</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8066730426677</id>
+      <title>Lengthening</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0011</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/7976497905973</id>
+    <published>2022-10-30T21:16:19+05:30</published>
+    <updated>2022-10-30T21:16:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/magic-dust-foil-eyeshadow-frozen-fractals"/>
+    <title>Magic Dust Foil Eyeshadow</title>
+    <s:type>Magic Dust Foil Eyeshadow</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Twinkling_33301583-b34b-40ab-8c34-9c82959745db.jpg?v=1734087912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Magic Dust Foil Eyeshadow<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>One swipe and your eyeshadow look is done!</em></p>
+<p>The Magic Dust Foil Eyeshadow is a game-changer, specially for the festive and wedding season. These pots are filled with <strong>highly pigmented, pressed Pearl formulas</strong> that will take your eye makeup to the next level.</p>
+<p>Our creamy formula allows for easy blending, so you can achieve the perfect look every time. The build-up is smooth and seamless, resulting in a pigment-packed <strong>metallic foil finish</strong> that lasts all day with <strong>no fallout</strong>.</p>
+<p>Whether you're a professional makeup artist or just starting out, our Magic Dust Foil Eyeshadow Pots are easy to use and perfect for creating a variety of looks. From subtle daytime looks to bold evening looks, our pots have got you covered. Plus, our travel-friendly packaging makes it easy to take your Magic Dust Foil Eyeshadow Pots with you wherever you go.</p>
+<p><strong>Why is it special:</strong></p>
+<p>• Pressed Pearl Cream formula<br>• High shine &amp; Intense Pigment<br>• Strong adhesion - no creasing and no glitter fallout<br>• One Swipe application with buildable coverage<br>• Light weight &amp; Long stay formula<br>• Made in Korea</p>
+<p><em>100% Vegan, Paraben and Cruelty-free</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BOGO MSG</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>GOLD</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>VTO-Eyeshadow</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Frozen Fractals 01</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0010</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Wish Upon a Star 02</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0009</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Spellbound 03</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0008</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Twinkling Treasure 04</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0007</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7976497905973</id>
+      <title>Pot of Gold 05</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCE-0006</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/7101976019142</id>
+    <published>2021-11-25T12:51:15+05:30</published>
+    <updated>2021-11-25T12:51:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/typsy-beauty-what-the-faux-false-eyelashes-brunch-basics-by-kairavi"/>
+    <title>What The FAUX! False Eyelashes Brunch Basics By KAIRAVI</title>
+    <s:type>False Eyelashes</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Eye-Lashes-Brunch-Basics.jpg?v=1735825862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>False Eyelashes<br>
+        <strong>Price: </strong>
+            520.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><i>The only drama we like are in our lashes!</i></p>
+<p><span style="font-weight: 400;">Take your lashes to the next level with our<b> 100% vegan falsies</b> that are <b> full, fluttery, and bold</b> yet feel <b>comfortable &amp; gentle on your eyes.</b> Whether you're going for a natural daytime look or a dramatic evening look, our lashes will elevate your look to the next level of glam.</span></p>
+<p>Our falsies are designed to be <b>easy to apply</b>, so you can achieve the look you want in no time. Just glue and go! Our <b>lightweight lashes</b> are perfect for all-day wear and won't irritate your eyes, so you can look and feel your best all day long. Whether you're a makeup pro or a beginner, our falsies are perfect for adding volume and length to your lashes. </p>
+<p><b>Brunch Basics:</b> Medium volume, natural style lashes that add delicate length and drama for every eye shape.</p>
+<h6>Why is it special</h6>
+<ul>
+<li>Beginner-friendly, easy to use and suit all eye shapes and sizes</li>
+<li>Comfortable &amp; lightweight</li>
+<li>Durable, can be reused upto 24 times</li>
+<li>Made from cruelty-free synthetic silk</li>
+</ul>
+<p class="mt-40"><i><em>100% vegan &amp; cruelty-free</em></i> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>40%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>eye lashes</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>Influencer’s Fav</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>look 3</s:tag>
+    <s:tag>look 4</s:tag>
+    <s:tag>look 5</s:tag>
+    <s:tag>look 6</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7101976019142</id>
+      <title>Black</title>
+      <s:price currency="INR">520.00</s:price>
+      <s:sku>CCE-0005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/6841380765894</id>
+    <published>2021-08-11T17:45:33+05:30</published>
+    <updated>2021-08-11T17:45:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/double-shot-dual-eyeliner-01"/>
+    <title>Double Shot Kajal + Eyeliner</title>
+    <s:type>Double Shot Eyeliner</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st_89d1c340-3d1d-45ae-a45b-699755952ae3.jpg?v=1731322603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Double Shot Eyeliner<br>
+        <strong>Price: </strong>
+            760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Why settle for one when you can have both?</em></p>
+<p>Introducing our groundbreaking <strong>two-in-one</strong> eyeliner, ingeniously designed to cater to your dynamic lifestyle and diverse beauty needs. This <strong>travel-friendly</strong> eyeliner is the epitome of durability, boasting a <strong>smudge-proof, waterproof formula</strong> that promises to stay put for up to <strong>48 hours</strong>. It's the perfect companion for those seeking reliability and versatility in their makeup routine.</p>
+<p>On one end, it features a <strong>precision felt tip liner</strong> that allows for the creation of razor-sharp lines with effortless grace. On the opposite end, discover the luxury of a <strong>super-soft, creamy retractable</strong> kajal pencil. Ideal for crafting that sought-after smoky eye or achieving dramatic flair, our kajal eyeliner is as multifunctional as it gets.</p>
+<p>The Double Shot is the ultimate beauty hack for anyone looking to streamline their makeup collection without sacrificing performance. Whether you're constantly on the move, jet-setting around the globe, or simply in need of a swift beauty fix, our two-in-one eyeliner offers the perfect solution.</p>
+<p><strong>Why is it special:</strong></p>
+<p>• Intense black ultra-fine felt tip eyeliner<br>• Rich, creamy kajal glides easily<br>• Waterproof, sweat-proof, and smudge-proof for 24+ hours<br>• Intensely pigmented for rich colour payoff<br>• Ophthalmologically tested to ensure safety, even for sensitive eyes<br>• Long-lasting formula guarantees no flaking or fading throughout the day<br>• One stroke application<br>• Suitable for sensitive eyes</p>
+<p><em>100% Vegan, Paraben and Cruelty-free</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>eye liner</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>look 1</s:tag>
+    <s:tag>look 2</s:tag>
+    <s:tag>look 3</s:tag>
+    <s:tag>look 4</s:tag>
+    <s:tag>look 5</s:tag>
+    <s:tag>look 6</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>Selling Fast</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>VTO-Eyeliner</s:tag>
+    <s:tag>VTO-Kajal</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/6841380765894</id>
+      <title>Black</title>
+      <s:price currency="INR">760.00</s:price>
+      <s:sku>CCE-0003</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/6828398837958</id>
+    <published>2021-08-04T18:44:49+05:30</published>
+    <updated>2021-08-04T18:44:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/tipsy-beauty-what-the-faux-false-lashes-after-party-by-kairavi"/>
+    <title>What The FAUX! False Eyelashes After Party By KAIRAVI</title>
+    <s:type>False Eyelashes</s:type>
+    <s:vendor>Typsy Beauty Procurement Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Eye-Lashes-After-Party.jpg?v=1735825939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Pvt. Ltd.<br>
+        <strong>Type: </strong>False Eyelashes<br>
+        <strong>Price: </strong>
+            520.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><i>The only drama we like are in our lashes! </i></p><p>Take your lashes to the next level with our<b> 100% vegan falsies</b> that are <b>full, fluttery, and bold</b> yet feel <b>comfortable &amp; gentle on your eyes.</b> Whether you're going for a natural daytime look or a dramatic evening look, our lashes will elevate your look to the next level of glam.</p>
+   <p>Our falsies are designed to be <b>easy to apply</b>, so you can achieve the look you want in no time. Just glue and go! Our <b>lightweight lashes</b> are perfect for all-day wear and won't irritate your eyes, so you can look and feel your best all day long. Whether you're a makeup pro or a beginner, our falsies are perfect for adding volume and length to your lashes. </p>  <p><b>After Party:</b> High volume, lengthening lashes that accentuate a smoky eye or bold liner, providing ultimate drama and extreme length.</p>
+<h6>Why is it special</h6><ul>
+<li>Beginner-friendly, easy to use and suit all eye shapes and sizes</li>
+<li>Comfortable &amp; lightweight</li>
+<li>Durable, can be reused upto 24 times </li>
+<p class="mt-40"> <i> 100% and Cruelty  Free</i> </p>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>40%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>eye lashes</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>Influencer’s Fav</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>look 1</s:tag>
+    <s:tag>look 2</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>VTO-Eyelashes</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/6828398837958</id>
+      <title>Black</title>
+      <s:price currency="INR">520.00</s:price>
+      <s:sku>CCE-0004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

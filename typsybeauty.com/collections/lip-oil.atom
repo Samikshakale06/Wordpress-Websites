@@ -1,0 +1,2643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/lip-oil.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2025-06-01T00:09:10+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/10091285807413</id>
+    <published>2025-06-01T00:09:10+05:30</published>
+    <updated>2025-06-01T00:09:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/apple-martini-pout-polish-lip-treatment-balm"/>
+    <title>APPLE MARTINI POUT POLISH LIP TREATMENT BALM</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st-Image-Website_1.jpg?v=1748599342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the</span><span> <strong>Apple Martini Pout Polish Peptide Lip Treatment Balm</strong></span><span> – your newest obsession and the ultimate fusion of skincare and makeup. This innovative balm combines the hydration of a lip mask, the shine of a lip glaze, and the power of advanced skincare — all packed into one sleek tube.</span><b></b></p>
+<p dir="ltr"><strong>Scented like a refreshing apple martini</strong><span><strong>,</strong> this variant adds a playful twist to your routine. The balm starts off as a vibrant green but transforms into a unique pink tint upon contact with your lips, thanks to its pH-reactive formula. The result? A flattering, custom pink hue that stays put all day long — no touch-ups needed.</span><b></b></p>
+<p dir="ltr"><strong>Formulated in Italy</strong><span><strong>,</strong> it features highly targeted lip peptides that help reduce fine lines and wrinkles over time, while collagen boosts fullness and lip rejuvenation. Enriched with brightening ingredients, it’s also ideal for restoring natural lip color and treating darkened lips.</span></p>
+<p dir="ltr"><b id="docs-internal-guid-5699089a-7fff-f029-7a8a-0deaee00c9f8"></b>Our <strong>moisture-lock technology </strong>creates a protective barrier that keeps lips deeply hydrated for up to 8 hours, while the metal-tip applicator delivers a cooling experience with every swipe. Lightweight, non-sticky, and pocket-sized, it’s perfect for that juicy, high-shine glazed lip look — anytime, anywhere.<span></span></p>
+<p dir="ltr"><strong>What makes this lip balm so good?</strong></p>
+<ul>
+<li dir="ltr" role="presentation">
+<strong>pH-Activated Color Change:</strong><span><strong> </strong>Goes on green, turns into your perfect pink tint that lasts all day</span>
+</li>
+<li dir="ltr" role="presentation">
+<strong>Metal Tip Applicator: </strong><span>Gives a refreshing, cooling experience with every swipe</span>
+</li>
+<li dir="ltr" role="presentation">
+<span><strong>Triple Action Formula: </strong></span><span>Hydrates like a mask, shines like a glaze, nourishes like a treatment balm</span>
+</li>
+<li dir="ltr" role="presentation">
+<strong>Science-Backed Ingredients:</strong><span> Peptides and collagen hydrate, reduce fine lines, brighten dark lips, and adds plumping effect</span>
+</li>
+<li dir="ltr" role="presentation">
+<span><strong>Non - Sticky High Shine:</strong> </span><span>Leaves a juicy, radiant finish without any stickiness</span>
+</li>
+<li dir="ltr" role="presentation">
+<span><strong>Comfortable, Lightweight Formula:</strong> </span><span>Cushions lips in smooth, bouncy moisture that wears comfortable all day</span>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><strong>Dessert-Inspired Scent:</strong><span><strong> </strong>Smells just like a crisp, zesty apple martini for a truely indulgent experience</span></p>
+<span><b id="docs-internal-guid-b287432c-7fff-47e0-6694-d13a90d9839b"></b></span>
+</li>
+</ul>
+<p dir="ltr"><em><strong>100% Vegan &amp; Cruelty-free Net Weight: 8 gm</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10091285807413</id>
+      <title>Default Title</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>CCL-0061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10084742234421</id>
+    <published>2025-05-15T17:42:55+05:30</published>
+    <updated>2025-05-15T17:42:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/pout-polish-duo-day-to-night-lip-balms"/>
+    <title>Pout Polish Duo: Day to Night Lip Balms</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Pout-Polish-AM-PM-Revised.jpg?v=1748591466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the Pout Polish AM:PM Duo — your complete lip ritual, designed for effortless beauty and deep care from morning to night.</span><b></b></p>
+<p dir="ltr"><span>✨ <strong>AM Tinted Balm:</strong> Start your day with our tinted Pout Polish balm – a skincare-meets-makeup multitasker. It hydrates like a lip mask, adds shine like a gloss, and tints like a dream, giving you the perfect “skincare as makeup” finish. Think glazed lips with real benefits.</span><b></b></p>
+<p dir="ltr"><span>🌙 <strong>PM Clear Balm:</strong> End your day with our clear, untinted balm – a powerful overnight lip treatment that heals, soothes, and repairs while you sleep. Wake up to softer, plumper, and more rejuvenated lips every morning.</span><b></b></p>
+<p dir="ltr"><span>Both balms are powered by science-backed skincare actives like peptides and collagen, and infused with dessert-inspired scents that make every application a moment of joy.</span><span></span></p>
+<p dir="ltr"><strong>What makes it so goood:</strong><span><b></b></span></p>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>AM:PM Lip Routine:</strong> Tinted balm for daytime glow, untinted balm for overnight repair</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Metal Tip Applicator: </strong>Gives a refreshing, cooling experience with every swipe</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Triple Action Formula:</strong> Hydration of a lip mask, shine of a lip glaze, nourishment of a lip treatment balm</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Science-Backed Ingredients:</strong> Peptides and collagen hydrate, smooth fine lines, and plump lips over time</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Non-Sticky High Shine:</strong> Delivers a radiant, glazed finish without any stickiness</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Comfortable, Lightweight Formula:</strong> Wraps lips in non-greasy, bouncy moisture</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Moisture Lock Technology:</strong> Provides up to 8 hours of hydration and comfort</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Dessert-Inspired Scents:</strong> Each balm features indulgent dessert-like fragrances for a sensory treat</span></p>
+</li>
+</ul>
+<p dir="ltr"><em>100% Vegan &amp; Cruelty-free. Dermatologically Tested</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>value-sets</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery Pink / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Chocolate Fondant - Decadent Chocolate / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Caramel Toffee - Nude Brown / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Raspberry Lollipop - Juicy Berry / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0464</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Apple Martini / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077090611509</id>
+    <published>2025-05-05T17:03:27+05:30</published>
+    <updated>2025-05-05T17:03:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/lip-treatment-balm-double-shot-kajal-eyeliner"/>
+    <title>Lip Treatment Balm + Double Shot Kajal + Eyeliner</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Peptide_-08.jpg?v=1746434716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery Pink / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Raspberry Lollipop - Juicy Berry / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Caramel Toffee - Nude Brown / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Coconut Crumble - Clear Non tinted / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0848</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Chocolate Fondant - Decadent Chocolate / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0852</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Apple Martini / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077085040949</id>
+    <published>2025-05-05T17:03:24+05:30</published>
+    <updated>2025-05-05T17:03:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/magic-dust-eye-shadow-lip-shots"/>
+    <title>Magic Dust Eye Shadow + Lip Shots</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Lip-Shots_Magic-Dust.jpg?v=1746443421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            1349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to Lip Shots – your mini lipstick must-haves!</span></p>
+<p dir="ltr"><span>Featuring 4 bestselling ON &amp; OFF shades, these 1.2ml minis deliver intense, weightless color with 12-hour smudge-proof wear.</span></p>
+<p dir="ltr"><span>Why you’ll love them:</span></p>
+<p dir="ltr"><span>Liquid matte with one-swipe pigment</span></p>
+<p dir="ltr"><span>Blurs lines with a soft-focus finish</span></p>
+<p dir="ltr"><span>Packed with Raspberry Stem Cells, Cocoa Butter &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Non-drying, velvety formula that stays comfy</span></p>
+<p dir="ltr"><span>Mini, mess-free &amp; made for on-the-go</span></p>
+<p dir="ltr"><span>Mask-proof, kiss-proof, food-proof</span></p>
+<p dir="ltr"><span>Big color. Tiny tube. All the impact.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>APR5SHIP</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>Viral product</s:tag>
+    <s:tag>VTo-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:tag>VTO-Lipstick</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085040949</id>
+      <title>Pot of Gold / Lip Shots</title>
+      <s:price currency="INR">1349.00</s:price>
+      <s:sku>CCC-0936</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085040949</id>
+      <title>Twinkling Treasure / Lip Shots</title>
+      <s:price currency="INR">1349.00</s:price>
+      <s:sku>CCC-0937</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085040949</id>
+      <title>Spell Bound / Lip Shots</title>
+      <s:price currency="INR">1349.00</s:price>
+      <s:sku>CCC-0938</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085040949</id>
+      <title>Wish upon a star / Lip Shots</title>
+      <s:price currency="INR">1349.00</s:price>
+      <s:sku>CCC-0939</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085040949</id>
+      <title>Frozen fractals / Lip Shots</title>
+      <s:price currency="INR">1349.00</s:price>
+      <s:sku>CCC-0940</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077082550581</id>
+    <published>2025-05-05T17:03:23+05:30</published>
+    <updated>2025-05-05T17:03:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-adaptive-lip-oil-lip-shots"/>
+    <title>PH Lip Oil + Lip Shots</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Lip-Shots_Lip-Oil.jpg?v=1746443083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing our pH-Reactive Lip &amp; Cheek Oil – your glow, your way.</span></p>
+<p dir="ltr"><span>This color-changing multitasker adapts to your unique pH for a custom tint that flatters every skin tone. Infused with Acai Berry, Maracuja, and Hibiscus oils, it hydrates, soothes, and adds a radiant, dewy finish to lips and cheeks.</span></p>
+<p dir="ltr"><span>Why it’s a game-changer:</span></p>
+<p dir="ltr"><span>pH-reactive formula for a personalized flush</span></p>
+<p dir="ltr"><span>Glossy lip shine + dewy cheek glow</span></p>
+<p dir="ltr"><span>Ultra-hydrating with skin-loving oils</span></p>
+<p dir="ltr"><span>Lightweight, sheer &amp; non-sticky</span></p>
+<p dir="ltr"><span>Universal tint for all skin tones</span></p>
+<p dir="ltr"><span>Dermatologically tested</span></p>
+<p dir="ltr"><span>One product. Endless glow.</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Say hello to Lip Shots – your mini lipstick must-haves!</span></p>
+<p dir="ltr"><span>Featuring 4 bestselling ON &amp; OFF shades, these 1.2ml minis deliver intense, weightless color with 12-hour smudge-proof wear.</span></p>
+<p dir="ltr"><span>Why you’ll love them:</span></p>
+<p dir="ltr"><span>Liquid matte with one-swipe pigment</span></p>
+<p dir="ltr"><span>Blurs lines with a soft-focus finish</span></p>
+<p dir="ltr"><span>Packed with Raspberry Stem Cells, Cocoa Butter &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Non-drying, velvety formula that stays comfy</span></p>
+<p dir="ltr"><span>Mini, mess-free &amp; made for on-the-go</span></p>
+<p dir="ltr"><span>Mask-proof, kiss-proof, food-proof</span></p>
+<p dir="ltr"><span>Big color. Tiny tube. All the impact.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>APR5SHIP</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>value-sets</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>Viral product</s:tag>
+    <s:tag>VTo-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:tag>VTO-Lipstick</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077082550581</id>
+      <title>PH-ENOMENAL 01 / Lip Shots</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0935</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9122359378229</id>
+    <published>2025-04-28T00:05:22+05:30</published>
+    <updated>2025-04-28T00:05:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/lip-cheek-oil-mini-lipstick-combo"/>
+    <title>Lip &amp; Cheek Oil + Mini Lipstick Combo</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_All.jpg?v=1707821204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            1231.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>A combo containing our bestseller Shade Shifter Ph-Enomenal lip and cheek oil and our Happy Hour Mini Lipstick in the shade of your choice</p>
+<p>Shade Shifter: An innovative pH-reactive formula, this revolutionary product provides a personalized tint, perfectly tailored to complement every skin tone and type. Infused with nourishing Acai Berry and Hibiscus oil, it provides the utmost hydration, reviving dry and chapped lips while simultaneously giving your cheeks a naturally flushed look and a dewy radiance.</p>
+<p><a href="https://typsybeauty.com/products/happy-hour-mini-lipstick" target="_blank" title="Happy Hour Mini Lipstick" rel="noopener">Happy Hour Mini Lipstick</a>; the Happy Hour lipsticks feature a pigmented formula that delivers a rich colour payoff in a single swipe. A special blend of waxes maintains the rich color while making this lipstick glide over the contours of your lips, with no bleeding outside the lip line. The weightless matte lipsticks are super comfortable and make for the perfect companion for any occasion thanks to its size - it’s extremely easy to carry and fits into even the smallest of clutches.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Red Red Wine / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0215</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Spice Girl / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0216</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Bubblegum Pop / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0217</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Raspberry Rush / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0218</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Caramel Kiss / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0219</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Honey Boo / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0220</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Love You S&apos;more / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0221</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Hot Chocolate Fudge / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0222</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122359378229</id>
+      <title>Rose Sorbet / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1231.00</s:price>
+      <s:sku>CCC-0223</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9853390192949</id>
+    <published>2025-04-28T00:05:19+05:30</published>
+    <updated>2025-04-28T00:05:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/beauty-best-sellers-make-up-set"/>
+    <title>Beauty Best Sellers Make Up Set</title>
+    <s:type>Makeup Combo</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1ST.jpg?v=1728646825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Makeup Combo<br>
+        <strong>Price: </strong>
+            1949.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW217452722 BCX0">
+<p class="Paragraph SCXW217452722 BCX0" paraeid="{205d63e2-8e68-4f4d-b9d6-2c38730023ec}{249}" paraid="749748262"><span class="TextRun SCXW217452722 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SpellingErrorV2Themed SCXW217452722 BCX0">Typsy</span><span class="NormalTextRun SCXW217452722 BCX0"> Beauty’s Beauty Bestsellers set, includes our trendsetting pH-activated Lip &amp; Cheek oil along with our iconic Silk Cushion Blush-</span><span class="NormalTextRun SpellingErrorV2Themed SCXW217452722 BCX0">liter</span><span class="NormalTextRun SCXW217452722 BCX0"> wand. Look flawless with our most iconic products in a single set. Save more when you buy sets. </span></span><span data-ccp-props="{}" class="EOP SCXW217452722 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW217452722 BCX0">
+<p class="Paragraph SCXW217452722 BCX0" paraeid="{646475b8-4c9a-4a0d-ba4a-7054ff66fe43}{10}" paraid="10073867"><span class="TextRun SCXW217452722 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SCXW217452722 BCX0">The set contents:</span></span><span data-ccp-props="{}" class="EOP SCXW217452722 BCX0"> </span></p>
+</div>
+<div class="ListContainerWrapper SCXW217452722 BCX0">
+<ul role="list" class="BulletListStyle1 SCXW217452722 BCX0">
+<li class="OutlineElement Ltr SCXW217452722 BCX0" role="listitem" data-aria-level="1" data-aria-posinset="1" aria-setsize="-1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' data-listid="1" data-font="Symbol" data-leveltext="">
+<p class="Paragraph SCXW217452722 BCX0" paraeid="{646475b8-4c9a-4a0d-ba4a-7054ff66fe43}{16}" paraid="501869450"><span class="TextRun SCXW217452722 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SCXW217452722 BCX0">Shade Shifter Lip &amp; Cheek Oil, pH-</span><span class="NormalTextRun SpellingErrorV2Themed SCXW217452722 BCX0">enomenal</span><span class="NormalTextRun SCXW217452722 BCX0"> 01 (6.4g): </span><span class="NormalTextRun SCXW217452722 BCX0">A groundbreaking </span><span class="NormalTextRun SpellingErrorV2Themed SCXW217452722 BCX0">color</span><span class="NormalTextRun SCXW217452722 BCX0">-changing lip and cheek oil, that magically changes colour from clear to pink, thanks to </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW217452722 BCX0">it’s</span><span class="NormalTextRun SCXW217452722 BCX0"> innovative pH-reactive formula</span><span class="NormalTextRun SCXW217452722 BCX0">. </span><span class="NormalTextRun SCXW217452722 BCX0">Infused with nourishing Acai Berry and Hibiscus oil, it provides hydration, </span><span class="NormalTextRun SCXW217452722 BCX0">to lips while giving</span><span class="NormalTextRun SCXW217452722 BCX0"> cheeks a naturally flushed</span><span class="NormalTextRun SCXW217452722 BCX0"> &amp; dewy</span><span class="NormalTextRun SCXW217452722 BCX0"> </span><span class="NormalTextRun SCXW217452722 BCX0">radiance.</span></span><span data-ccp-props="{}" class="EOP SCXW217452722 BCX0"> </span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW217452722 BCX0">
+<ul role="list" class="BulletListStyle1 SCXW217452722 BCX0">
+<li class="OutlineElement Ltr SCXW217452722 BCX0" role="listitem" data-aria-level="1" data-aria-posinset="2" aria-setsize="-1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' data-listid="1" data-font="Symbol" data-leveltext="">
+<p class="Paragraph SCXW217452722 BCX0" paraeid="{646475b8-4c9a-4a0d-ba4a-7054ff66fe43}{50}" paraid="873595285"><span class="TextRun SCXW217452722 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SCXW217452722 BCX0">Silk Cushion Blush, Strawberry Champagne 01 (5ml): </span><span class="NormalTextRun SCXW217452722 BCX0">A buildable, </span><span class="NormalTextRun SpellingErrorV2Themed SCXW217452722 BCX0">blendable</span><span class="NormalTextRun SCXW217452722 BCX0"> cream-liquid blush-</span><span class="NormalTextRun SpellingErrorV2Themed SCXW217452722 BCX0">liter</span><span class="NormalTextRun SCXW217452722 BCX0">, with a convenient, easy-to-use viral cushion-tip applicator for precise application</span><span class="NormalTextRun SCXW217452722 BCX0"> and silky texture. </span><span class="NormalTextRun SCXW217452722 BCX0">Just dot and blend th</span><span class="NormalTextRun SCXW217452722 BCX0">is </span><span class="NormalTextRun SCXW217452722 BCX0">lightweight pigment-packed blush onto cheeks for lasting radiance.</span></span></p>
+</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>bundle</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9853390192949</id>
+      <title>Combo Set</title>
+      <s:price currency="INR">1949.00</s:price>
+      <s:sku>CCG-0011</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9519579038005</id>
+    <published>2025-04-28T00:05:14+05:30</published>
+    <updated>2025-04-28T00:05:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/shade-shifter-lip-oil-combo"/>
+    <title>Shade Shifter Lip Oil Combo</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_1_59d50616-b061-4f1f-b6ba-ea33a99b2477.jpg?v=1715698158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combo containing any 2 shades from the Shade Shifter Collection</p>
+<p>Shade Shifter Sparkle: A range of glitter pH reactive lip oils from the iconic Shade Shifter collection. It delivers the same colour-changing, long lasting tint, but with a dazzling sparkle. Available in 3 juicy shades, this ultra hydrating formula glimmers with glitter particles to unveil smooth, high-shine, irresistible lips. Our iconic doe-foot applicator hugs lips for easy glide- on application that leaves lips feeling cocooned with vibrant shine. Experience a 99% natural formula powered by Rosehip &amp; Jojoba Oil, Shea Butter and Peach Extract for more hydration and collagen boost.</p>
+<p>Shade Shifter Lip and Cheek Oil Ph-enomenal 01: color-changing lip and cheek oil, a marvel in the realm of custom cosmetics. Thanks to its innovative pH-reactive formula, this revolutionary product provides a personalized tint, perfectly tailored to complement every skin tone and type. Infused with nourishing Acai Berry and Hibiscus oil, it provides the utmost hydration, reviving dry and chapped lips while simultaneously giving your cheeks a naturally flushed look and a dewy radiance. Experience a dual-benefit with a sheer, glossy, mirror-like shine for your lips and a luminous, dewy glow for your cheeks. Discover the magic and transform your beauty routine!</p>
+<p>Shade Shifter Lip and Cheek Oil Midnight: a sparking new variant - Midnight 02 - a black cheek and lip oil that shifts to a custom berry-pink shade. This universally flattering, 2-in-1 multifunctional pH-powered lip &amp; cheek tint shifts like magic into a custom berry-pink shade, while drenching skin in lasting non-sticky, juicy colour and shine. Infused with Goji Berry and Blackberry, the Shade Shifter Midnight instantly nourishes, hydrates and soothes lips and gives a dewy, my-skin-but-better natural flush on the cheeks. Never heavy or sticky, this weightless formula borrows from the best of both gloss and balm worlds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Starlight - Clear with champagne glitter / Starlight - Clear with champagne glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Starlight - Clear with champagne glitter / Sunset Glow - Coral with gold glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0329</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Starlight - Clear with champagne glitter / Magenta Moon - Magenta with silver glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Starlight - Clear with champagne glitter / Shade Shifter Phenomenal - Clear to a natural pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Starlight - Clear with champagne glitter / Shade Shifter Midnight - Black to a berry pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Sunset Glow - Coral with gold glitter / Starlight - Clear with champagne glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Sunset Glow - Coral with gold glitter / Sunset Glow - Coral with gold glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Sunset Glow - Coral with gold glitter / Magenta Moon - Magenta with silver glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0335</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Sunset Glow - Coral with gold glitter / Shade Shifter Phenomenal - Clear to a natural pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0336</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Sunset Glow - Coral with gold glitter / Shade Shifter Midnight - Black to a berry pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0337</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Magenta Moon - Magenta with silver glitter / Starlight - Clear with champagne glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0338</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Magenta Moon - Magenta with silver glitter / Sunset Glow - Coral with gold glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0339</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Magenta Moon - Magenta with silver glitter / Magenta Moon - Magenta with silver glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0340</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Magenta Moon - Magenta with silver glitter / Shade Shifter Phenomenal - Clear to a natural pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0341</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Magenta Moon - Magenta with silver glitter / Shade Shifter Midnight - Black to a berry pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Phenomenal - Clear to a natural pink / Starlight - Clear with champagne glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0343</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Phenomenal - Clear to a natural pink / Sunset Glow - Coral with gold glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0344</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Phenomenal - Clear to a natural pink / Magenta Moon - Magenta with silver glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Phenomenal - Clear to a natural pink / Shade Shifter Phenomenal - Clear to a natural pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0346</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Phenomenal - Clear to a natural pink / Shade Shifter Midnight - Black to a berry pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Midnight - Black to a berry pink / Starlight - Clear with champagne glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Midnight - Black to a berry pink / Sunset Glow - Coral with gold glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Midnight - Black to a berry pink / Magenta Moon - Magenta with silver glitter</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Midnight - Black to a berry pink / Shade Shifter Phenomenal - Clear to a natural pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0351</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519579038005</id>
+      <title>Shade Shifter Midnight - Black to a berry pink / Shade Shifter Midnight - Black to a berry pink</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku>CCC-0352</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9122782773557</id>
+    <published>2025-04-28T00:05:13+05:30</published>
+    <updated>2025-04-28T00:05:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/lip-cheek-oil-twist-pout"/>
+    <title>Lip &amp; Cheek Oil + Twist &amp; Pout</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_All_51387161-af02-43cc-ae0a-665c6a66de9d.jpg?v=1707836110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            1868.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A combo containing our bestseller Shade Shifter Ph-Enomenal lip and cheek oil and our Twist and Pout Lipstick + Liner in the shade of your choice</p>
+<p>Shade Shifter: An innovative pH-reactive formula, this revolutionary product provides a personalized tint, perfectly tailored to complement every skin tone and type. Infused with nourishing Acai Berry and Hibiscus oil, it provides the utmost hydration, reviving dry and chapped lips while simultaneously giving your cheeks a naturally flushed look and a dewy radiance. </p>
+<p>Twist and Pout: An innovative 2-in-1 lipstick and lip liner duo! Engineered for rich color and a lasting velvety matte finish, this Korean-made pair is expertly matched to ensure a seamless, beautiful look that endures all day and night. The unique water-drop shaped lipstick effortlessly contours to the natural curvature of your lips, while the lip liner comes in 2 shades darker for perfect contouring.</p>
+<p>With a selection of 8 deeply pigmented lipstick shades, each carefully formulated for Indian skin tones, finding your true match has never been easier.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122782773557</id>
+      <title>Lips Don&apos;t Lie 01 / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1868.00</s:price>
+      <s:sku>CCC-0231</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122782773557</id>
+      <title>Candy Crushin&apos; 02 / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1868.00</s:price>
+      <s:sku>CCC-0232</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122782773557</id>
+      <title>Spills Tea 03 / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1868.00</s:price>
+      <s:sku>CCC-0233</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122782773557</id>
+      <title>Nude-Tella 04 / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1868.00</s:price>
+      <s:sku>CCC-0234</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122782773557</id>
+      <title>Flaming Hot 05 / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1868.00</s:price>
+      <s:sku>CCC-0235</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122782773557</id>
+      <title>On Wednesdays 06 / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1868.00</s:price>
+      <s:sku>CCC-0236</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122782773557</id>
+      <title>Fresh Princess 07 / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1868.00</s:price>
+      <s:sku>CCC-0237</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122782773557</id>
+      <title>Left On Red 08 / Lip &amp; Cheek Oil</title>
+      <s:price currency="INR">1868.00</s:price>
+      <s:sku>CCC-0238</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9519174189365</id>
+    <published>2025-04-28T00:05:12+05:30</published>
+    <updated>2025-04-28T00:05:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/everyday-combo-liner"/>
+    <title>Everyday Combo | Lip Oil + kajal/Liner</title>
+    <s:type>Makeup Combo</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_78445788-e95c-4db9-87c9-118227bd8930.jpg?v=1715693472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Makeup Combo<br>
+        <strong>Price: </strong>
+            1741.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combo containing the Double Shot Liner + Kajal and any shade of the lip oil from the Shade Shifter Collection</p>
+<p>Shade Shifter Sparkle: A range of glitter pH reactive lip oils from the iconic Shade Shifter collection. It delivers the same colour-changing, long lasting tint, but with a dazzling sparkle. Available in 3 juicy shades, this ultra hydrating formula glimmers with glitter particles to unveil smooth, high-shine, irresistible lips. Our iconic doe-foot applicator hugs lips for easy glide- on application that leaves lips feeling cocooned with vibrant shine. Experience a 99% natural formula powered by Rosehip &amp; Jojoba Oil, Shea Butter and Peach Extract for more hydration and collagen boost.</p>
+<p>Shade Shifter Lip and Cheek Oil Ph-enomenal 01: color-changing lip and cheek oil, a marvel in the realm of custom cosmetics. Thanks to its innovative pH-reactive formula, this revolutionary product provides a personalized tint, perfectly tailored to complement every skin tone and type. Infused with nourishing Acai Berry and Hibiscus oil, it provides the utmost hydration, reviving dry and chapped lips while simultaneously giving your cheeks a naturally flushed look and a dewy radiance. Experience a dual-benefit with a sheer, glossy, mirror-like shine for your lips and a luminous, dewy glow for your cheeks. Discover the magic and transform your beauty routine!</p>
+<p>Shade Shifter Lip and Cheek Oil Midnight: a sparking new variant - Midnight 02 - a black cheek and lip oil that shifts to a custom berry-pink shade. This universally flattering, 2-in-1 multifunctional pH-powered lip &amp; cheek tint shifts like magic into a custom berry-pink shade, while drenching skin in lasting non-sticky, juicy colour and shine. Infused with Goji Berry and Blackberry, the Shade Shifter Midnight instantly nourishes, hydrates and soothes lips and gives a dewy, my-skin-but-better natural flush on the cheeks. Never heavy or sticky, this weightless formula borrows from the best of both gloss and balm worlds.</p>
+<p>Double Shot Liner + Kajal: two-in-one eyeliner, ingeniously designed to cater to your dynamic lifestyle and diverse beauty needs. This travel-friendly eyeliner is the epitome of durability, boasting a smudge-proof, waterproof formula that promises to stay put for up to 48 hours. It's the perfect companion for those seeking reliability and versatility in their makeup routine.</p>
+<p>On one end, it features a precision felt tip liner that allows for the creation of razor-sharp lines with effortless grace. On the opposite end, discover the luxury of a super-soft, creamy retractable kajal pencil. Ideal for crafting that sought-after smoky eye or achieving dramatic flair, our kajal eyeliner is as multifunctional as it gets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>eye liner</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Starlight - Clear with champagne glitter / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Sunset Glow - Coral with gold glitter / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0324</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Magenta Moon - Magenta with silver glitter / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Shade Shifter Phenomenal - Clear to a natural pink / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9519174189365</id>
+      <title>Shade Shifter Midnight - Black to a berry pink / Double Shot</title>
+      <s:price currency="INR">1741.00</s:price>
+      <s:sku>CCC-0327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9853412868405</id>
+    <published>2025-04-28T00:05:11+05:30</published>
+    <updated>2025-04-28T00:05:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/plump-shine-lip-kit-duo"/>
+    <title>Plump &amp; Shine – Lip Kit Duo</title>
+    <s:type>Glossified</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/4TH.jpg?v=1728650617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Glossified<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW194578517 BCX0">
+<p class="Paragraph SCXW194578517 BCX0" paraeid="{67f04901-53fa-4139-9943-89b485b692a5}{100}" paraid="248426051"><span class="TextRun SCXW194578517 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SCXW194578517 BCX0">A twin set of </span><span class="NormalTextRun SpellingErrorV2Themed SCXW194578517 BCX0">Typsy</span><span class="NormalTextRun SCXW194578517 BCX0"> Beauty’s most premium melting glosses, the made in Korea formula with soft fondue texture glides onto lips effortlessly while plumping the </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW194578517 BCX0">lips, and</span><span class="NormalTextRun SCXW194578517 BCX0"> filling in lines to give you model</span><span class="NormalTextRun SCXW194578517 BCX0">-</span><span class="NormalTextRun SCXW194578517 BCX0">worthy</span><span class="NormalTextRun SCXW194578517 BCX0"> </span><span class="NormalTextRun SCXW194578517 BCX0">fuller </span><span class="NormalTextRun SCXW194578517 BCX0">lips with </span><span class="NormalTextRun SCXW194578517 BCX0">mirror</span><span class="NormalTextRun SCXW194578517 BCX0">-like shine.</span></span><span data-ccp-props="{}" class="EOP SCXW194578517 BCX0"> </span></p>
+</div>
+<div class="SCXW194578517 BCX0">
+<div class="OutlineElement Ltr SCXW194578517 BCX0">
+<p class="Paragraph SCXW194578517 BCX0" paraeid="{67f04901-53fa-4139-9943-89b485b692a5}{128}" paraid="1451078514"><span class="TextRun SCXW194578517 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SCXW194578517 BCX0">The set contents: </span></span><span data-ccp-props="{}" class="EOP SCXW194578517 BCX0"> </span></p>
+</div>
+<div class="ListContainerWrapper SCXW194578517 BCX0">
+<ul role="list" class="BulletListStyle1 SCXW194578517 BCX0">
+<li class="OutlineElement Ltr SCXW194578517 BCX0" role="listitem" data-aria-level="1" data-aria-posinset="9" aria-setsize="-1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' data-listid="1" data-font="Symbol" data-leveltext="">
+<p class="Paragraph SCXW194578517 BCX0" paraeid="{67f04901-53fa-4139-9943-89b485b692a5}{134}" paraid="1495796348"><span class="TextRun SCXW194578517 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SpellingErrorV2Themed SCXW194578517 BCX0">Glossified</span><span class="NormalTextRun SCXW194578517 BCX0"> Lip Plumper, Cherry Blossom 01 (2.7g):</span><span class="NormalTextRun SCXW194578517 BCX0"> </span><span class="NormalTextRun SCXW194578517 BCX0">Inspired by the famous Cherry Blossoms of </span><span class="NormalTextRun SCXW194578517 BCX0">K</span><span class="NormalTextRun SCXW194578517 BCX0">orea, this pink shimmer shade flatters all </span><span class="NormalTextRun SpellingErrorV2Themed SCXW194578517 BCX0">skintones</span><span class="NormalTextRun SCXW194578517 BCX0">. Swipe onto lips once for a sheer gloss look or build with two or three swipes for a </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW194578517 BCX0">deeper,  pigmented</span><span class="NormalTextRun SCXW194578517 BCX0"> look. </span></span><span data-ccp-props="{}" class="EOP SCXW194578517 BCX0"> </span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW194578517 BCX0">
+<ul role="list" class="BulletListStyle1 SCXW194578517 BCX0">
+<li class="OutlineElement Ltr SCXW194578517 BCX0" role="listitem" data-aria-level="1" data-aria-posinset="10" aria-setsize="-1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' data-listid="1" data-font="Symbol" data-leveltext="">
+<p class="Paragraph SCXW194578517 BCX0" paraeid="{67f04901-53fa-4139-9943-89b485b692a5}{158}" paraid="1291564907"><span class="TextRun SCXW194578517 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SCXW194578517 BCX0">Lip Plumper, Bubble Tea 03 (2.7g): </span><span class="NormalTextRun SCXW194578517 BCX0">A nod to the bubble tea culture that originated in Korea, this nude brown shade is ideal for Indian </span><span class="NormalTextRun SpellingErrorV2Themed SCXW194578517 BCX0">skintones</span><span class="NormalTextRun SCXW194578517 BCX0">. Swipe onto lips once for a sheer gloss look or build with two or three swipes for a </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW194578517 BCX0">deeper,  pigmented</span><span class="NormalTextRun SCXW194578517 BCX0"> look.</span></span></p>
+</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9853412868405</id>
+      <title>Combo Kit</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCG-0016</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9924607246645</id>
+    <published>2024-12-30T16:41:38+05:30</published>
+    <updated>2024-12-30T16:41:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/pout-polish-lip-treatment-happy-hour-mini-lippies-combo"/>
+    <title>Pout Polish Lip Treatment + Happy Hour Mini Lippies Combo</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_0770cc74-7e39-49a8-9186-4f88a27f749f.jpg?v=1734600536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW51252825 BCX0">
+<p class="Paragraph SCXW51252825 BCX0"><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle-defn='{"ObjectId":"6e8d1604-4ce3-4277-8abb-c754297646b2|28","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"22",469775450,"normaltextrun",201340122,"1",134233614,"true",469778129,"normaltextrun",335572020,"1",469778324,"Default Paragraph Font"]}' data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW51252825 BCX0">A combo </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW51252825 BCX0">containing</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW51252825 BCX0"> our </span></span><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><strong><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW51252825 BCX0">Pout Polish Lip Treatment</span></strong><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW51252825 BCX0"> </span></span><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW51252825 BCX0">and <span data-contrast="none" lang="EN-IN" class="TextRun SCXW262014385 BCX0"><span class="NormalTextRun SCXW262014385 BCX0" data-ccp-charstyle="normaltextrun">Happy Hour </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW262014385 BCX0"><span class="NormalTextRun SCXW262014385 BCX0" data-ccp-charstyle="normaltextrun">Mini Lipsticks </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW262014385 BCX0"><span class="NormalTextRun SCXW262014385 BCX0" data-ccp-charstyle="normaltextrun">in the shade of your choice.</span></span><span class="EOP SCXW262014385 BCX0" data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}'> </span></span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW51252825 BCX0">
+<p class="Paragraph SCXW51252825 BCX0"><strong><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">Pout Polish Lip Treatment:</span></span><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW51252825 BCX0"> </span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW51252825 BCX0">
+<p class="Paragraph SCXW51252825 BCX0"><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">Pout Polish is your ultimate lip multitasker, combining the </span></span><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0"><strong>hydration of a mask, the shine of a glaze</strong>, </span></span><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">and </span></span><strong><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">the nourishment of a treatment balm</span></span></strong><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">. Formulated in Italy with science-backed ingredients like </span></span><strong><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">peptides and collagen</span></span></strong><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">, it visibly reduces fine lines, plumps the lips, and locks in moisture for up to 8 hours.</span></span><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW51252825 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW51252825 BCX0">
+<p class="Paragraph SCXW51252825 BCX0"><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">Each shade, inspired by dessert-like scents, delivers a delightful experience, while the innovative </span></span><strong><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">cooling metal-tip applicator </span></span></strong><span class="TextRun SCXW51252825 BCX0" lang="EN-IN" data-contrast="none"><span class="NormalTextRun SCXW51252825 BCX0">ensures smooth, refreshing application every time. The lightweight, non-sticky formula cocoons your lips in comfort, leaving them looking radiant and feeling deeply hydrated.</span></span><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW51252825 BCX0"></span></p>
+<p class="Paragraph SCXW51252825 BCX0"> </p>
+</div>
+<div class="OutlineElement Ltr SCXW51252825 BCX0">
+<div class="OutlineElement Ltr SCXW122912032 BCX0">
+<p class="Paragraph SCXW122912032 BCX0"><strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle-defn='{"ObjectId":"028e6f9f-d4ec-4687-a88b-5bd35673dd14|62","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"24",469775450,"paragraph",201340122,"2",134233614,"true",469778129,"paragraph",335572020,"1",335559705,"16393",335559740,"240",201341983,"0",134233118,"true",134233117,"true",469778324,"Normal"]}' data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">Happy Hour Mini </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SpellingErrorV2Themed SCXW122912032 BCX0">Lippies</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">:</span></span></strong><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335551550":1,"335551620":1,"335559685":0,"335559737":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW122912032 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW122912032 BCX0">
+<p class="Paragraph SCXW122912032 BCX0"><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">Our Happy Hour Mini Lipsticks are your ultimate </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">travel-friendly</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"> </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">lip companions. </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">With </span></span><strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">8 flake-proof, budge-proof shades</span></span></strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">, this </span></span><strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">soft, hydrating matte formula </span></span></strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">is comfortable for all-day and all-night wear. Designed for </span></span><strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">single-swipe payoff</span></span></strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">, these </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SpellingErrorV2Themed SCXW122912032 BCX0">lippies</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"> glide effortlessly over your lips, delivering rich, long-lasting colour that stays put without bleeding. </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW122912032 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW122912032 BCX0">
+<p class="Paragraph SCXW122912032 BCX0"><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">Encased in luxe, </span></span><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"><strong>travel-sized</strong> </span></span><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">packaging, </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">they’re</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"> perfect for touch-ups on the go and small enough to fit even in the tiniest clutches. Whether </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">it’s</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"> a brunch date or a cocktail party, the Happy Hour Mini Lipsticks are here to elevate your lip game effortlessly!</span></span><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW122912032 BCX0"> </span></p>
+</div>
+</div>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery pink with a sweet strawberry scent / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0490</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery pink with a sweet strawberry scent / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0491</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery pink with a sweet strawberry scent / Honey Boo - A warm pinky nude for a natural look.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0492</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery pink with a sweet strawberry scent / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery pink with a sweet strawberry scent / Rose Sorbet - A dusty rose with subtle warmth.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0494</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery pink with a sweet strawberry scent / Bubblegum Pop - A soft mauve pink.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery pink with a sweet strawberry scent / Mulberry Mauve - A muted mauve pink shade.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery pink with a sweet strawberry scent / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0497</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Raspberry Lollipop - Deep berry balm with candy like berry scent / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0498</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Raspberry Lollipop - Deep berry balm with candy like berry scent / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0499</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Raspberry Lollipop - Deep berry balm with candy like berry scent / Honey Boo - A warm pinky nude for a natural look.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Raspberry Lollipop - Deep berry balm with candy like berry scent / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Raspberry Lollipop - Deep berry balm with candy like berry scent / Rose Sorbet - A dusty rose with subtle warmth.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Raspberry Lollipop - Deep berry balm with candy like berry scent / Bubblegum Pop - A soft mauve pink.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Raspberry Lollipop - Deep berry balm with candy like berry scent / Mulberry Mauve - A muted mauve pink shade.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Raspberry Lollipop - Deep berry balm with candy like berry scent / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0505</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Caramel Toffee - Nude brown tint with caramel mousse scent / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Caramel Toffee - Nude brown tint with caramel mousse scent / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Caramel Toffee - Nude brown tint with caramel mousse scent / Honey Boo - A warm pinky nude for a natural look.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Caramel Toffee - Nude brown tint with caramel mousse scent / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Caramel Toffee - Nude brown tint with caramel mousse scent / Rose Sorbet - A dusty rose with subtle warmth.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Caramel Toffee - Nude brown tint with caramel mousse scent / Bubblegum Pop - A soft mauve pink.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Caramel Toffee - Nude brown tint with caramel mousse scent / Mulberry Mauve - A muted mauve pink shade.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Caramel Toffee - Nude brown tint with caramel mousse scent / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Chocolate Fondant - Rich brown tone with delicious chocolate scent / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Chocolate Fondant - Rich brown tone with delicious chocolate scent / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Chocolate Fondant - Rich brown tone with delicious chocolate scent / Honey Boo - A warm pinky nude for a natural look.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Chocolate Fondant - Rich brown tone with delicious chocolate scent / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Chocolate Fondant - Rich brown tone with delicious chocolate scent / Rose Sorbet - A dusty rose with subtle warmth.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Chocolate Fondant - Rich brown tone with delicious chocolate scent / Bubblegum Pop - A soft mauve pink.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Chocolate Fondant - Rich brown tone with delicious chocolate scent / Mulberry Mauve - A muted mauve pink shade.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Chocolate Fondant - Rich brown tone with delicious chocolate scent / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Coconut Crumble - Clear balm with a creamy coconut scent / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0522</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Coconut Crumble - Clear balm with a creamy coconut scent / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0523</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Coconut Crumble - Clear balm with a creamy coconut scent / Honey Boo - A warm pinky nude for a natural look.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0524</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Coconut Crumble - Clear balm with a creamy coconut scent / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Coconut Crumble - Clear balm with a creamy coconut scent / Rose Sorbet - A dusty rose with subtle warmth.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0526</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Coconut Crumble - Clear balm with a creamy coconut scent / Bubblegum Pop - A soft mauve pink.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Coconut Crumble - Clear balm with a creamy coconut scent / Mulberry Mauve - A muted mauve pink shade.</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924607246645</id>
+      <title>Coconut Crumble - Clear balm with a creamy coconut scent / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCC-0529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9924661903669</id>
+    <published>2024-12-26T12:02:59+05:30</published>
+    <updated>2024-12-26T12:02:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/hi-honey-spf-lip-oil-happy-hour-mini-lippies-combo"/>
+    <title>Hi Honey! SPF Lip Oil + Happy Hour Mini Lippies Combo</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_419c5437-0992-4d75-bfb8-d8a2bcb143a4.jpg?v=1734602963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW51252825 BCX0">
+<div class="OutlineElement Ltr SCXW192443867 BCX0">
+<p class="Paragraph SCXW192443867 BCX0"><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun" data-ccp-charstyle-defn='{"ObjectId":"479760b5-8ddc-4a12-b30f-bd990b475ba7|60","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"22",469775450,"normaltextrun",201340122,"1",134233614,"true",469778129,"normaltextrun",335572020,"1",469778324,"Default Paragraph Font"]}'>A combo </span><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun">containing</span><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun"> our </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><strong><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun">Hi Honey! SPF Lip Oil</span></strong><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun"> </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun">and </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><strong><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun">Happy Hour </span></strong><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun"><strong>Mini Lipsticks</strong> </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0" data-ccp-charstyle="normaltextrun">in the shade of your choice.</span></span><span class="EOP SCXW192443867 BCX0" data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}'> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW192443867 BCX0">
+<p class="Paragraph SCXW192443867 BCX0"><strong><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0">Hi Honey! SPF Lip Oil: </span></span></strong><span class="EOP SCXW192443867 BCX0" data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}'> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW192443867 BCX0">
+<p class="Paragraph SCXW192443867 BCX0"><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0">Our Hi Honey! SPF Lip Oil is your ultimate lip multitasker. With </span></span><strong><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0">SPF 25</span></span></strong><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0">, it protects your lips from sun damage while nourishing them with </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><strong><span class="NormalTextRun SpellingErrorV2Themed SCXW192443867 BCX0">Mirsalehi</span></strong><span class="NormalTextRun SCXW192443867 BCX0"><strong> Honey and vitamin E</strong> </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0">for deep hydration and a </span></span><strong><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0">glossy, plump finish</span></span></strong><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0">. The </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0"><strong>luxe metal applicator</strong> </span></span><span data-contrast="none" lang="EN-IN" class="TextRun SCXW192443867 BCX0"><span class="NormalTextRun SCXW192443867 BCX0">delivers a cooling sensation and precise application, making it the perfect companion for radiant, protected lips all day.</span></span></p>
+<p class="Paragraph SCXW192443867 BCX0"> </p>
+</div>
+</div>
+<div class="OutlineElement Ltr SCXW51252825 BCX0">
+<div class="OutlineElement Ltr SCXW122912032 BCX0">
+<p class="Paragraph SCXW122912032 BCX0"><strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle-defn='{"ObjectId":"028e6f9f-d4ec-4687-a88b-5bd35673dd14|62","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"24",469775450,"paragraph",201340122,"2",134233614,"true",469778129,"paragraph",335572020,"1",335559705,"16393",335559740,"240",201341983,"0",134233118,"true",134233117,"true",469778324,"Normal"]}' data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">Happy Hour Mini </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SpellingErrorV2Themed SCXW122912032 BCX0">Lippies</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">:</span></span></strong><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335551550":1,"335551620":1,"335559685":0,"335559737":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW122912032 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW122912032 BCX0">
+<p class="Paragraph SCXW122912032 BCX0"><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">Our Happy Hour Mini Lipsticks are your ultimate </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">travel-friendly</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"> </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">lip companions. </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">With </span></span><strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">8 flake-proof, budge-proof shades</span></span></strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">, this </span></span><strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">soft, hydrating matte formula </span></span></strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">is comfortable for all-day and all-night wear. Designed for </span></span><strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">single-swipe payoff</span></span></strong><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">, these </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SpellingErrorV2Themed SCXW122912032 BCX0">lippies</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"> glide effortlessly over your lips, delivering rich, long-lasting colour that stays put without bleeding. </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW122912032 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW122912032 BCX0">
+<p class="Paragraph SCXW122912032 BCX0"><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">Encased in luxe, </span></span><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"><strong>travel-sized</strong> </span></span><span class="TextRun SCXW122912032 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">packaging, </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">they’re</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"> perfect for touch-ups on the go and small enough to fit even in the tiniest clutches. Whether </span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0">it’s</span><span data-ccp-parastyle="paragraph" class="NormalTextRun SCXW122912032 BCX0"> a brunch date or a cocktail party, the Happy Hour Mini Lipsticks are here to elevate your lip game effortlessly!</span></span><span data-ccp-props='{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}' class="EOP SCXW122912032 BCX0"> </span></p>
+</div>
+</div>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924661903669</id>
+      <title>Gold 01 - Warm honey hues with gold shimmer / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924661903669</id>
+      <title>Gold 01 - Warm honey hues with gold shimmer / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0531</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924661903669</id>
+      <title>Gold 01 - Warm honey hues with gold shimmer / Honey Boo - A warm pinky nude for a natural look.</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924661903669</id>
+      <title>Gold 01 - Warm honey hues with gold shimmer / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924661903669</id>
+      <title>Gold 01 - Warm honey hues with gold shimmer / Rose Sorbet - A dusty rose with subtle warmth.</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924661903669</id>
+      <title>Gold 01 - Warm honey hues with gold shimmer / Bubblegum Pop - A soft mauve pink.</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924661903669</id>
+      <title>Gold 01 - Warm honey hues with gold shimmer / Mulberry Mauve - A muted mauve pink shade.</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9924661903669</id>
+      <title>Gold 01 - Warm honey hues with gold shimmer / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9876752892213</id>
+    <published>2024-11-08T18:44:34+05:30</published>
+    <updated>2024-11-08T18:44:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/pout-polish-lip-treatment-balm-bundle"/>
+    <title>POUT POLISH LIP TREATMENT BALM BUNDLE</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/KIT-OF-2-Peptide.jpg?v=1748598821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-contrast="none" lang="EN-US" class="TextRun SCXW92147813 BCX0"><span class="NormalTextRun SCXW92147813 BCX0">Introducing Pout Polish Peptide Lip Treatment Balm – the ultimate fusion of </span><span class="NormalTextRun SCXW92147813 BCX0">skincare</span><span class="NormalTextRun SCXW92147813 BCX0"> and </span><span class="NormalTextRun SCXW92147813 BCX0">makeup</span><span class="NormalTextRun SCXW92147813 BCX0">. This innovative </span><span class="NormalTextRun SCXW92147813 BCX0">lip treatment </span><span class="NormalTextRun SCXW92147813 BCX0">balm combines the hydration of a lip mask, the </span><span class="NormalTextRun SCXW92147813 BCX0">shine</span><span class="NormalTextRun SCXW92147813 BCX0"> of a lip </span><span class="NormalTextRun SCXW92147813 BCX0">glaze</span><span class="NormalTextRun SCXW92147813 BCX0">, and the power of advanced skincare, all </span><span class="NormalTextRun SCXW92147813 BCX0">packed </span><span class="NormalTextRun SCXW92147813 BCX0">in one.</span></span><br><em><span data-mce-fragment="1" data-contrast="none" lang="EN-IN" class="TextRun SCXW223053242 BCX0"><span data-mce-fragment="1" class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW223053242 BCX0" data-ccp-parastyle="Normal (Web)"></span></span></em></p>
+<p><meta charset="utf-8"><span data-contrast="none" lang="EN-US" class="TextRun SCXW65737361 BCX0"><span class="NormalTextRun SCXW65737361 BCX0">Each shade, inspired by your </span><span class="NormalTextRun SCXW65737361 BCX0">favourite</span><span class="NormalTextRun SCXW65737361 BCX0"> desserts, delivers a unique, delightful scent</span><span class="NormalTextRun SCXW65737361 BCX0"> that leaves you wanting for more!</span><span class="NormalTextRun SCXW65737361 BCX0"> </span><span class="NormalTextRun SCXW65737361 BCX0">It </span><span class="NormalTextRun SCXW65737361 BCX0">is </span><span class="NormalTextRun SCXW65737361 BCX0">formulated</span><span class="NormalTextRun SCXW65737361 BCX0"> in Italy,</span><span class="NormalTextRun SCXW65737361 BCX0"> with highly targeted lip Peptides</span><span class="NormalTextRun SCXW65737361 BCX0"> </span><span class="NormalTextRun SCXW65737361 BCX0">that remove fine lines and wrinkles</span><span class="NormalTextRun SCXW65737361 BCX0"> over time, </span><span class="NormalTextRun SCXW65737361 BCX0">while </span><span class="NormalTextRun SCXW65737361 BCX0">t</span><span class="NormalTextRun SCXW65737361 BCX0">he </span><span class="NormalTextRun SCXW65737361 BCX0">C</span><span class="NormalTextRun SCXW65737361 BCX0">ollagen </span><span class="NormalTextRun SCXW65737361 BCX0">makes the lips appear fuller and rejuvenated.</span><span class="NormalTextRun SCXW65737361 BCX0"> </span><span class="NormalTextRun SCXW65737361 BCX0">It also comes</span><span class="NormalTextRun SCXW65737361 BCX0"> with</span><span class="NormalTextRun SCXW65737361 BCX0"> moisture</span><span class="NormalTextRun SCXW65737361 BCX0"> lock </span><span class="NormalTextRun SCXW65737361 BCX0">technology </span><span class="NormalTextRun SCXW65737361 BCX0">that</span><span class="NormalTextRun SCXW65737361 BCX0"> </span><span class="NormalTextRun SCXW65737361 BCX0">form</span><span class="NormalTextRun SCXW65737361 BCX0">s</span><span class="NormalTextRun SCXW65737361 BCX0"> a protective layer over the lips</span><span class="NormalTextRun SCXW65737361 BCX0">, keeping </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW65737361 BCX0">them hydrated</span><span class="NormalTextRun SCXW65737361 BCX0"> for up to 8 hours</span><span class="NormalTextRun SCXW65737361 BCX0">.</span></span></p>
+<p><meta charset="utf-8"><span data-contrast="none" lang="EN-US" class="TextRun SCXW81639398 BCX0"><span class="NormalTextRun SCXW81639398 BCX0">What’s</span><span class="NormalTextRun SCXW81639398 BCX0"> more? </span><span class="NormalTextRun SCXW81639398 BCX0">Our Pout Polish</span><span class="NormalTextRun SCXW81639398 BCX0"> Lip Treatment</span><span class="NormalTextRun SCXW81639398 BCX0"> balm </span><span class="NormalTextRun SCXW81639398 BCX0">also </span><span class="NormalTextRun SCXW81639398 BCX0">features a cooling metal-tip applicator that</span><span class="NormalTextRun SCXW81639398 BCX0"> makes the application </span><span class="NormalTextRun AdvancedProofingIssueV2Themed SCXW81639398 BCX0">all the more</span><span class="NormalTextRun SCXW81639398 BCX0"> fun.</span><span class="NormalTextRun SCXW81639398 BCX0"> </span><span class="NormalTextRun SCXW81639398 BCX0">It </span><span class="NormalTextRun SCXW81639398 BCX0">glides smoothly, providing a refreshing sensation with every swipe. </span><span class="NormalTextRun SCXW81639398 BCX0">It’s</span><span class="NormalTextRun SCXW81639398 BCX0"> l</span><span class="NormalTextRun SCXW81639398 BCX0">ightweight and non-sticky,</span><span class="NormalTextRun SCXW81639398 BCX0"> pocket sized -</span><span class="NormalTextRun SCXW81639398 BCX0"> </span><span class="NormalTextRun SCXW81639398 BCX0">perfect for wearing</span><span class="NormalTextRun SCXW81639398 BCX0"> all day for that glazed lip look</span><span class="NormalTextRun SCXW81639398 BCX0">.</span></span></p>
+<p><meta charset="utf-8"><span data-contrast="none" lang="EN-US" class="TextRun SCXW242400144 BCX0"><span class="NormalTextRun SCXW242400144 BCX0">With Pout Polish, enjoy luscious</span><span class="NormalTextRun SCXW242400144 BCX0">,</span><span class="NormalTextRun SCXW242400144 BCX0"> </span><span class="NormalTextRun SCXW242400144 BCX0">hydrated </span><span class="NormalTextRun SCXW242400144 BCX0">lips that feel as good as they look – a daily treat </span><span class="NormalTextRun SCXW242400144 BCX0">that’s</span><span class="NormalTextRun SCXW242400144 BCX0"> all care, zero guilt</span><span class="NormalTextRun SCXW242400144 BCX0">!</span></span></p>
+<ol></ol>
+<h5>What makes it so goood</h5>
+<ol>
+<li dir="ltr" class="selectable-text copyable-text x15bjb6t x1n2onr6"><span class="selectable-text copyable-text"><strong>Metal Tip Applicator:</strong> Gives a refreshing, cooling experience with every swipe</span></li>
+<li dir="ltr" class="selectable-text copyable-text x15bjb6t x1n2onr6"><span class="selectable-text copyable-text"><strong>Triple Action Formula:</strong> Combines the hydration of a lip mask, shine of a lip glaze, and nourishment of lip treatment balm</span></li>
+<li dir="ltr" class="selectable-text copyable-text x15bjb6t x1n2onr6"><span class="selectable-text copyable-text"><strong>Science-Backed Ingredients:</strong> Peptides and collagen hydrate, soothe fine lines and add plumping effect</span></li>
+<li dir="ltr" class="selectable-text copyable-text x15bjb6t x1n2onr6"><span class="selectable-text copyable-text"><strong>Non-Sticky High Shine:</strong> Gives a glazed look without any stickiness, leaving your lips with a radiant, high-shine finish</span></li>
+<li dir="ltr" class="selectable-text copyable-text x15bjb6t x1n2onr6"><span class="selectable-text copyable-text"><strong>Comfortable, lightweight Formula:</strong> It cocoons your lips in a non-greasy, bouncy moisture that wears comfortably all day</span></li>
+<li dir="ltr" class="selectable-text copyable-text x15bjb6t x1n2onr6"><span class="selectable-text copyable-text"><strong>Moisture lock Technology:</strong> Provides up to 8 hours of comfort, and hydration</span></li>
+<li dir="ltr" class="selectable-text copyable-text x15bjb6t x1n2onr6"><span class="selectable-text copyable-text"><strong>Dessert-Inspired Scents:</strong> Each balm is crafted with dessert-like scents for a truly indulgent experience</span></li>
+</ol>
+<p><em>100% Vegan &amp; <span data-contrast="none" lang="EN" class="TextRun SCXW27009646 BCX0"><span class="NormalTextRun SCXW27009646 BCX0">Cruelty-free. Dermatologically Tested</span></span><span class="EOP SCXW27009646 BCX0" data-ccp-props='{"201341983":0,"335557856":16777215,"335559685":720,"335559740":276}'> </span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Caramel Toffee- Nude Brown / Caramel Toffee- Nude Brown</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Caramel Toffee- Nude Brown / Chocolate Fondant- Decadent Chocolate</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0468</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Caramel Toffee- Nude Brown / Coconut Crumble- Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Caramel Toffee- Nude Brown / Strawberry Cheesecake with Shimmer- Shimmery Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0465</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Caramel Toffee- Nude Brown / Raspberry Lollipop- Juicy Berry</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0466</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Caramel Toffee- Nude Brown / Apple Martini</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Chocolate Fondant- Decadent Chocolate / Caramel Toffee- Nude Brown</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0472</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Chocolate Fondant- Decadent Chocolate / Chocolate Fondant- Decadent Chocolate</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Chocolate Fondant- Decadent Chocolate / Coconut Crumble- Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Chocolate Fondant- Decadent Chocolate / Strawberry Cheesecake with Shimmer- Shimmery Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Chocolate Fondant- Decadent Chocolate / Raspberry Lollipop- Juicy Berry</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Chocolate Fondant- Decadent Chocolate / Apple Martini</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Coconut Crumble- Clear Non tinted / Caramel Toffee- Nude Brown</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Coconut Crumble- Clear Non tinted / Chocolate Fondant- Decadent Chocolate</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0478</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Coconut Crumble- Clear Non tinted / Coconut Crumble- Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0479</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Coconut Crumble- Clear Non tinted / Strawberry Cheesecake with Shimmer- Shimmery Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0475</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Coconut Crumble- Clear Non tinted / Raspberry Lollipop- Juicy Berry</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Coconut Crumble- Clear Non tinted / Apple Martini</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Strawberry Cheesecake with Shimmer- Shimmery Pink / Caramel Toffee- Nude Brown</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Strawberry Cheesecake with Shimmer- Shimmery Pink / Chocolate Fondant- Decadent Chocolate</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Strawberry Cheesecake with Shimmer- Shimmery Pink / Coconut Crumble- Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Strawberry Cheesecake with Shimmer- Shimmery Pink / Strawberry Cheesecake with Shimmer- Shimmery Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0455</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Strawberry Cheesecake with Shimmer- Shimmery Pink / Raspberry Lollipop- Juicy Berry</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Strawberry Cheesecake with Shimmer- Shimmery Pink / Apple Martini</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Raspberry Lollipop- Juicy Berry / Caramel Toffee- Nude Brown</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Raspberry Lollipop- Juicy Berry / Chocolate Fondant- Decadent Chocolate</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Raspberry Lollipop- Juicy Berry / Coconut Crumble- Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0464</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Raspberry Lollipop- Juicy Berry / Strawberry Cheesecake with Shimmer- Shimmery Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0460</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Raspberry Lollipop- Juicy Berry / Raspberry Lollipop- Juicy Berry</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0461</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Raspberry Lollipop- Juicy Berry / Apple Martini</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Apple Martini / Caramel Toffee- Nude Brown</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Apple Martini / Chocolate Fondant- Decadent Chocolate</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Apple Martini / Coconut Crumble- Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Apple Martini / Strawberry Cheesecake with Shimmer- Shimmery Pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Apple Martini / Raspberry Lollipop- Juicy Berry</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9876752892213</id>
+      <title>Apple Martini / Apple Martini</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9875719323957</id>
+    <published>2024-11-08T12:14:25+05:30</published>
+    <updated>2024-11-08T12:14:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/pout-polish-lip-treatment-balm"/>
+    <title>Pout Polish Lip Treatment Balm</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Strawberry_95cd3724-62d0-4826-b7db-425125359948.webp?v=1733304519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-pm-slice="1 1 []"><span>Introducing Pout Polish Peptide Lip Treatment Balm – the ultimate fusion of skincare and makeup. This innovative lip balm combines the hydration of a lip mask, the shine of a lip glaze, and the power of advanced skincare, all packed in one.</span></p>
+<p><span>It is formulated in Italy with highly targeted lip peptides that remove fine lines and wrinkles over time, while the collagen makes the lips appear fuller and rejuvenated. It’s also enriched with brightening ingredients, making it an ideal lip brightening balm for dark lips. The moisture-lock technology forms a protective layer over the lips, keeping them hydrated for up to 8 hours.</span></p>
+<p><span>What’s more? Our Pout Polish Treatment Lip Balm also features a cooling metal-tip applicator that makes the application all the more fun. It’s lightweight, non-sticky, and pocket-sized, perfect for all-day wear for that glazed lip look. </span></p>
+<p><span>Whether you’re looking for the best lip balm for women or a versatile lip balm for men, Pout Polish has you covered.</span></p>
+<h4><strong>What makes this lip balm so good?</strong></h4>
+<ul>
+<li>
+<span><strong>Metal Tip Applicator:</strong></span><span> Gives a refreshing, cooling experience with every swipe.</span>
+</li>
+<li>
+<span><strong>Triple Action Formula:</strong></span><span> Combines the hydration of a lip mask, shine of a lip glaze, and nourishment of a lip treatment balm.</span>
+</li>
+<li>
+<span><strong>Science-Backed Ingredients:</strong></span><span> Peptides and collagen hydrate, soothe fine lines, brighten dark lips, and add a plumping effect.</span>
+</li>
+<li>
+<span><strong>Non-Sticky High Shine:</strong></span><span> Gives a glazed look without any stickiness, leaving your lips with a radiant, high-shine finish.</span>
+</li>
+<li>
+<span><strong>Comfortable, Lightweight Formula:</strong></span><span> It cocoons your lips in a non-greasy, bouncy moisture that wears comfortably all day.</span>
+</li>
+<li>
+<span><strong>Dessert-Inspired Scents:</strong></span><span> Each balm is crafted with dessert-like scents for a truly indulgent experience.</span>
+</li>
+</ul>
+<p><strong><em>100% Vegan &amp; Cruelty-Free. Dermatologically Tested.</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9875719323957</id>
+      <title>Strawberry Cheesecake with Shimmer: Shimmery Pink</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>CCL-0045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9875719323957</id>
+      <title>Raspberry Lollipop: Juicy Berry</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>CCL-0046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9875719323957</id>
+      <title>Caramel Toffee: Nude Brown</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>CCL-0047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9875719323957</id>
+      <title>Coconut Crumble: Clear Non tinted</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>CCL-0044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9875719323957</id>
+      <title>Chocolate Fondant: Decadent Chocolate</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>CCL-0048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9875719323957</id>
+      <title>Apple Martini</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>CCL-0061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9853406970165</id>
+    <published>2024-10-14T16:26:38+05:30</published>
+    <updated>2024-10-14T16:26:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/hydra-lip-trio-mini-lip-oil-set"/>
+    <title>Hydra Lip Trio – Mini Lip Oil Set</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1ST_54e7801e-dddd-462c-972c-3b7f72785f45.jpg?v=1728648016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW158851363 BCX0">
+<p class="Paragraph SCXW158851363 BCX0" paraid="1038282139" paraeid="{89f12a71-b69c-4696-b4a4-1085adb2c6df}{85}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW158851363 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SpellingErrorV2Themed SCXW158851363 BCX0">Typsy</span><span class="NormalTextRun SCXW158851363 BCX0"> Beauty’s 3 top-selling lip oils combined in a single set! Why get just one, when you can have them all? The mini sized packing makes them ideal for handbags and travel. </span></span><span class="EOP SCXW158851363 BCX0" data-ccp-props="{}"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW158851363 BCX0">
+<p class="Paragraph SCXW158851363 BCX0" paraid="2010972427" paraeid="{89f12a71-b69c-4696-b4a4-1085adb2c6df}{95}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW158851363 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW158851363 BCX0">The set contents:</span></span><span class="EOP SCXW158851363 BCX0" data-ccp-props="{}"> </span></p>
+</div>
+<div class="ListContainerWrapper SCXW158851363 BCX0">
+<ul class="BulletListStyle1 SCXW158851363 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="6" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW158851363 BCX0">
+<p class="Paragraph SCXW158851363 BCX0" paraid="1348295782" paraeid="{89f12a71-b69c-4696-b4a4-1085adb2c6df}{101}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW158851363 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW158851363 BCX0">Mini Shade Shifter Lip &amp; Cheek Oil, pH-</span><span class="NormalTextRun SpellingErrorV2Themed SCXW158851363 BCX0">enomenal</span><span class="NormalTextRun SCXW158851363 BCX0"> 01 (1ml): </span><span class="NormalTextRun SCXW158851363 BCX0">A groundbreaking </span><span class="NormalTextRun SpellingErrorV2Themed SCXW158851363 BCX0">color</span><span class="NormalTextRun SCXW158851363 BCX0">-changing lip and cheek oil, that magically changes colour from clear to pink, thanks to </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW158851363 BCX0">it’s</span><span class="NormalTextRun SCXW158851363 BCX0"> innovative pH-reactive formula. Infused with nourishing Acai Berry and Hibiscus oil, it provides hydration, to lips while giving cheeks a naturally flushed &amp; dewy radiance.</span></span><span class="EOP SCXW158851363 BCX0" data-ccp-props="{}"> </span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW158851363 BCX0">
+<ul class="BulletListStyle1 SCXW158851363 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="7" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW158851363 BCX0">
+<p class="Paragraph SCXW158851363 BCX0" paraid="571917369" paraeid="{89f12a71-b69c-4696-b4a4-1085adb2c6df}{121}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW158851363 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW158851363 BCX0">Mini Shade Shifter Lip &amp; Cheek Oil, Midnight 02 (1ml): </span><span class="NormalTextRun SCXW158851363 BCX0"> </span><span class="NormalTextRun SCXW158851363 BCX0">This universally flattering, 2-in-1 multifunctional pH-powered lip &amp; cheek tint shifts like magic into a custom berry-pink shade, while drenching skin in lasting non-sticky, juicy </span><span class="NormalTextRun SCXW158851363 BCX0">colour</span><span class="NormalTextRun SCXW158851363 BCX0"> and shine. Infused with Goji Berry and Blackberry, for instant nourishment. </span></span><span class="EOP SCXW158851363 BCX0" data-ccp-props="{}"> </span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW158851363 BCX0">
+<ul class="BulletListStyle1 SCXW158851363 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="8" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW158851363 BCX0">
+<p class="Paragraph SCXW158851363 BCX0" paraid="1584565045" paraeid="{89f12a71-b69c-4696-b4a4-1085adb2c6df}{131}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW158851363 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW158851363 BCX0">Mini Hi Honey! SPF 25 Lip Oil – Gold 01 (1ml): </span><span class="NormalTextRun SCXW158851363 BCX0">This hydrating lip oil not only shields your lips from sun damage with SPF 25 but also deeply nourishes and moisturizes, leaving them with a plump, glossy shine. Infused with a unique blend</span><span class="NormalTextRun SCXW158851363 BCX0"> </span><span class="NormalTextRun SCXW158851363 BCX0">of </span><span class="NormalTextRun SpellingErrorV2Themed SCXW158851363 BCX0">Mirsalehi</span><span class="NormalTextRun SCXW158851363 BCX0"> Honey and vitamin E, it combats free radicals and promotes healing.</span></span></p>
+</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9853406970165</id>
+      <title>Combo Set</title>
+      <s:price currency="INR">749.00</s:price>
+      <s:sku>CCG-0014</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9853401956661</id>
+    <published>2024-10-14T16:26:16+05:30</published>
+    <updated>2024-10-14T16:26:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/colour-riot-6-in-1-nailpolish-kit"/>
+    <title>Colour Riot, 6-in-1 Nailpolish Kit</title>
+    <s:type>Makeup Combo</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1ST_2f6af8e4-f6d1-42ad-be74-f46262f68ec4.jpg?v=1728647383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Makeup Combo<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW192813599 BCX0">
+<p class="Paragraph SCXW192813599 BCX0" paraid="342603952" paraeid="{646475b8-4c9a-4a0d-ba4a-7054ff66fe43}{200}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW192813599 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW192813599 BCX0">Indulge in a riot of vibrant colours with this set of </span><span class="NormalTextRun SpellingErrorV2Themed SCXW192813599 BCX0">Typsy</span><span class="NormalTextRun SCXW192813599 BCX0"> Beauty Coupled Up Nail Polishes. Each </span><span class="NormalTextRun SpellingErrorV2Themed SCXW192813599 BCX0">Nailpolish</span><span class="NormalTextRun SCXW192813599 BCX0"> has a unique double-sided design that allows you to play with more colours. Mix and match your </span><span class="NormalTextRun SpellingErrorV2Themed SCXW192813599 BCX0">nailpolish</span><span class="NormalTextRun SCXW192813599 BCX0"> with this unique 6-in-1 nail polish set</span><span class="NormalTextRun SCXW192813599 BCX0">.  </span></span><span class="EOP SCXW192813599 BCX0" data-ccp-props="{}"> </span></p>
+</div>
+<div class="SCXW192813599 BCX0">
+<div class="OutlineElement Ltr SCXW192813599 BCX0">
+<p class="Paragraph SCXW192813599 BCX0" paraid="60360177" paraeid="{646475b8-4c9a-4a0d-ba4a-7054ff66fe43}{218}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW192813599 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW192813599 BCX0">The set contents:</span></span><span class="EOP SCXW192813599 BCX0" data-ccp-props="{}"> </span></p>
+</div>
+<div class="ListContainerWrapper SCXW192813599 BCX0">
+<ul class="BulletListStyle1 SCXW192813599 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="3" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW192813599 BCX0">
+<p class="Paragraph SCXW192813599 BCX0" paraid="949538546" paraeid="{646475b8-4c9a-4a0d-ba4a-7054ff66fe43}{224}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW192813599 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW192813599 BCX0">Coupled Up Nail Polish, Aries 01 (10ml): </span><span class="NormalTextRun SCXW192813599 BCX0">Powered by gel technology that glides on smoothly, each </span><span class="NormalTextRun SpellingErrorV2Themed SCXW192813599 BCX0">nailpolish</span><span class="NormalTextRun SCXW192813599 BCX0"> has 2 complementing shades that ensure salon-quality nails in no time thanks to the quick-dry formulation. Achieve long-lasting, flawless results right at home. </span></span><span class="EOP SCXW192813599 BCX0" data-ccp-props="{}"> </span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW192813599 BCX0">
+<ul class="BulletListStyle1 SCXW192813599 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="4" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW192813599 BCX0">
+<p class="Paragraph SCXW192813599 BCX0" paraid="1497881446" paraeid="{646475b8-4c9a-4a0d-ba4a-7054ff66fe43}{236}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW192813599 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW192813599 BCX0">Coupled Up Nail Polish, Cancer 04 (10ml)</span></span><span class="EOP SCXW192813599 BCX0" data-ccp-props="{}"> </span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW192813599 BCX0">
+<ul class="BulletListStyle1 SCXW192813599 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"multilevel"}' aria-setsize="-1" data-aria-posinset="5" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW192813599 BCX0">
+<p class="Paragraph SCXW192813599 BCX0" paraid="1313584800" paraeid="{646475b8-4c9a-4a0d-ba4a-7054ff66fe43}{242}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW192813599 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW192813599 BCX0">Coupled Up Nail Polish, Capricorn 10 (10ml)</span></span></p>
+</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9853401956661</id>
+      <title>Combo Kit</title>
+      <s:price currency="INR">749.00</s:price>
+      <s:sku>CCG-0012</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9831621230901</id>
+    <published>2024-09-21T14:13:57+05:30</published>
+    <updated>2024-09-21T14:13:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/hi-honey-spf-lip-oil"/>
+    <title>Hi Honey! SPF Lip Oil</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/SPF-Lip-Oil.jpg?v=1740119899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="TextRun SCXW73204606 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SCXW73204606 BCX0">Meet Hi Honey! SPF Lip Oil—your new multitasking essential that goes beyond just protection. This hydrating lip oil not only shields your lips from sun damage with SPF 25 but also deeply nourishes and moisturizes, leaving them with a plump, glossy shine.</span></span><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":259}' class="EOP SCXW73204606 BCX0"></span></p>
+<p><span data-ccp-props='{"201341983":0,"335559739":0,"335559740":259}' class="EOP SCXW73204606 BCX0"><meta charset="utf-8"> <span class="TextRun SCXW70167303 BCX0" lang="EN-IN" data-contrast="auto" xml:lang="EN-IN"><span class="NormalTextRun SCXW70167303 BCX0">Infused with a unique blend of </span><span class="NormalTextRun SpellingErrorV2Themed SCXW70167303 BCX0">Mirsalehi</span><span class="NormalTextRun SCXW70167303 BCX0"> Honey </span><span class="NormalTextRun SCXW70167303 BCX0">and</span><span class="NormalTextRun SCXW70167303 BCX0"> vitamin E, this lip oil combats free radicals and promotes healing. The luxurious metal applicator enhances the experience, offering a soothing cooling sensation and precise application. Perfect for adding a radiant touch to your lips while ensuring they stay hydrated and protected all day long.</span><span class="NormalTextRun SCXW70167303 BCX0"> </span></span></span></p>
+<div class="SCXW256291280 BCX0">
+<div class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="660931930" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{16}"><strong><span data-contrast="auto" lang="EN-IN" class="TextRun MacChromeBold SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">Made </span><span class="NormalTextRun SCXW256291280 BCX0">with</span><span class="NormalTextRun SCXW256291280 BCX0"> </span><span class="NormalTextRun SCXW256291280 BCX0">Lip loving ingredients</span><span class="NormalTextRun SCXW256291280 BCX0">:</span></span></strong></p>
+</div>
+<div class="ListContainerWrapper SCXW256291280 BCX0">
+<ul class="BulletListStyle1 SCXW256291280 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="4" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"hybridMultilevel"}' aria-setsize="-1" data-aria-posinset="1" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="1855654426" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{34}"><span data-contrast="auto" lang="EN-IN" class="TextRun MacChromeBold SCXW256291280 BCX0" xml:lang="EN-IN"><strong><span class="NormalTextRun SpellingErrorV2Themed SCXW256291280 BCX0">Mirsalehi</span></strong><span class="NormalTextRun SCXW256291280 BCX0"><strong> Honey:</strong> </span></span><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">Rich in antioxidants, this honey hydrates, nourishes, and restores dry, damaged lips</span></span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW256291280 BCX0">
+<ul class="BulletListStyle1 SCXW256291280 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="4" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"hybridMultilevel"}' aria-setsize="-1" data-aria-posinset="2" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="1289713469" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{44}"><strong><span data-contrast="auto" lang="EN-IN" class="TextRun MacChromeBold SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">SPF 25:</span></span></strong><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0"> Sunscreen actives to protect against harmful UV rays</span></span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW256291280 BCX0">
+<ul class="BulletListStyle1 SCXW256291280 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="4" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"hybridMultilevel"}' aria-setsize="-1" data-aria-posinset="3" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="871250253" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{52}"><strong><span data-contrast="auto" lang="EN-IN" class="TextRun MacChromeBold SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">Cherry Oil:</span></span></strong><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0"> Rich in Vitamin A and antioxidants, it provides deep hydration and improves dry skin</span></span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW256291280 BCX0">
+<ul class="BulletListStyle1 SCXW256291280 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="4" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"hybridMultilevel"}' aria-setsize="-1" data-aria-posinset="4" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="1427703335" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{60}"><strong><span data-contrast="auto" lang="EN-IN" class="TextRun MacChromeBold SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">Jojoba Oil:</span></span></strong><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0"> Helps protect and nourish lips, ensuring long-lasting moisture</span></span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW256291280 BCX0">
+<ul class="BulletListStyle1 SCXW256291280 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="4" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"hybridMultilevel"}' aria-setsize="-1" data-aria-posinset="5" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="1007547760" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{68}"><strong><span data-contrast="auto" lang="EN-IN" class="TextRun MacChromeBold SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">Kakadu Plum Oil:</span></span></strong><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0"> Packed with omega-6 fatty acids and antioxidants, promoting </span><span class="NormalTextRun SCXW256291280 BCX0">healing</span><span class="NormalTextRun SCXW256291280 BCX0"> and providing intense hydration</span></span></p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW256291280 BCX0">
+<ul class="BulletListStyle1 SCXW256291280 BCX0" role="list">
+<li data-leveltext="" data-font="Symbol" data-listid="4" data-list-defn-props='{"335552541":1,"335559685":720,"335559991":360,"469769226":"Symbol","469769242":[8226],"469777803":"left","469777804":"","469777815":"hybridMultilevel"}' aria-setsize="-1" data-aria-posinset="6" data-aria-level="1" role="listitem" class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="1646206690" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{76}"><strong><span data-contrast="auto" lang="EN-IN" class="TextRun MacChromeBold SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">Vitamin E:</span></span></strong><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0"> A powerful antioxidant that protects lips and promotes softness</span></span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="1984235783" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{88}"><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">Free from </span><span class="NormalTextRun SCXW256291280 BCX0">Parabens, Oil, Mineral oil, D5, Nano, Talc, Preservatives, UV filters, PEG</span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW256291280 BCX0">
+<p class="Paragraph SCXW256291280 BCX0" paraid="862933164" paraeid="{4b89b6da-3eac-4070-b65c-67d9d1268065}{96}"><em><span data-contrast="auto" lang="EN-IN" class="TextRun SCXW256291280 BCX0" xml:lang="EN-IN"><span class="NormalTextRun SCXW256291280 BCX0">100% </span><span class="NormalTextRun SCXW256291280 BCX0">Vegan </span><span class="NormalTextRun SCXW256291280 BCX0">&amp;</span><span class="NormalTextRun SCXW256291280 BCX0"> Cruelty</span><span class="NormalTextRun SCXW256291280 BCX0">-</span><span class="NormalTextRun SCXW256291280 BCX0">free</span></span></em></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9831621230901</id>
+      <title>Gold 01</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCL-0049</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/8126080942389</id>
+    <published>2024-08-17T16:55:16+05:30</published>
+    <updated>2024-08-17T16:55:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/shade-shifter-lip-cheek-oil-ph-enomel-01"/>
+    <title>Shade Shifter Lip &amp; Cheek Oil PH-enomenal 01</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Lip-Oil-OG.jpg?v=1746443421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><i>The product that's going viral!</i></p>
+<p><span style="font-weight: 400;">Introducing our groundbreaking </span><b>color-changing lip and cheek oil</b><span style="font-weight: 400;">, a marvel in the realm of custom cosmetics. Thanks to its innovative </span><b>pH-reactive</b><span style="font-weight: 400;"> formula, this revolutionary product provides a </span><b>personalized tint</b><span style="font-weight: 400;">, perfectly tailored to complement every skin tone and type. Infused with nourishing </span><b>Acai Berry, Maracuja Oil,</b><span style="font-weight: 400;"> and </span><b>Hibiscus oil</b><span style="font-weight: 400;">, it provides the utmost </span><b>hydration</b><span style="font-weight: 400;">, reviving dry and chapped lips while simultaneously giving your cheeks a </span><b>naturally flushed look and a dewy radiance</b><span style="font-weight: 400;">. Experience a dual-benefit with a sheer, glossy, </span><b>mirror-like</b><span style="font-weight: 400;"> shine for your lips and a luminous, dewy glow for your cheeks. Discover the magic and transform your beauty routine!</span></p>
+<h6>Why is it special</h6>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Color-changing technology: Powered by a pH-reactive formula for a bespoke lip and cheek stain effect</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Universal appeal: Crafted to flatter all skin tones and types</span></li>
+<li><span style="font-weight: 400;">Rich in nutrients: A luxurious blend of Acai Berry, <meta charset="utf-8">Maracuja Oil, &amp; Hibiscus oil that hydrates, comforts, and shields</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sheer and shiny: Delivers a subtle tint and mirror-like shine on the lips, rivaling the best lip oils or glosses</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Natural flush: Achieves a radiant and dewy finish on the cheeks, effortlessly</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Trustworthy: Dermatologically tested to ensure safety and efficacy</span></li>
+</ul>
+<p><span style="font-weight: 400;">Celebrated as the best lip oil possibly available, it's perfect for anyone desiring a natural lip color or exploring different lip makeup options.This lip and cheek oil merges the hydration of a lip oil with the aesthetic allure of a lip tint and the sheen of a lip gloss, becoming a quintessential element of your beauty arsenal. This versatile product ensures a moisturising lip gloss effect for a universal appeal. Eliminate the need for an extensive lip liner set or professional lip palette; embrace this multipurpose product that guarantees glossy lips with a natural lip gloss finish. Perfect for achieving that plump and pink lips look make it your everyday essential for lush, beautiful lips!</span></p>
+<p><i><span style="font-weight: 400;">100% Vegan, Paraben and Cruelty Free</span></i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>APR5SHIP</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>Viral product</s:tag>
+    <s:tag>VTo-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:tag>VTO-Lipstick</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8126080942389</id>
+      <title>PH-ENOMENAL 01</title>
+      <s:price currency="INR">749.00</s:price>
+      <s:sku>CCL-0018</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9424771645749</id>
+    <published>2024-07-22T16:37:22+05:30</published>
+    <updated>2024-07-22T16:37:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/shade-shifter-sparkle"/>
+    <title>Shade Shifter Sparkle</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Starlight_8e594c4a-1fd4-4ab2-b2b9-ac142311672c.jpg?v=1740119829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            934.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>A lip oil that looks like gloss works like a treatment!</em></p>
+<p>Drench your lips in glossy goodness with <strong>Shade Shifter Sparkle</strong> - a range of glitter pH reactive lip oils from the iconic Shade Shifter collection. It delivers the same<strong> colour-changing, long lasting tint</strong>, but with a <strong>dazzling sparkle</strong>. Available in 3 juicy shades, this ultra hydrating formula glimmers with glitter particles to unveil smooth, high-shine, irresistible lips. Our iconic doe-foot applicator hugs lips for easy glide- on application that leaves lips feeling cocooned with vibrant shine. Experience a 99% natural formula powered by Rosehip &amp; Jojoba Oil, Shea Butter and Peach Extract for more hydration and collagen boost.</p>
+<p>Immerse yourself in the delightful sweetness of cookie-scented lip oils, available in 3 shades.</p>
+<p><strong>What makes it so good:</strong></p>
+<p>• Suspended glitter particles glisten on your lips to leave a <strong>unique shimmering effect</strong><br>• <strong>Non-sticky, lightweight</strong> lip oil that combines the mirror shine of a lip gloss with the comfort of intense lip care. <br>• Adapts to your lips' pH for a personalized color that stays for <strong>8+ hours</strong> <br>• Infused with lip-loving ingredients that <strong>plump, soothe, protect</strong> and <strong>nourish</strong> dry, chapped lips. <br>• Plush, oversized doe-foot applicator that delivers a high-shine finish.  <br>• Can be worn on its own or over lipstick.  </p>
+<p><em>100% vegan &amp; cruelty-free</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9424771645749</id>
+      <title>Starlight - Clear with champagne glitter</title>
+      <s:price currency="INR">934.00</s:price>
+      <s:sku>CCL-0037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9424771645749</id>
+      <title>Sunset Glow - Coral with gold glitter</title>
+      <s:price currency="INR">934.00</s:price>
+      <s:sku>CCL-0038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9424771645749</id>
+      <title>Magenta Moon - Magenta with silver glitter</title>
+      <s:price currency="INR">934.00</s:price>
+      <s:sku>CCL-0039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/8771866394933</id>
+    <published>2023-09-30T13:06:18+05:30</published>
+    <updated>2023-09-30T13:06:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/shade-shifter-lip-cheek-oil-midnight"/>
+    <title>Shade Shifter Lip &amp; Cheek Oil Midnight 02</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st_c113a71c-1135-4856-b967-850a04ce67a5.jpg?v=1740119778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            849.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: rgb(0, 0, 0);" data-mce-style="font-weight: 400;">A truly revolutionary formula - now available in a new avatar! The same beloved hydrating colour changing lip &amp; cheek oil comes in a sparking new variant - Midnight 02 - a black cheek and lip oil that shifts to a custom berry-pink shade. </span></p>
+<p><span style="color: rgb(0, 0, 0);" data-mce-style="font-weight: 400;">This universally flattering, 2-in-1 multifunctional pH-powered lip &amp; cheek tint shifts like magic into a custom berry-pink shade, while drenching skin in lasting non-sticky, juicy colour and shine. </span></p>
+<p><span style="color: rgb(0, 0, 0);" data-mce-style="font-weight: 400;">Infused with Goji Berry and Blackberry, the Shade Shifter Midnight instantly nourishes, hydrates and soothes lips and gives a dewy, my-skin-but-better natural flush on the cheeks. Never heavy or sticky, this weightless formula borrows from the best of both gloss and balm worlds. </span></p>
+<h6>Why is it special</h6>
+<ul>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Colour changing, pH-activated formula that turns from black to a custom berry-pink </span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Weightless formula that provides a mirror-like, juicy shine </span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Enriched with skin-lovin’ Goji berry and Blackberry </span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Lip-hugging fat applicator </span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Non-sticky, comfortable formula </span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Soothes, hydrates and comforts lips</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Provides a long-stay, cushiony tint </span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Suitable for all skin tones and types</span></li>
+<li style="font-weight: 400;" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-style="font-weight: 400;">100% vegan &amp; cruelty free. Formulated in Italy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>Viral product</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:tag>VTO-Lipstick</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8771866394933</id>
+      <title>MIDNIGHT 02</title>
+      <s:price currency="INR">849.00</s:price>
+      <s:sku>CCL-0019</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

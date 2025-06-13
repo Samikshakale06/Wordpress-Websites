@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/blender.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2025-04-28T00:05:21+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/9518455750965</id>
+    <published>2025-04-28T00:05:21+05:30</published>
+    <updated>2025-04-28T00:05:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/hangover-proof-concealer-dip-dab-blender"/>
+    <title>Hangover Proof Concealer + Dip &amp; Dab Blender</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Concealer_Blender_13d0d754-089f-4d7c-973f-ff37c4d079e9.jpg?v=1737453746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            1529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combo containing any shade of the Hangover Proof Concealer + the Dip &amp; Dab Blender</p>
+<p>Hangover Proof Concealer: This concealer boasts a long-wear, sweat, and crease-proof formula that provides light-as-air, full coverage. It masterfully hides under-eye circles, acne scars, blemishes, fine lines, pores, and wrinkles, while also reducing redness. Enriched with Shea butter, it ensures your look remains flawless all day, without creasing or settling into fine lines or pores. This concealer stands as your resilient beauty ally, promising to keep your appearance impeccable, no matter how the night went.</p>
+<p>Specially formulated to flatter Indian skin tones, it comes available in 9 versatile shades and doubles as a fantastic tool for highlighting and contouring.</p>
+<p>Dip &amp; Dab Blender: Elevate your makeup game to a flawless, celebrity-like finish in seconds with the Dip &amp; Dab beauty blender. This innovative makeup beauty blender offers the best of both worlds through its dual texture design; featuring a unique foam on one side for blending and a silicone surface on the other for application. Plus, its flat side is meticulously engineered to contour to the unique angles and curves of your face seamlessly.</p>
+<p>Dip: Use the silicone side of this beauty blender sponge to apply liquids and creams effortlessly. Thanks to its non-porous nature, it ensures minimal product wastage by preventing absorption unlike regular foam blenders, delivering higher coverage.</p>
+<p>Dab: When you’re ready to blend, flip over to the sponge side to achieve a seamless and airbrushed finish. The soft, mini beauty blender texture is perfect for tapping your way to that desired flawless finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>White Russian - Fair with neutral undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Prosecco - Light with pink undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0316</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Pina Colada - Light medium with warm undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0317</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Baileys - Medium with warm undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Whiskey - Medium with neutral undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Brandy - Tan with warm undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Dark Rum - Tan deep with olive undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Espresso Martini - Deep with neutral undertones / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9518455750965</id>
+      <title>Orange Corrector / Blender</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/7656977694918</id>
+    <published>2022-08-23T14:21:53+05:30</published>
+    <updated>2022-08-23T14:21:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/dip-dab-beauty-blender"/>
+    <title>Dip &amp; Dab Beauty Blender</title>
+    <s:type>Blender</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1ST_feb1241b-c0c9-420b-b3cb-e2c180098d06.jpg?v=1731324769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Blender<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Elevate your makeup game to a </span><b>flawless, celebrity-like finish</b><span style="font-weight: 400;"> in seconds with the Dip &amp; Dab beauty blender. This innovative makeup beauty blender offers the best of both worlds through its dual texture design; featuring a unique foam on one side for blending and a silicone surface on the other for application. Plus, its flat side is meticulously engineered to contour to the unique angles and curves of your face seamlessly.</span></p>
+<p><span style="font-weight: 400;">Dip: Use the </span><b>silicone side</b><span style="font-weight: 400;"> of this beauty blender sponge to apply </span><b>liquids and creams</b><span style="font-weight: 400;"> effortlessly. Thanks to its non-porous nature, it ensures </span><b>minimal product wastage</b><span style="font-weight: 400;"> by preventing absorption unlike regular foam blenders, delivering </span><b>higher coverage</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Dab: When you’re ready to blend, flip over  to the </span><b>sponge side</b><span style="font-weight: 400;"> to achieve a</span><b> seamless and airbrushed finish</b><span style="font-weight: 400;">. The soft, mini beauty blender texture is perfect for tapping your way to that desired flawless finish.</span></p>
+<h6>Why is it special</h6>
+<ul>
+<li><span style="font-weight: 400;">Crafted from high-grade, latex-free, antibacterial foam for a safe and hygienic application</span></li>
+<li>100% vegan, paraben and cruelty-free</li>
+<li>Dual sided for custom coverage</li>
+<li>
+<span style="font-weight: 400;">Delivers fast, easy, seamless results every time</span><span style="font-weight: 400;">, living up to the </span><b>best beauty blender in India</b><span style="font-weight: 400;"> expectations</span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Whether you’re looking for a small beauty blender, a big beauty blender, or somewhere in between, the Dip &amp; Dab blender transcends typical beauty blender sizes with its multifunctional design. This sleek beauty blender packaging promises portability and protection, making it easy to achieve a perfect makeup blend on the go.</span></p>
+<p><span style="font-weight: 400;">Step into the world of flawless makeup application with the Dip &amp; Dab blender – your ultimate tool for blending perfection. With the beauty blend and makeup blending sponge technology it offers, achieving that airbrushed, photo-ready base has never been simpler.</span></p>
+<p class="mt-40"><i>100% Vegan, Paraben and Cruelty Free </i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30%Off</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>Influencer’s Fav</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/7656977694918</id>
+      <title>Blender</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>AC-0002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

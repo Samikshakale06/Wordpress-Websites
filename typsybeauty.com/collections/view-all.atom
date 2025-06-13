@@ -1,0 +1,3315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/view-all.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2025-06-01T00:10:14+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/10064437903669</id>
+    <published>2025-06-01T00:10:14+05:30</published>
+    <updated>2025-06-01T00:10:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/vanilla-whispers-bracelet"/>
+    <title>Vanilla Whispers + Bracelet</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Spritzy by Typsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Vanilla-Whispers.jpg?v=1744953098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spritzy by Typsy<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>Antique</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437903669</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2499.00</s:price>
+      <s:sku>CCC-0578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10064437739829</id>
+    <published>2025-06-01T00:10:12+05:30</published>
+    <updated>2025-06-01T00:10:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/all-4-perfumes"/>
+    <title>Set of 4 Perfumes</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Spritzy by Typsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Bundle_All_4_Perfume.jpg?v=1744953080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spritzy by Typsy<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            7999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Indulge in the full spectrum of scent with our complete set of four signature Extrait De Parfums—<b>Café Noir</b>, <b>Vanilla Whispers</b>, <b>Amber Elixir</b>, and <b>Forbidden Jasmine</b>.</p>
+<p class="p1">Crafted in France, each fragrance offers a distinct personality:<br><b>Café Noir</b> – rich, bold, and addictive<br><b>Vanilla Whispers</b> – soft, creamy, and comforting<br><b>Amber Elixir</b> – warm, sensual, and mysterious<br><b>Forbidden Jasmine</b> – floral, fierce, and unforgettable</p>
+<p class="p1">Whether you layer them, wear them solo, or switch them up with your mood, this collection is perfect for discovering your signature scent—or gifting someone theirs.</p>
+<p class="p1">Your full fragrance wardrobe, in one beautiful bundle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>Antique</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437739829</id>
+      <title>Default Title</title>
+      <s:price currency="INR">7999.00</s:price>
+      <s:sku>CCC-0577</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10064437641525</id>
+    <published>2025-06-01T00:10:11+05:30</published>
+    <updated>2025-06-01T00:10:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/personalise-your-perfume-bottle"/>
+    <title>Personalise Your Perfume Bottle</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Spritzybytypsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Amber-Elixir-1st-Image.png?v=1745240958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spritzybytypsy<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Now you can add a custom touch to your favourite Typsy Beauty fragrance. Whether it's your name, a special date, or a short message, we’ll etch it beautifully onto your bottle—turning your perfume into a keepsake that’s uniquely yours.</span><b></b></p>
+<p dir="ltr"><span>Perfect for gifting (or treating yourself), this customization adds a luxurious, heartfelt detail to any fragrance.</span><b></b></p>
+<p dir="ltr"><span>✨ Choose your scent</span></p>
+<p dir="ltr"><span>✨ Add your custom text</span></p>
+<p dir="ltr"><span>✨ We engrave it with love</span><b></b></p>
+<p dir="ltr"><span>Because your fragrance should be as unforgettable as you are.</span><b></b></p>
+<p dir="ltr"><strong>Please note - </strong></p>
+<p>This item will be shipped within 7–10 business days.</p>
+<p>It will be securely packaged in our original monocarton box.</p>
+<p>Please note that this item is non-returnable and non-cancellable once the order is place</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>NO_COD</s:tag>
+    <s:tag>personalise</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437641525</id>
+      <title>Vanilla Whispers</title>
+      <s:price currency="INR">2799.00</s:price>
+      <s:sku>FR-EXDP-0015E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437641525</id>
+      <title>Amber Elixir</title>
+      <s:price currency="INR">2799.00</s:price>
+      <s:sku>FR-EXDP-0016E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437641525</id>
+      <title>Forbidden Jasmine</title>
+      <s:price currency="INR">2799.00</s:price>
+      <s:sku>FR-EXDP-0017E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437641525</id>
+      <title>Café Noir</title>
+      <s:price currency="INR">2799.00</s:price>
+      <s:sku>FR-EXDP-0018E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10064437608757</id>
+    <published>2025-06-01T00:10:10+05:30</published>
+    <updated>2025-06-01T00:10:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/fragrance-bracelet"/>
+    <title>Fragrance Bracelet</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Spritzy by Typsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st-Image_1_e7b55c05-3a2d-46cf-9250-0309e45e183d.jpg?v=1744953051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spritzy by Typsy<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Introducing your new favourite accessory </b>– The Fragrance Bracelet! A chic and practical way to keep you smelling amazing all day long.</p>
+<p>Simply spray your favourite perfume onto the sponge, place the sponge into the bracelet and you're ready to go. The bracelet gently releases the scent throughout the day. Comes with 10 sponges in attractive colours. </p>
+<p>Adjustable bracelet, fits all wrist sizes. </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>Antique</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>draft</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437608757</id>
+      <title>Default Title</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>FR-EXDP-0006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10064437575989</id>
+    <published>2025-06-01T00:10:09+05:30</published>
+    <updated>2025-06-01T00:10:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/forbidden-jasmine-bracelet"/>
+    <title>Forbidden Jasmine + Bracelet</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Spritzy by Typsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Forbidden-Jasmine.jpg?v=1744953041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spritzy by Typsy<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>Antique</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437575989</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2499.00</s:price>
+      <s:sku>CCC-0580</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10064437444917</id>
+    <published>2025-06-01T00:10:08+05:30</published>
+    <updated>2025-06-01T00:10:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/cafe-noir-bracelet"/>
+    <title>Café Noir + Bracelet</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Spritzy by Typsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Cafe-Noir.jpg?v=1744953020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spritzy by Typsy<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>Antique</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437444917</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2499.00</s:price>
+      <s:sku>CCC-0581</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10064437313845</id>
+    <published>2025-06-01T00:10:07+05:30</published>
+    <updated>2025-06-01T00:10:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/mixology-bracelet"/>
+    <title>Bracelet + Mixology Experience Set</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Spritzy by Typsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Bundle_Mixology_Bracelet.jpg?v=1744953000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spritzy by Typsy<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Elevate your scent game with this power-packed fragrance combo—featuring the <b>Mixology Experience Set</b> and our signature <b>Fragrance Bracelet</b>. Whether you're discovering your signature scent or carrying it with you in style, this set is made to delight.</p>
+<p class="p1"><span class="s1">✨</span> <b>Mix, match &amp; personalize</b> your own fragrance with 8 Extrait De Parfum miniatures crafted in France.<br><span class="s1">✨</span> <b>Wear your scent all day long</b> with the chic, refillable Fragrance Bracelet—designed to diffuse your favorite perfume gently and stylishly.</p>
+<p class="p1">Perfect for gifting or treating yourself, this combo is travel-friendly, endlessly customizable, and effortlessly cool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>Antique</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437313845</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku>CCC-0576</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10064437215541</id>
+    <published>2025-06-01T00:10:06+05:30</published>
+    <updated>2025-06-01T00:10:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/amber-elixir-bracelet"/>
+    <title>Amber Elixir + Bracelet</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Spritzy by Typsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Amber-Elixir.jpg?v=1744952980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spritzy by Typsy<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>Antique</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>draft</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10064437215541</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2499.00</s:price>
+      <s:sku>CCC-0579</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10041407701301</id>
+    <published>2025-06-01T00:10:04+05:30</published>
+    <updated>2025-06-01T00:10:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/mixology-experience-kit"/>
+    <title>Mixology Experience Kit</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Mini-Web-1st-Image.jpg?v=1743164311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the art of fragrance layering with our Mixology Experience Kit, a curated set of 8 Extrait De Parfum bottles crafted in France. Create your own scent mood with this super-giftable and travel-friendly fragrance book! This mini perfume set allows you to mix, match, experiment and personalize your own unique scent before committing to a full-sized bottle.</p>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>1 x 3ml Vanilla Whispers AM</strong>  - </span><span>Vanilla AM embodies modern elegance with creamy vanilla, delicate jasmine, and lavender. Fresh top notes greet the morning, while a warm, velvety base lingers in effortless luxury. Feminine, refined, and timeless.</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>1 x 3ml Vanilla Whispers PM</strong> - </span><span>Vanilla PM is a bold, sweet indulgence with caramel, amber, and sandalwood, enriched by exotic florals and musk. Sensual and mysterious, it’s perfect for glamorous evenings and unforgettable nights.</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>1 x 3ml Amber Elixir AM</strong>  - </span><span>Amber AM is a sophisticated blend of amber, saffron, and brown sugar, balanced with jasmine and cedarwood. Warm and elegant, it leaves a luxurious trail of quiet strength and refinement.</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>1 x 3ml Amber Elixir PM</strong> - </span><span>Amber PM is a bold fusion of pink pepper, saffron, and smoky leather, softened by caramel, vanilla, and amber. Seductive and rebellious, it’s for the woman who commands attention effortlessly.</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>1 x 3ml Cafe Noir AM</strong> - </span><span>Coffee AM is a cozy blend of fresh coffee, creamy milk, and cinnamon, evoking a quiet morning’s warmth. Subtle yet profound, it’s perfect for those who cherish life’s simple pleasures.</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>1 x 3ml Cafe Noir PM</strong> - </span><span>Coffee PM is a bold night scent with rich coffee, spicy cardamom, and chili, softened by vanilla and brandy. Magnetic and intense, it’s perfect for a confident, unforgettable presence.</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>1 x 3ml Forbidden Jasmine AM</strong> - </span><span>A crisp, luminous floral with bright jasmine and creamy sandalwood. Effortlessly elegant, refined, and perfect for those who love timeless, understated beauty.</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>1 x 3ml Forbidden Jasmine PM</strong> - </span><span>A warm, creamy jasmine with roasted chestnut, cashmere, and sandalwood, accented by vanilla and cherry blossom. Cozy yet sensual, perfect for intimate evenings or quiet nights in.</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10041407701301</id>
+      <title>Default Title</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>FR-EXDP-0005</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10006838935861</id>
+    <published>2025-06-01T00:09:54+05:30</published>
+    <updated>2025-06-01T00:09:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/amber-elixir"/>
+    <title>Amber Elixir</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st-Image_8c21b95e-3423-42d4-a745-4e843fd0ecfe.jpg?v=1740660329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><strong><span class="TextRun Highlight SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle-defn='{"ObjectId":"9f3ee9e9-0948-40e4-9096-556044565653|32","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"24",469775450,"normaltextrun",201340122,"1",134233614,"true",469778129,"normaltextrun",335572020,"1",469778324,"Default Paragraph Font"]}' data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">AM Story:</span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle-defn='{"ObjectId":"9f3ee9e9-0948-40e4-9096-556044565653|33","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"24",469775450,"eop",201340122,"1",134233614,"true",469778129,"eop",335572020,"1",469778324,"Default Paragraph Font"]}' data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><strong><span class="TextRun MacChromeBold SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">Accords - Amber, Aromatic, Sweet, Woody</span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">Amber AM is a sophisticated fragrance for the woman who commands attention without speaking. It blends sweet amber and saffron with warm brown sugar and toffee, creating an elegant and sensual scent. Its heart of jasmine and cedarwood adds balance, while ambergris and fir resin deepen the warmth, leaving a luxurious trail of quiet strength and refinement. A fragrance for those who exude effortless elegance.</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><strong><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">AM Notes</span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">TOP: Saffron, Jasmine</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">MID: Amber, Brown Sugar, Ambergris </span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">BASE: Toffee, Oakmoss, </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SpellingErrorV2Themed SCXW244764396 BCX0">Ambroxan</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">,</span></span><span class="TextRun MacChromeBold SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">Cedar </span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="auto"><span data-ccp-parastyle-defn='{"ObjectId":"9f3ee9e9-0948-40e4-9096-556044565653|31","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Times New Roman",469777842,"Times New Roman",469777843,"Times New Roman",469777844,"Times New Roman",201341986,"1",469769226,"Times New Roman",268442635,"24",469775450,"paragraph",201340122,"2",134233614,"true",469778129,"paragraph",335572020,"1",335559705,"2057",134233118,"true",134233117,"true",469778324,"Normal"]}' data-ccp-parastyle="paragraph" class="NormalTextRun SCXW244764396 BCX0"></span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><strong><span class="TextRun SCXW244764396 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">PM Story:</span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><strong><span class="TextRun MacChromeBold SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">Accords - Amber, Vanilla, Leather, Spicy</span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">Amber PM is for the fearless, rebellious woman who owns the room. A bold blend of spicy pink pepper, saffron, and smoky leather creates a powerful, seductive scent. Sweet caramel, bourbon vanilla, and amber add warmth, while the leather adds a raw, rebellious edge. This fragrance leaves a captivating trail, perfect for the woman who demands attention and </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">isn’t</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0"> afraid to break the rules.</span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><strong><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">PM</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0">  Notes</span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">TOP: Caramel, Saffron, Pink Pepper</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">MID: Leather, Tonka Bean, Lily of Valley</span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW244764396 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW244764396 BCX0">
+<p class="Paragraph SCXW244764396 BCX0"><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">BASE: Bourbon Vanilla, Amber,</span></span><span class="TextRun MacChromeBold SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0"> </span></span><span class="TextRun SCXW244764396 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW244764396 BCX0">Musk </span></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10006838935861</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>FR-EXDP-0002</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10006581117237</id>
+    <published>2025-06-01T00:09:53+05:30</published>
+    <updated>2025-06-01T00:09:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/cafe-noir"/>
+    <title>Café Noir</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1ist_Image.png?v=1740727656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><strong><span class="TextRun Highlight SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle-defn='{"ObjectId":"9f3ee9e9-0948-40e4-9096-556044565653|32","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"24",469775450,"normaltextrun",201340122,"1",134233614,"true",469778129,"normaltextrun",335572020,"1",469778324,"Default Paragraph Font"]}' data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0"> AM Story:</span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun MacChromeBold SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">Accords - Coffee, Aromatic, Sweet, Woody</span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">Coffee AM is a serene, comforting fragrance that captures the essence of a quiet morning. With fresh, aromatic coffee, creamy milk, and a hint of cinnamon, it feels like a warm, indulgent moment. Subtle yet profound, this unisex scent is perfect for those who find peace in life’s simple pleasures and appreciate the calm of the everyday.</span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><strong><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">AM</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> Notes</span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">TOP - Coffee, Orange Blossom, Red Apple </span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">MID: Cappuccino, Lavender, Tonka Bean</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">BASE: Sandalwood, Vanilla, Vetiver, Milk Mousse </span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><strong><span class="TextRun SCXW186892336 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">PM Story:</span></span><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun MacChromeBold SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">Accords - Warm Spicy, Coffee, Sweet, Woody, Vanilla</span></span><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">Coffee PM is a bold, intense fragrance for the night. Rich roasted coffee, spicy cardamom, and chili pepper create a sharp, electrifying opening, while the smooth </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">warmth of vanilla and brandy adds an irresistible depth. Unisex and magnetic, this scent exudes confidence and sensuality, perfect for those who want to make a lasting, unforgettable impression.</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><strong><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">PM Notes</span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">TOP - Cardamom, Chilli Pepper</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">MID: Salted caramel, Coffee, </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SpellingErrorV2Themed SCXW186892336 BCX0">Cinammon</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW186892336 BCX0">
+<p class="Paragraph SCXW186892336 BCX0"><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0">BASE: Vanilla, Tobacco, Brandy, Cedar, Musk</span></span><span class="TextRun MacChromeBold SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span class="TextRun SCXW186892336 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW186892336 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW186892336 BCX0"> </span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10006581117237</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>FR-EXDP-0004</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10006566928693</id>
+    <published>2025-06-01T00:09:52+05:30</published>
+    <updated>2025-06-01T00:09:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/forbidden-jasmine"/>
+    <title>Forbidden Jasmine</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st-iMAGE_7425e8ad-7b21-452f-9195-4fbe94987315.jpg?v=1740644560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><strong><span class="TextRun Highlight SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle-defn='{"ObjectId":"9f3ee9e9-0948-40e4-9096-556044565653|32","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"24",469775450,"normaltextrun",201340122,"1",134233614,"true",469778129,"normaltextrun",335572020,"1",469778324,"Default Paragraph Font"]}' data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">AM Story:</span></span><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle-defn='{"ObjectId":"9f3ee9e9-0948-40e4-9096-556044565653|33","ClassId":1073872969,"Properties":[201342446,"1",201342447,"5",201342448,"1",201342449,"1",469777841,"Aptos",469777842,"",469777843,"Aptos",469777844,"Aptos",201341986,"1",469769226,"Aptos",268442635,"24",469775450,"eop",201340122,"1",134233614,"true",469778129,"eop",335572020,"1",469778324,"Default Paragraph Font"]}' data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><strong><span class="TextRun MacChromeBold SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">Accords - Citrus, White Floral, Fresh, Fruity, Woody</span></span><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">Jasmine AM is a crisp, sparkling floral scent that captures the effortless elegance of a woman who radiates grace and simplicity. Bright jasmine smell opens the fragrance with a luminous freshness, softened by creamy sandalwood for a clean, refined balance. Perfect for those who love understated beauty and a timeless, </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW100675779 BCX0">second-skin</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0"> feel.</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><strong><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">AM Notes</span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">TOP: Yuzu, Limoncello, Kiwi</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">MID: Lotus, Jasmine, Orange Blossom</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">BASE: Cedar, Vanilla Leaves, White Patchouli,</span></span><span class="TextRun MacChromeBold SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">Sandalwood </span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"> </p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><strong><span class="TextRun SCXW100675779 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">PM Story:</span></span><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun MacChromeBold SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">Accords - White floral, Sweet, Warm spicy, Nutty</span></span><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">Jasmine PM is a warm, creamy take on jasmine that feels like a comforting hug, blending lush floral notes with roasted chestnut cashmere and sandalwood. Accented with vanilla cream and a playful touch of cherry blossom, </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">it’s</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0"> cozy yet sensual—perfect for an intimate evening or a quiet night in.</span></span><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"></span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><strong><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">PM</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> Notes</span></span></strong><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">TOP - Jasmine </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SpellingErrorV2Themed SCXW100675779 BCX0">sambac</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">, Cherry blossom, </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW100675779 BCX0">Pink</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0"> pepper</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">MID: Chestnut, Marshmallow</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW100675779 BCX0">
+<p class="Paragraph SCXW100675779 BCX0"><span class="TextRun SCXW100675779 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW100675779 BCX0">BASE: Sandalwood, Cashmere, Vanilla Cream</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW100675779 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW100675779 BCX0"> </span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10006566928693</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>FR-EXDP-0003</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10003897614645</id>
+    <published>2025-06-01T00:09:51+05:30</published>
+    <updated>2025-06-01T00:09:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/vanilla-whispers"/>
+    <title>Vanilla Whispers</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st_Image.png?v=1740727709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><strong><span class="TextRun Highlight SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">AM Story:</span></span><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><strong><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">Accords - Vanilla, Aromatic, Sweet, Woody</span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">Vanilla AM captures the grace of a modern muse with its sweet, creamy vanilla balanced by floral whispers of jasmine and lavender. Fresh top notes evoke the blush of morning light, while a warm, velevet-like base wraps you in effortless luxury. Feminine, refined, and timeless— this fragrance is for those who command attention with poise and leave a trail of sweet sophistication.</span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><strong><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">AM Notes</span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">TOP - Lavender, Yuzu</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW209415872 BCX0"> <br></span><span class="TextRun SCXW209415872 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">MIDDLE - Rosewood, Iris, Velvet, Jasmine </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SpellingErrorV2Themed SCXW209415872 BCX0">Sambac</span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW209415872 BCX0"> <br></span><span class="TextRun SCXW209415872 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">BASE - Vanilla, Sandalwood, Tonka Bean, </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SpellingErrorV2Themed SCXW209415872 BCX0">Licorice</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0"> Candy, Benzoin, Musk</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span></span></p>
+<p class="Paragraph SCXW209415872 BCX0"> </p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><strong><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">PM Story:</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><strong><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">Accords - Vanilla, Gourmand, Woody, Amber</span></span><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><span class="TextRun SCXW209415872 BCX0" lang="EN-IN" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">Vanilla PM takes you from day to night with its warm, sugary sweetness and bold sophistication. Opening creamy caramel, it deepens into rich amber and sandalwood, enhanced by exotic florals and musk. Sensual, daring, and unforgettable, this gourmand fragrance is both sweet and mysterious—a perfect blend of indulgence and allure for glamorous evenings or romantic nights. For the confident woman who leaves a bold, </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">lasting impression</span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">.</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span></span></p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><strong><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">PM Notes</span></span></strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW209415872 BCX0">
+<p class="Paragraph SCXW209415872 BCX0"><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">TOP - Vanilla Orchid, Jasmine</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW209415872 BCX0"> <br></span><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">MIDDLE - Caramel, Vanilla Frosting, Tonka Bean</span><span data-ccp-charstyle="eop" class="NormalTextRun SCXW209415872 BCX0"> </span></span><span data-ccp-props='{"134233117":false,"134233118":false,"335559738":0,"335559739":0}' class="EOP SCXW209415872 BCX0"> <br></span><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">BASE – Amberwood, Musk,</span></span><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0"> </span></span><span class="TextRun SCXW209415872 BCX0" lang="EN-US" data-contrast="none"><span data-ccp-charstyle="normaltextrun" class="NormalTextRun SCXW209415872 BCX0">Patchouli</span></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10003897614645</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>FR-EXDP-0001</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10091285807413</id>
+    <published>2025-06-01T00:09:10+05:30</published>
+    <updated>2025-06-01T00:09:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/apple-martini-pout-polish-lip-treatment-balm"/>
+    <title>APPLE MARTINI POUT POLISH LIP TREATMENT BALM</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1st-Image-Website_1.jpg?v=1748599342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the</span><span> <strong>Apple Martini Pout Polish Peptide Lip Treatment Balm</strong></span><span> – your newest obsession and the ultimate fusion of skincare and makeup. This innovative balm combines the hydration of a lip mask, the shine of a lip glaze, and the power of advanced skincare — all packed into one sleek tube.</span><b></b></p>
+<p dir="ltr"><strong>Scented like a refreshing apple martini</strong><span><strong>,</strong> this variant adds a playful twist to your routine. The balm starts off as a vibrant green but transforms into a unique pink tint upon contact with your lips, thanks to its pH-reactive formula. The result? A flattering, custom pink hue that stays put all day long — no touch-ups needed.</span><b></b></p>
+<p dir="ltr"><strong>Formulated in Italy</strong><span><strong>,</strong> it features highly targeted lip peptides that help reduce fine lines and wrinkles over time, while collagen boosts fullness and lip rejuvenation. Enriched with brightening ingredients, it’s also ideal for restoring natural lip color and treating darkened lips.</span></p>
+<p dir="ltr"><b id="docs-internal-guid-5699089a-7fff-f029-7a8a-0deaee00c9f8"></b>Our <strong>moisture-lock technology </strong>creates a protective barrier that keeps lips deeply hydrated for up to 8 hours, while the metal-tip applicator delivers a cooling experience with every swipe. Lightweight, non-sticky, and pocket-sized, it’s perfect for that juicy, high-shine glazed lip look — anytime, anywhere.<span></span></p>
+<p dir="ltr"><strong>What makes this lip balm so good?</strong></p>
+<ul>
+<li dir="ltr" role="presentation">
+<strong>pH-Activated Color Change:</strong><span><strong> </strong>Goes on green, turns into your perfect pink tint that lasts all day</span>
+</li>
+<li dir="ltr" role="presentation">
+<strong>Metal Tip Applicator: </strong><span>Gives a refreshing, cooling experience with every swipe</span>
+</li>
+<li dir="ltr" role="presentation">
+<span><strong>Triple Action Formula: </strong></span><span>Hydrates like a mask, shines like a glaze, nourishes like a treatment balm</span>
+</li>
+<li dir="ltr" role="presentation">
+<strong>Science-Backed Ingredients:</strong><span> Peptides and collagen hydrate, reduce fine lines, brighten dark lips, and adds plumping effect</span>
+</li>
+<li dir="ltr" role="presentation">
+<span><strong>Non - Sticky High Shine:</strong> </span><span>Leaves a juicy, radiant finish without any stickiness</span>
+</li>
+<li dir="ltr" role="presentation">
+<span><strong>Comfortable, Lightweight Formula:</strong> </span><span>Cushions lips in smooth, bouncy moisture that wears comfortable all day</span>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><strong>Dessert-Inspired Scent:</strong><span><strong> </strong>Smells just like a crisp, zesty apple martini for a truely indulgent experience</span></p>
+<span><b id="docs-internal-guid-b287432c-7fff-47e0-6694-d13a90d9839b"></b></span>
+</li>
+</ul>
+<p dir="ltr"><em><strong>100% Vegan &amp; Cruelty-free Net Weight: 8 gm</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10091285807413</id>
+      <title>Default Title</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>CCL-0061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10084742234421</id>
+    <published>2025-05-15T17:42:55+05:30</published>
+    <updated>2025-05-15T17:42:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/pout-polish-duo-day-to-night-lip-balms"/>
+    <title>Pout Polish Duo: Day to Night Lip Balms</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Pout-Polish-AM-PM-Revised.jpg?v=1748591466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the Pout Polish AM:PM Duo — your complete lip ritual, designed for effortless beauty and deep care from morning to night.</span><b></b></p>
+<p dir="ltr"><span>✨ <strong>AM Tinted Balm:</strong> Start your day with our tinted Pout Polish balm – a skincare-meets-makeup multitasker. It hydrates like a lip mask, adds shine like a gloss, and tints like a dream, giving you the perfect “skincare as makeup” finish. Think glazed lips with real benefits.</span><b></b></p>
+<p dir="ltr"><span>🌙 <strong>PM Clear Balm:</strong> End your day with our clear, untinted balm – a powerful overnight lip treatment that heals, soothes, and repairs while you sleep. Wake up to softer, plumper, and more rejuvenated lips every morning.</span><b></b></p>
+<p dir="ltr"><span>Both balms are powered by science-backed skincare actives like peptides and collagen, and infused with dessert-inspired scents that make every application a moment of joy.</span><span></span></p>
+<p dir="ltr"><strong>What makes it so goood:</strong><span><b></b></span></p>
+<ul>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>AM:PM Lip Routine:</strong> Tinted balm for daytime glow, untinted balm for overnight repair</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Metal Tip Applicator: </strong>Gives a refreshing, cooling experience with every swipe</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Triple Action Formula:</strong> Hydration of a lip mask, shine of a lip glaze, nourishment of a lip treatment balm</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Science-Backed Ingredients:</strong> Peptides and collagen hydrate, smooth fine lines, and plump lips over time</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Non-Sticky High Shine:</strong> Delivers a radiant, glazed finish without any stickiness</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Comfortable, Lightweight Formula:</strong> Wraps lips in non-greasy, bouncy moisture</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Moisture Lock Technology:</strong> Provides up to 8 hours of hydration and comfort</span></p>
+</li>
+<li dir="ltr" aria-level="1">
+<p dir="ltr" role="presentation"><span><strong>Dessert-Inspired Scents:</strong> Each balm features indulgent dessert-like fragrances for a sensory treat</span></p>
+</li>
+</ul>
+<p dir="ltr"><em>100% Vegan &amp; Cruelty-free. Dermatologically Tested</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>value-sets</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery Pink / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Chocolate Fondant - Decadent Chocolate / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Caramel Toffee - Nude Brown / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Raspberry Lollipop - Juicy Berry / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0464</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10084742234421</id>
+      <title>Apple Martini / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10079112003893</id>
+    <published>2025-05-07T13:15:09+05:30</published>
+    <updated>2025-05-07T13:15:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/lip-treatment-balm-cocoa-peptide-velvet-matte-lipstick"/>
+    <title>Lip Treatment Balm + Cocoa Peptide Lipstick</title>
+    <s:type>Cocoa Peptide</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Cocoa-Peptide_Peptide-Lip-Balm_1.jpg?v=1746538974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Cocoa Peptide<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say hello to your new lip ritual with our Pout Polish Peptide Lip Treatment Balm — the ultimate 3-in-1 that hydrates like a mask, shines like a glaze, and treats like a balm. Powered by science-backed peptides and collagen, it visibly smooths fine lines, brightens dark lips, and delivers a plumped-up glow. Its lightweight, non-sticky texture is perfect for daily use, while the cooling metal-tip applicator adds a refreshing touch. Packed with dessert-inspired scents and 8-hour moisture-lock technology, this balm is your go-to for soft, glossy, and nourished lips all day long.</p>
+<p>Pair it with our Cocoa Peptide Velvet Lipstick — a modern matte made for those who want bold color without compromise. Infused with our hero ingredient Cocoa Peptides, this lipstick hydrates, smooths, and repairs while delivering rich pigment in a soft-blur, featherlight formula. Designed around universally flattering Pink, Mauve, and Brown tones for every Indian skin tone, it glides on effortlessly and wears comfortably for up to 6 hours. With a chocolatey scent and plush finish, it’s matte lipstick — redefined.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>value-sets</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Light – Soft Warm Pink with subtle rosy undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0959</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Light – Soft Warm Pink with subtle rosy undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0968</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Light – Soft Warm Pink with subtle rosy undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Light – Soft Warm Pink with subtle rosy undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0950</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Light – Soft Warm Pink with subtle rosy undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0986</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Light – Soft Warm Pink with subtle rosy undertones / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Medium – Rich Berry Rose with warm undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0960</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Medium – Rich Berry Rose with warm undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Medium – Rich Berry Rose with warm undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Medium – Rich Berry Rose with warm undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0951</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Medium – Rich Berry Rose with warm undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0987</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Medium – Rich Berry Rose with warm undertones / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Deep – Deep Plump Rose with cool undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0961</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Deep – Deep Plump Rose with cool undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Deep – Deep Plump Rose with cool undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Deep – Deep Plump Rose with cool undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0952</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Deep – Deep Plump Rose with cool undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Pink Praline - Deep – Deep Plump Rose with cool undertones / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC-0997</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Light – Muted Mauve with cool undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0962</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Light – Muted Mauve with cool undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Light – Muted Mauve with cool undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0980</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Light – Muted Mauve with cool undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0953</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Light – Muted Mauve with cool undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0989</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Light – Muted Mauve with cool undertones / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC-0998</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Medium – Berry Plum with neutral undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Medium – Berry Plum with neutral undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Medium – Berry Plum with neutral undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0981</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Medium – Berry Plum with neutral undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0954</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Medium – Berry Plum with neutral undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Medium – Berry Plum with neutral undertones / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC-0999</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Deep – Plum with cool undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0964</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Deep – Plum with cool undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Deep – Plum with cool undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0982</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Deep – Plum with cool undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0955</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Deep – Plum with cool undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Mocha Mauve - Deep – Plum with cool undertones / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Light – Muted pinkish brown / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0956</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Light – Muted pinkish brown / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Light – Muted pinkish brown / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Light – Muted pinkish brown / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Light – Muted pinkish brown / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0983</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Light – Muted pinkish brown / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC-0995</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Medium – Neutral brown berry / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0957</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Medium – Neutral brown berry / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Medium – Neutral brown berry / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Medium – Neutral brown berry / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0948</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Medium – Neutral brown berry / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0984</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Medium – Neutral brown berry / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC-0993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Deep – Rich deep reddish brown / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0958</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Deep – Rich deep reddish brown / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0967</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Deep – Rich deep reddish brown / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Deep – Rich deep reddish brown / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0949</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Deep – Rich deep reddish brown / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC- 0985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10079112003893</id>
+      <title>Brownie Bite - Deep – Rich deep reddish brown / Apple Martini</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>CCC-0994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077036314933</id>
+    <published>2025-05-05T18:18:45+05:30</published>
+    <updated>2025-05-05T18:18:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/concealer-ph-blush"/>
+    <title>Concealer + Ph Blush</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/pH-Blush_Concealer.jpg?v=1746448917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Late nights, flawless mornings – meet the Hangover Proof Full Coverage Concealer.</span></p>
+<p dir="ltr"><span>This light-as-air, full-coverage concealer hides dark circles, blemishes, redness, and signs of last night – no creasing, no caking.</span></p>
+<p dir="ltr"><span>Why it's a game-changer:</span></p>
+<p dir="ltr"><span>Full coverage with a natural matte finish</span></p>
+<p dir="ltr"><span>Sweat-proof, water-resistant &amp; crease-proof</span></p>
+<p dir="ltr"><span>Shea Butter-infused for hydration &amp; smooth application</span></p>
+<p dir="ltr"><span>Blurs fine lines, pores &amp; wrinkles effortlessly</span></p>
+<p dir="ltr"><span>XL pillowy doe-foot for easy, precise use</span></p>
+<p dir="ltr"><span>Doubles as a highlighter &amp; contour stick</span></p>
+<p dir="ltr"><span>9 versatile shades made for Indian skin tones</span></p>
+<p dir="ltr"><span>Made in Korea</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Orange Corrector / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0877</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Orange Corrector / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0886</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Orange Corrector / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0895</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Orange Corrector / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0904</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>White Russian - Fair with neutral undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0869</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>White Russian - Fair with neutral undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0878</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>White Russian - Fair with neutral undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0887</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>White Russian - Fair with neutral undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0896</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Prosecco - Light with pink undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0870</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Prosecco - Light with pink undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0879</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Prosecco - Light with pink undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0888</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Prosecco - Light with pink undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0897</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Brandy - Tan with warm undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0874</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Brandy - Tan with warm undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0883</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Brandy - Tan with warm undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0892</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Brandy - Tan with warm undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0901</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Dark Rum - Tan deep with olive undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0875</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Dark Rum - Tan deep with olive undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0884</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Dark Rum - Tan deep with olive undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0893</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Dark Rum - Tan deep with olive undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0902</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Espresso Martini - Deep with neutral undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0876</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Espresso Martini - Deep with neutral undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0885</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Espresso Martini - Deep with neutral undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0894</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Espresso Martini - Deep with neutral undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0903</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Pina Colada - Light medium with warm undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0871</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Pina Colada - Light medium with warm undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0880</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Pina Colada - Light medium with warm undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0889</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Pina Colada - Light medium with warm undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0898</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Baileys - Medium with warm undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0872</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Baileys - Medium with warm undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0881</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Baileys - Medium with warm undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0890</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Baileys - Medium with warm undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0899</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Whiskey - Medium with neutral undertones / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0873</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Whiskey - Medium with neutral undertones / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0882</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Whiskey - Medium with neutral undertones / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0891</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077036314933</id>
+      <title>Whiskey - Medium with neutral undertones / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0900</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077090611509</id>
+    <published>2025-05-05T17:03:27+05:30</published>
+    <updated>2025-05-05T17:03:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/lip-treatment-balm-double-shot-kajal-eyeliner"/>
+    <title>Lip Treatment Balm + Double Shot Kajal + Eyeliner</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Peptide_-08.jpg?v=1746434716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Lip Balm<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipgloss</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Strawberry Cheesecake with Shimmer - Shimmery Pink / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Raspberry Lollipop - Juicy Berry / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Caramel Toffee - Nude Brown / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Coconut Crumble - Clear Non tinted / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0848</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Chocolate Fondant - Decadent Chocolate / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0852</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077090611509</id>
+      <title>Apple Martini / Double Shot Kajal + Eyeliner</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077086449973</id>
+    <published>2025-05-05T17:03:26+05:30</published>
+    <updated>2025-05-05T17:03:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-blush-lip-shots"/>
+    <title>Silk Cushion Blush + Lip Shots</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Silk-Cushion_Lip-Shots.jpg?v=1746444226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the Silk Cushion Collection – India's first cream-liquid face range with a viral cushion-tip applicator for flawless, radiant skin.</span></p>
+<p dir="ltr"><span>Blush it your way: Just dot, blend, and glow with 4 pigment-packed, silky blushes – Bouquet of Roses, Strawberry Champagne, Coral Cascade, and Violet Veil.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Buildable, blendable &amp; packed with pigment</span></p>
+<p dir="ltr"><span>Cushion-tip for precise, mess-free application</span></p>
+<p dir="ltr"><span>Enriched with Vitamin E &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Made for Indian skin tones, suits all types</span></p>
+<p dir="ltr"><span>Feather-light, silky formula</span></p>
+<p dir="ltr"><span>100% vegan &amp; cruelty-free</span></p>
+<p dir="ltr"><span>Formulated in Italy</span></p>
+<p dir="ltr"><span>Pro tip: Twist &amp; lock after use!</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Say hello to Lip Shots – your mini lipstick must-haves!</span></p>
+<p dir="ltr"><span>Featuring 4 bestselling ON &amp; OFF shades, these 1.2ml minis deliver intense, weightless color with 12-hour smudge-proof wear.</span></p>
+<p dir="ltr"><span>Why you’ll love them:</span></p>
+<p dir="ltr"><span>Liquid matte with one-swipe pigment</span></p>
+<p dir="ltr"><span>Blurs lines with a soft-focus finish</span></p>
+<p dir="ltr"><span>Packed with Raspberry Stem Cells, Cocoa Butter &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Non-drying, velvety formula that stays comfy</span></p>
+<p dir="ltr"><span>Mini, mess-free &amp; made for on-the-go</span></p>
+<p dir="ltr"><span>Mask-proof, kiss-proof, food-proof</span></p>
+<p dir="ltr"><span>Big color. Tiny tube. All the impact.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077086449973</id>
+      <title>Voilet Veil 06 / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0941</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077086449973</id>
+      <title>Coral Cascade 08 / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0942</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077086449973</id>
+      <title>Strawberry Champagne 01 / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0943</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077086449973</id>
+      <title>Bouquet Of Roses 02 / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0944</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077085860149</id>
+    <published>2025-05-05T17:03:25+05:30</published>
+    <updated>2025-05-05T17:03:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-blush-lip-shots"/>
+    <title>PH Blush + Lip Shots</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/pH-Blush_Lip-Shots.jpg?v=1746436283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085860149</id>
+      <title>Plum Pie 01: Deep reddish-purple / Lip Shots</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0844</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085860149</id>
+      <title>Lychee Lolly 02: Vibrant pink with peach / Lip Shots</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0845</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085860149</id>
+      <title>Mango Milkshake 03: Soft peachy orange / Lip Shots</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0846</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085860149</id>
+      <title>Cotton Candy 04: Light pastel pink / Lip Shots</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0847</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077082550581</id>
+    <published>2025-05-05T17:03:23+05:30</published>
+    <updated>2025-05-05T17:03:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-adaptive-lip-oil-lip-shots"/>
+    <title>PH Lip Oil + Lip Shots</title>
+    <s:type>Lip Oil</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Lip-Shots_Lip-Oil.jpg?v=1746443083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Lip Oil<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing our pH-Reactive Lip &amp; Cheek Oil – your glow, your way.</span></p>
+<p dir="ltr"><span>This color-changing multitasker adapts to your unique pH for a custom tint that flatters every skin tone. Infused with Acai Berry, Maracuja, and Hibiscus oils, it hydrates, soothes, and adds a radiant, dewy finish to lips and cheeks.</span></p>
+<p dir="ltr"><span>Why it’s a game-changer:</span></p>
+<p dir="ltr"><span>pH-reactive formula for a personalized flush</span></p>
+<p dir="ltr"><span>Glossy lip shine + dewy cheek glow</span></p>
+<p dir="ltr"><span>Ultra-hydrating with skin-loving oils</span></p>
+<p dir="ltr"><span>Lightweight, sheer &amp; non-sticky</span></p>
+<p dir="ltr"><span>Universal tint for all skin tones</span></p>
+<p dir="ltr"><span>Dermatologically tested</span></p>
+<p dir="ltr"><span>One product. Endless glow.</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Say hello to Lip Shots – your mini lipstick must-haves!</span></p>
+<p dir="ltr"><span>Featuring 4 bestselling ON &amp; OFF shades, these 1.2ml minis deliver intense, weightless color with 12-hour smudge-proof wear.</span></p>
+<p dir="ltr"><span>Why you’ll love them:</span></p>
+<p dir="ltr"><span>Liquid matte with one-swipe pigment</span></p>
+<p dir="ltr"><span>Blurs lines with a soft-focus finish</span></p>
+<p dir="ltr"><span>Packed with Raspberry Stem Cells, Cocoa Butter &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Non-drying, velvety formula that stays comfy</span></p>
+<p dir="ltr"><span>Mini, mess-free &amp; made for on-the-go</span></p>
+<p dir="ltr"><span>Mask-proof, kiss-proof, food-proof</span></p>
+<p dir="ltr"><span>Big color. Tiny tube. All the impact.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>APR5SHIP</s:tag>
+    <s:tag>cheek</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>lipoil</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>no-varent</s:tag>
+    <s:tag>no-verient</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>value-sets</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>Viral product</s:tag>
+    <s:tag>VTo-Lipgloss</s:tag>
+    <s:tag>VTO-LipOil</s:tag>
+    <s:tag>VTO-Lipstick</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077082550581</id>
+      <title>PH-ENOMENAL 01 / Lip Shots</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0935</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077079863605</id>
+    <published>2025-05-05T17:03:21+05:30</published>
+    <updated>2025-05-05T17:03:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/concealer-lip-shots"/>
+    <title>Concelaer + Lip Shots</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Lip-Shots_Concealer.jpg?v=1746441680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Late nights, flawless mornings – meet the Hangover Proof Full Coverage Concealer.</span></p>
+<p dir="ltr"><span>This light-as-air, full-coverage concealer hides dark circles, blemishes, redness, and signs of last night – no creasing, no caking.</span></p>
+<p dir="ltr"><span>Why it's a game-changer:</span></p>
+<p dir="ltr"><span>Full coverage with a natural matte finish</span></p>
+<p dir="ltr"><span>Sweat-proof, water-resistant &amp; crease-proof</span></p>
+<p dir="ltr"><span>Shea Butter-infused for hydration &amp; smooth application</span></p>
+<p dir="ltr"><span>Blurs fine lines, pores &amp; wrinkles effortlessly</span></p>
+<p dir="ltr"><span>XL pillowy doe-foot for easy, precise use</span></p>
+<p dir="ltr"><span>Doubles as a highlighter &amp; contour stick</span></p>
+<p dir="ltr"><span>9 versatile shades made for Indian skin tones</span></p>
+<p dir="ltr"><span>Made in Korea</span></p>
+<p dir="ltr"><b><br><br></b></p>
+<p dir="ltr"><span>Say hello to Lip Shots – your mini lipstick must-haves!</span></p>
+<p dir="ltr"><span>Featuring 4 bestselling ON &amp; OFF shades, these 1.2ml minis deliver intense, weightless color with 12-hour smudge-proof wear.</span></p>
+<p dir="ltr"><span>Why you’ll love them:</span></p>
+<p dir="ltr"><span>Liquid matte with one-swipe pigment</span></p>
+<p dir="ltr"><span>Blurs lines with a soft-focus finish</span></p>
+<p dir="ltr"><span>Packed with Raspberry Stem Cells, Cocoa Butter &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Non-drying, velvety formula that stays comfy</span></p>
+<p dir="ltr"><span>Mini, mess-free &amp; made for on-the-go</span></p>
+<p dir="ltr"><span>Mask-proof, kiss-proof, food-proof</span></p>
+<p dir="ltr"><span>Big color. Tiny tube. All the impact.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>Orange Corrector / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0934</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>White Russian - Fair with neutral undertones / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0926</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>Prosecco - Light with pink undertones / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0927</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>Brandy - Tan with warm undertones / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0931</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>Dark Rum - Tan deep with olive undertones / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0932</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>Espresso Martini - Deep with neutral undertones / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0933</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>Pina Colada - Light medium with warm undertones / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0928</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>Baileys - Medium with warm undertones / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0929</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077079863605</id>
+      <title>Whiskey - Medium with neutral undertones / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0930</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077077930293</id>
+    <published>2025-05-05T17:03:20+05:30</published>
+    <updated>2025-05-05T17:03:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-blush-lip-treatment-balm"/>
+    <title>PH Blush + Lip Treatment Balm</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Peptide_pH-Blush-2.jpg?v=1746432734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0828</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0832</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0836</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0824</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0840</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Apple Martini</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1007</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0829</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0833</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0837</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0825</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0841</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Apple Martini</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1008</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0830</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0834</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0838</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0826</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0842</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Apple Martini</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1009</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0831</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0835</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0839</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0827</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0843</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Apple Martini</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1010</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077076488501</id>
+    <published>2025-05-05T17:03:19+05:30</published>
+    <updated>2025-05-05T17:03:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-blush-mini-lipstick"/>
+    <title>PH Blush + Mini Lipstick</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/pH-Blush_Mini.jpg?v=1746431151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Meet Typsy Beauty’s Happy Hour Mini Lipsticks – bold color, tiny package, major impact.</span></p>
+<p dir="ltr"><span>These 8 hydrating matte minis deliver rich, flake-proof pigment in a single swipe. Lightweight, comfy, and clutch-sized, they’re perfect for glam on-the-go – from brunch to cocktail hour.</span></p>
+<p dir="ltr"><span>Why you’ll love them:</span></p>
+<p dir="ltr"><span>Soft matte formula – comfy all-day wear</span></p>
+<p dir="ltr"><span>High pigment payoff – no flaking, no bleeding</span></p>
+<p dir="ltr"><span>Luxe, travel-friendly size</span></p>
+<p dir="ltr"><span>Vegan, cruelty-free &amp; paraben-free</span></p>
+<p dir="ltr"><span>Made in Italy</span></p>
+<p dir="ltr"><span>8 universally flattering shades</span></p>
+<p dir="ltr"><span>Small in size, big on style</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0795</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Honey Boo - A warm pinky nude for a natural look</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0797</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0793</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Bubblegum Pop - A soft mauve pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0794</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Rose Sorbet - A dusty rose with subtle warmth</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0792</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0796</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Mulberry Mauve - A muted mauve pink shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0798</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0799</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0803</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Honey Boo - A warm pinky nude for a natural look</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0805</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0801</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Bubblegum Pop - A soft mauve pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0802</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Rose Sorbet - A dusty rose with subtle warmth</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0800</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0804</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Mulberry Mauve - A muted mauve pink shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0806</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0807</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0811</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Honey Boo - A warm pinky nude for a natural look</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0813</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0809</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Bubblegum Pop - A soft mauve pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0810</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Rose Sorbet - A dusty rose with subtle warmth</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0808</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0812</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Mulberry Mauve - A muted mauve pink shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0814</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0815</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0819</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Honey Boo - A warm pinky nude for a natural look</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0821</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0817</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Bubblegum Pop - A soft mauve pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0818</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Rose Sorbet - A dusty rose with subtle warmth</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0816</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0820</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Mulberry Mauve - A muted mauve pink shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0822</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0823</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077075341621</id>
+    <published>2025-05-05T17:03:18+05:30</published>
+    <updated>2025-05-05T17:03:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/concealer-lip-treatment-balm"/>
+    <title>Concealer + Lip Treatment Balm</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Peptide_Concealer.jpg?v=1746429435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Concealer<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Late nights, flawless mornings – meet the Hangover Proof Full Coverage Concealer.</span></p>
+<p dir="ltr"><span>This light-as-air, full-coverage concealer hides dark circles, blemishes, redness, and signs of last night – no creasing, no caking.</span></p>
+<p dir="ltr"><span>Why it's a game-changer:</span></p>
+<p dir="ltr"><span>Full coverage with a natural matte finish</span></p>
+<p dir="ltr"><span>Sweat-proof, water-resistant &amp; crease-proof</span></p>
+<p dir="ltr"><span>Shea Butter-infused for hydration &amp; smooth application</span></p>
+<p dir="ltr"><span>Blurs fine lines, pores &amp; wrinkles effortlessly</span></p>
+<p dir="ltr"><span>XL pillowy doe-foot for easy, precise use</span></p>
+<p dir="ltr"><span>Doubles as a highlighter &amp; contour stick</span></p>
+<p dir="ltr"><span>9 versatile shades made for Indian skin tones</span></p>
+<p dir="ltr"><span>Made in Korea</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Concealer</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>Made in Korea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>seeaction</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>Tan</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>video</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0764</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0773</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0782</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0755</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0791</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Orange Corrector / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1027</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0756</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0765</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0774</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0747</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0783</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>White Russian - Fair with neutral undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1019</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0757</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0766</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0775</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0748</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0784</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Prosecco - Light with pink undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1020</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0761</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0770</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0779</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0752</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0788</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Brandy - Tan with warm undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1024</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0762</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0771</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0780</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0753</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0789</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Dark Rum - Tan deep with olive undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1025</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0763</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0772</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0781</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0754</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0790</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Espresso Martini - Deep with neutral undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1026</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0758</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0767</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0776</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0749</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0785</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Pina Colada - Light medium with warm undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1021</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0759</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0768</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0777</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0750</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0786</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Baileys - Medium with warm undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1022</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0760</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0769</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0778</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0751</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0787</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077075341621</id>
+      <title>Whiskey - Medium with neutral undertones / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1023</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

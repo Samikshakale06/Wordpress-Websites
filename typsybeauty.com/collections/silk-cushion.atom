@@ -1,0 +1,2415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://typsybeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://typsybeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://typsybeauty.com/collections/silk-cushion.atom"/>
+  <title>Typsy Beauty</title>
+  <updated>2025-05-05T17:03:26+05:30</updated>
+  <author>
+    <name>Typsy Beauty</name>
+  </author>
+  <entry>
+    <id>https://typsybeauty.com/products/10077086449973</id>
+    <published>2025-05-05T17:03:26+05:30</published>
+    <updated>2025-05-05T17:03:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-blush-lip-shots"/>
+    <title>Silk Cushion Blush + Lip Shots</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Silk-Cushion_Lip-Shots.jpg?v=1746444226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the Silk Cushion Collection – India's first cream-liquid face range with a viral cushion-tip applicator for flawless, radiant skin.</span></p>
+<p dir="ltr"><span>Blush it your way: Just dot, blend, and glow with 4 pigment-packed, silky blushes – Bouquet of Roses, Strawberry Champagne, Coral Cascade, and Violet Veil.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Buildable, blendable &amp; packed with pigment</span></p>
+<p dir="ltr"><span>Cushion-tip for precise, mess-free application</span></p>
+<p dir="ltr"><span>Enriched with Vitamin E &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Made for Indian skin tones, suits all types</span></p>
+<p dir="ltr"><span>Feather-light, silky formula</span></p>
+<p dir="ltr"><span>100% vegan &amp; cruelty-free</span></p>
+<p dir="ltr"><span>Formulated in Italy</span></p>
+<p dir="ltr"><span>Pro tip: Twist &amp; lock after use!</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Say hello to Lip Shots – your mini lipstick must-haves!</span></p>
+<p dir="ltr"><span>Featuring 4 bestselling ON &amp; OFF shades, these 1.2ml minis deliver intense, weightless color with 12-hour smudge-proof wear.</span></p>
+<p dir="ltr"><span>Why you’ll love them:</span></p>
+<p dir="ltr"><span>Liquid matte with one-swipe pigment</span></p>
+<p dir="ltr"><span>Blurs lines with a soft-focus finish</span></p>
+<p dir="ltr"><span>Packed with Raspberry Stem Cells, Cocoa Butter &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Non-drying, velvety formula that stays comfy</span></p>
+<p dir="ltr"><span>Mini, mess-free &amp; made for on-the-go</span></p>
+<p dir="ltr"><span>Mask-proof, kiss-proof, food-proof</span></p>
+<p dir="ltr"><span>Big color. Tiny tube. All the impact.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077086449973</id>
+      <title>Voilet Veil 06 / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0941</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077086449973</id>
+      <title>Coral Cascade 08 / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0942</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077086449973</id>
+      <title>Strawberry Champagne 01 / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0943</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077086449973</id>
+      <title>Bouquet Of Roses 02 / Lip Shots</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0944</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077085860149</id>
+    <published>2025-05-05T17:03:25+05:30</published>
+    <updated>2025-05-05T17:03:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-blush-lip-shots"/>
+    <title>PH Blush + Lip Shots</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/pH-Blush_Lip-Shots.jpg?v=1746436283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085860149</id>
+      <title>Plum Pie 01: Deep reddish-purple / Lip Shots</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0844</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085860149</id>
+      <title>Lychee Lolly 02: Vibrant pink with peach / Lip Shots</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0845</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085860149</id>
+      <title>Mango Milkshake 03: Soft peachy orange / Lip Shots</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0846</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077085860149</id>
+      <title>Cotton Candy 04: Light pastel pink / Lip Shots</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0847</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077077930293</id>
+    <published>2025-05-05T17:03:20+05:30</published>
+    <updated>2025-05-05T17:03:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-blush-lip-treatment-balm"/>
+    <title>PH Blush + Lip Treatment Balm</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Peptide_pH-Blush-2.jpg?v=1746432734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0828</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0832</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0836</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0824</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0840</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Apple Martini</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1007</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0829</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0833</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0837</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0825</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0841</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Apple Martini</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1008</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0830</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0834</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0838</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0826</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0842</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Apple Martini</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1009</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0831</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0835</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0839</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0827</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-0843</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077077930293</id>
+      <title>Cotton Candy 04 - Light pastel pink / Apple Martini</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>CCC-1010</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077076488501</id>
+    <published>2025-05-05T17:03:19+05:30</published>
+    <updated>2025-05-05T17:03:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-blush-mini-lipstick"/>
+    <title>PH Blush + Mini Lipstick</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/pH-Blush_Mini.jpg?v=1746431151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better</span></p>
+<p dir="ltr"><b><br></b></p>
+<p dir="ltr"><span>Meet Typsy Beauty’s Happy Hour Mini Lipsticks – bold color, tiny package, major impact.</span></p>
+<p dir="ltr"><span>These 8 hydrating matte minis deliver rich, flake-proof pigment in a single swipe. Lightweight, comfy, and clutch-sized, they’re perfect for glam on-the-go – from brunch to cocktail hour.</span></p>
+<p dir="ltr"><span>Why you’ll love them:</span></p>
+<p dir="ltr"><span>Soft matte formula – comfy all-day wear</span></p>
+<p dir="ltr"><span>High pigment payoff – no flaking, no bleeding</span></p>
+<p dir="ltr"><span>Luxe, travel-friendly size</span></p>
+<p dir="ltr"><span>Vegan, cruelty-free &amp; paraben-free</span></p>
+<p dir="ltr"><span>Made in Italy</span></p>
+<p dir="ltr"><span>8 universally flattering shades</span></p>
+<p dir="ltr"><span>Small in size, big on style</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0795</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Honey Boo - A warm pinky nude for a natural look</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0797</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0793</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Bubblegum Pop - A soft mauve pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0794</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Rose Sorbet - A dusty rose with subtle warmth</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0792</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0796</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Mulberry Mauve - A muted mauve pink shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0798</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0799</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0803</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Honey Boo - A warm pinky nude for a natural look</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0805</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0801</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Bubblegum Pop - A soft mauve pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0802</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Rose Sorbet - A dusty rose with subtle warmth</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0800</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0804</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Mulberry Mauve - A muted mauve pink shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0806</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0807</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0811</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Honey Boo - A warm pinky nude for a natural look</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0813</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0809</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Bubblegum Pop - A soft mauve pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0810</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Rose Sorbet - A dusty rose with subtle warmth</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0808</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0812</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Mulberry Mauve - A muted mauve pink shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0814</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0815</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Raspberry Rush - Soft matte colour in a deep pink hue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0819</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Honey Boo - A warm pinky nude for a natural look</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0821</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Hot Chocolate Fudge - A rich chocolate brown shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0817</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Bubblegum Pop - A soft mauve pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0818</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Rose Sorbet - A dusty rose with subtle warmth</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0816</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Caramel Kiss - A neutral light nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0820</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Mulberry Mauve - A muted mauve pink shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0822</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077076488501</id>
+      <title>Cotton Candy 04 - Light pastel pink / Pumpkin Pie - A rusty nude shade</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCC-0823</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077072687413</id>
+    <published>2025-05-05T17:03:16+05:30</published>
+    <updated>2025-05-05T17:03:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/on-the-go-brush-set-ph-blush"/>
+    <title>On the go Brush Set + PH Blush</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/pH-Blush_OTG-Brush.jpg?v=1746441059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077072687413</id>
+      <title>Plum Pie 01: Deep reddish-purple / Brush</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0922</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077072687413</id>
+      <title>Lychee Lolly 02: Vibrant pink with peach / Brush</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0923</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077072687413</id>
+      <title>Mango Milkshake 03: Soft peachy orange / Brush</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0924</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077072687413</id>
+      <title>Cotton Candy 04: Light pastel pink / Brush</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0925</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077068886325</id>
+    <published>2025-05-05T17:03:14+05:30</published>
+    <updated>2025-05-05T17:03:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-blush-magic-wand"/>
+    <title>Silk Cushion Blush + Magic Wand</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Silk-Cushion_Magic-Wand.jpg?v=1746439697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the Silk Cushion Collection – India's first cream-liquid face range with a viral cushion-tip applicator for flawless, radiant skin.</span></p>
+<p dir="ltr"><span>Blush it your way: Just dot, blend, and glow with 4 pigment-packed, silky blushes – Bouquet of Roses, Strawberry Champagne, Coral Cascade, and Violet Veil.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Buildable, blendable &amp; packed with pigment</span></p>
+<p dir="ltr"><span>Cushion-tip for precise, mess-free application</span></p>
+<p dir="ltr"><span>Enriched with Vitamin E &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Made for Indian skin tones, suits all types</span></p>
+<p dir="ltr"><span>Feather-light, silky formula</span></p>
+<p dir="ltr"><span>100% vegan &amp; cruelty-free</span></p>
+<p dir="ltr"><span>Formulated in Italy</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Pro tip: Twist &amp; lock after use!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077068886325</id>
+      <title>Voilet Veil 06 / Brush</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0909</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077068886325</id>
+      <title>Coral Cascade 08 / Brush</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0910</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077068886325</id>
+      <title>Strawberry Champagne 01 / Brush</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0911</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077068886325</id>
+      <title>Bouquet Of Roses 02 / Brush</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku>CCC-0912</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077048734005</id>
+    <published>2025-05-05T17:03:13+05:30</published>
+    <updated>2025-05-05T17:03:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-blush-magic-wand"/>
+    <title>Ph Blush + Magic Wand</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/pH-Blush_Magic-Wand.jpg?v=1746439820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Say hello to glow – Typsy Beauty’s pH-antastic Colour Adjusting Blush!</span></p>
+<p dir="ltr"><span>India’s first-ever powder tint blush that adapts to your unique pH and moisture levels for a personalized pop of color that lasts up to 8 hours.</span></p>
+<p dir="ltr"><span>Why it’s a must-have:</span></p>
+<p dir="ltr"><span>pH-Adaptive Formula: Custom blush shade tailored to your skin</span></p>
+<p dir="ltr"><span>Powder Tint Tech: Long-wear, vibrant color with a radiant finish</span></p>
+<p dir="ltr"><span>Featherlight Texture: Breathable, zero-powder feel</span></p>
+<p dir="ltr"><span>Easy to Blend: Seamless, natural glow without harsh lines</span></p>
+<p dir="ltr"><span>Brightening Pigments: Instantly freshens your complexion</span></p>
+<p dir="ltr"><span>Oil Control + Hydration: Matte finish with skin-loving comfort</span></p>
+<p dir="ltr"><span>Universal. Weightless. Glow-boosting. Your cheeks, but better</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077048734005</id>
+      <title>Plum Pie 01 - Deep reddish-purple / Brush</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku>CCC-0905</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077048734005</id>
+      <title>Lychee Lolly 02 - Vibrant pink with peach / Brush</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku>CCC-0906</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077048734005</id>
+      <title>Mango Milkshake 03 - Soft peachy orange / Brush</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku>CCC-0907</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077048734005</id>
+      <title>Cotton Candy 04 - Light pastel pink / Brush</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku>CCC-0908</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077029859637</id>
+    <published>2025-05-05T17:03:10+05:30</published>
+    <updated>2025-05-05T17:03:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-blush-ph-blush"/>
+    <title>Silk Cushion Blush + PH Blush</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Silk-Cushion_pH-Blush.jpg?v=1746437031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the Silk Cushion Collection – India's first cream-liquid face range with a viral cushion-tip applicator for flawless, radiant skin.</span></p>
+<p dir="ltr"><span>Blush it your way: Just dot, blend, and glow with 4 pigment-packed, silky blushes – Bouquet of Roses, Strawberry Champagne, Coral Cascade, and Violet Veil.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Buildable, blendable &amp; packed with pigment</span></p>
+<p dir="ltr"><span>Cushion-tip for precise, mess-free application</span></p>
+<p dir="ltr"><span>Enriched with Vitamin E &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Made for Indian skin tones, suits all types</span></p>
+<p dir="ltr"><span>Feather-light, silky formula</span></p>
+<p dir="ltr"><span>100% vegan &amp; cruelty-free</span></p>
+<p dir="ltr"><span>Formulated in Italy</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Pro tip: Twist &amp; lock after use!</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Late nights, flawless mornings – meet the Hangover Proof Full Coverage Concealer.</span></p>
+<p dir="ltr"><span>This light-as-air, full-coverage concealer hides dark circles, blemishes, redness, and signs of last night – no creasing, no caking.</span></p>
+<p dir="ltr"><span>Why it's a game-changer:</span></p>
+<p dir="ltr"><span>Full coverage with a natural matte finish</span></p>
+<p dir="ltr"><span>Sweat-proof, water-resistant &amp; crease-proof</span></p>
+<p dir="ltr"><span>Shea Butter-infused for hydration &amp; smooth application</span></p>
+<p dir="ltr"><span>Blurs fine lines, pores &amp; wrinkles effortlessly</span></p>
+<p dir="ltr"><span>XL pillowy doe-foot for easy, precise use</span></p>
+<p dir="ltr"><span>Doubles as a highlighter &amp; contour stick</span></p>
+<p dir="ltr"><span>9 versatile shades made for Indian skin tones</span></p>
+<p dir="ltr"><span>Made in Korea</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Voilet Veil 06 / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0853</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Voilet Veil 06 / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0857</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Voilet Veil 06 / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0861</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Voilet Veil 06 / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0865</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Coral Cascade 08 / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0854</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Coral Cascade 08 / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0858</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Coral Cascade 08 / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0862</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Coral Cascade 08 / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0866</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Strawberry Champagne 01 / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0855</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Strawberry Champagne 01 / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0859</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Strawberry Champagne 01 / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0863</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Strawberry Champagne 01 / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0867</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Bouquet Of Roses 02 / Plum Pie 01 - Deep reddish-purple</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0856</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Bouquet Of Roses 02 / Lychee Lolly 02 - Vibrant pink with peach</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0860</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Bouquet Of Roses 02 / Mango Milkshake 03 - Soft peachy orange</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0864</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077029859637</id>
+      <title>Bouquet Of Roses 02 / Cotton Candy 04 - Light pastel pink</title>
+      <s:price currency="INR">1599.00</s:price>
+      <s:sku>CCC-0868</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/10077074161973</id>
+    <published>2025-05-05T15:07:17+05:30</published>
+    <updated>2025-05-05T15:07:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-blush-lip-treatment-balm"/>
+    <title>Silk Cushion Blush + Lip Treatment Balm</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Peptide_Silk_Cushion.jpg?v=1746426810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing the Silk Cushion Collection – India's first cream-liquid face range with a viral cushion-tip applicator for flawless, radiant skin.</span></p>
+<p dir="ltr"><span>Blush it your way: Just dot, blend, and glow with 4 pigment-packed, silky blushes – Bouquet of Roses, Strawberry Champagne, Coral Cascade, and Violet Veil.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Buildable, blendable &amp; packed with pigment</span></p>
+<p dir="ltr"><span>Cushion-tip for precise, mess-free application</span></p>
+<p dir="ltr"><span>Enriched with Vitamin E &amp; Hyaluronic Acid</span></p>
+<p dir="ltr"><span>Made for Indian skin tones, suits all types</span></p>
+<p dir="ltr"><span>Feather-light, silky formula</span></p>
+<p dir="ltr"><span>100% vegan &amp; cruelty-free</span></p>
+<p dir="ltr"><span>Formulated in Italy</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Pro tip: Twist &amp; lock after use!</span></p>
+<p><b><br></b></p>
+<p dir="ltr"><span>Meet the Pout Polish Peptide Lip Treatment Balm – where skincare meets makeup.</span></p>
+<p dir="ltr"><span>This all-in-one balm delivers the hydration of a lip mask, shine of a glaze, and nourishment of a treatment – all in a sleek, pocket-sized tube.</span></p>
+<p dir="ltr"><span>Why you’ll love it:</span></p>
+<p dir="ltr"><span>Peptides + Collagen: Smooth fine lines, plump, and brighten dark lips</span></p>
+<p dir="ltr"><span>8-Hour Hydration: Moisture-lock tech keeps lips soft and dewy</span></p>
+<p dir="ltr"><span>Cooling Metal Tip: Refreshing, mess-free application</span></p>
+<p dir="ltr"><span>Non-sticky Glaze: High-shine finish with zero tackiness</span></p>
+<p dir="ltr"><span>Lightweight &amp; Buildable: Wears like a dream, day or night</span></p>
+<p dir="ltr"><span>Dessert-Inspired Scents: A treat for your lips</span></p>
+<p dir="ltr"><span>Made in Italy. 100% vegan &amp; cruelty-free. For everyone, every day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>value-sets</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Voilet Veil 06 / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0731</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Voilet Veil 06 / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0735</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Voilet Veil 06 / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0739</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Voilet Veil 06 / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0727</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Voilet Veil 06 / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0743</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Voilet Veil 06 / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1013</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Coral Cascade 08 / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0732</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Coral Cascade 08 / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0736</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Coral Cascade 08 / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0740</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Coral Cascade 08 / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0728</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Coral Cascade 08 / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0744</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Coral Cascade 08 / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1014</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Strawberry Champagne 01 / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0733</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Strawberry Champagne 01 / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0737</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Strawberry Champagne 01 / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0741</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Strawberry Champagne 01 / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0729</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Strawberry Champagne 01 / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0745</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Strawberry Champagne 01 / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1011</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Bouquet Of Roses 02 / Strawberry Cheesecake with Shimmer - Shimmery Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0734</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Bouquet Of Roses 02 / Raspberry Lollipop - Juicy Berry</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0738</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Bouquet Of Roses 02 / Caramel Toffee - Nude Brown</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0742</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Bouquet Of Roses 02 / Coconut Crumble - Clear Non tinted</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0730</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Bouquet Of Roses 02 / Chocolate Fondant - Decadent Chocolate</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-0746</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/10077074161973</id>
+      <title>Bouquet Of Roses 02 / Apple Martini</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>CCC-1012</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9122657665333</id>
+    <published>2025-04-28T00:05:22+05:30</published>
+    <updated>2025-04-28T00:05:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-magic-wand"/>
+    <title>Silk Cushion + Brush Combo</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_Both.jpg?v=1707842868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combo containing our Silk Cushion Collection in the shade of your choice and the Magic Wand Highlighter Brush. The collection features 4 blushes: Bouquet of Roses, Strawberry Champagne, Coral Cascade, and Violet Veil. 2 Contour: <meta charset="utf-8">Maple Syrup and <meta charset="utf-8">Chocolate Drizzle. 2 Highlighter: <meta charset="utf-8">Dipped in Gold and Diamond Fizz</p>
+<p>A range of buildable, blendable cream-liquid face products that are married with a convenient, easy-to-use viral cushion-tip applicator for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels smooth like silk, and the shades are designed for Indian skin tones!</p>
+<p>Blush: Dot, dot, blend and pop with these pigment-packed blushes that are bound to make you flush –these silky, lightweight, easy-to-blend formulas are universally flattering and add an instant pop of colour. The collection features two blushes: Bouquet of Rose and Strawberry Champagne </p>
+<p>Contour: Contour with unmatched ease: Define and sculpt like a pro with an easy-to-use precise cushion tip, combined with a silky cream-liquid formula. It blends seamlessly into the skin, delivering a natural-looking best liquid contour finish. Maple Syrup is a warm-toned medium brown, designed for light to medium skin tones, catering to the diverse beauty of Indian skin.</p>
+<p>Highlighter: Highlighter: Discover the pearl-infused highlighter wands and unlock the secret to a luminous, soft-focus radiance. The collection includes two glow-giving highlighters: Dipped in Gold and Diamond Fizz</p>
+<p>Magic Wand Highlighter Brush: this brush works equally well with other powder formulas. Featuring densely packed vegan bristles, this brush easily picks up and blends out pigments, whilst providing precise application on specific areas of the face with a weightless finish. Apply using small touches to your cheekbones, brow bone and upper lip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>300OFF</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122657665333</id>
+      <title>Strawberry Champagne 01</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0226</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122657665333</id>
+      <title>Bouquet Of Roses 02</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0227</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122657665333</id>
+      <title>Diamond Fizz 03</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0228</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122657665333</id>
+      <title>Dipped in Gold 04</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0229</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122657665333</id>
+      <title>Maple Syrup 05</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-0230</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122657665333</id>
+      <title>Voilet Veil 06</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-572</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122657665333</id>
+      <title>Chocolate Drizzle 07</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-574</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9122657665333</id>
+      <title>Coral Cascade 08</title>
+      <s:price currency="INR">1529.00</s:price>
+      <s:sku>CCC-573</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9255633060149</id>
+    <published>2025-04-28T00:05:17+05:30</published>
+    <updated>2025-04-28T00:05:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-blush-silk-cushion-contour-combo"/>
+    <title>Silk Cushion Blush &amp; Contour Combo</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_8858e4e9-3084-4e1d-87a2-ddb58b844422.jpg?v=1711082973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Silk Cushion collection - a range of <strong>buildable, blendable cream-liquid</strong> face products that are married with a convenient, easy-to-use viral <strong>cushion-tip applicator</strong> for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels <strong>smooth like silk</strong>, and the shades are designed for Indian skin tones!</p>
+<p>Highlighter: Discover the <strong>pearl-infused</strong> highlighter wands and unlock the secret to a <strong>luminous, soft-focus radiance</strong>. The collection includes two glow-giving highlighters: <strong>Dipped in Gold</strong> and <strong>Diamond Fizz</strong><br>Whether you're in search of a pink highlighter makeup, a versatile makeup highlighter stick, or a liquid highlighter for face, the Silk Cushion collection offers it all, providing every beauty enthusiast with the perfect tools for achieving a dazzling highlight. Remember to twist &amp; lock after each use to preserve the high quality of this cherished liquid highlighter collection.</p>
+<p><strong>Why is it special:</strong></p>
+<p>• Pigmented yet buildable liquid highlighter makeup formula that ensures flawless blending<br>• Precision cushion tip for easy, no-mess application of the highlighter pen makeup<br>• Treated Pearls brighten and add radiant, luminous soft glow, setting itself apart as the best liquid highlighter<br>• Enriched with skin-nourishing Vitamin E and Hyaluronic Acid, making it suitable for all skin types, including sensitive skin<br>• Designed for Indian skin tones, suitable for all skin types<br>• Weightless, silky-luxe liquid formula guarantees an even blend, setting the bar high for face highlighter makeup<br>• Remember to twist &amp; lock after each use!<br>• Formulated in Italy<br>• Dermatologically Tested.</p>
+<p><em>100% Vegan, Paraben and cruelty free. </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>300OFF</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9255633060149</id>
+      <title>Strawberry Champagne 01 / Maple Syrup 05</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0243</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9255633060149</id>
+      <title>Strawberry Champagne 01 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-556</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9255633060149</id>
+      <title>Bouquet Of Roses 02 / Maple Syrup 05</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-0244</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9255633060149</id>
+      <title>Bouquet Of Roses 02 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-557</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9255633060149</id>
+      <title>Voilet Veil 06 / Maple Syrup 05</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-554</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9255633060149</id>
+      <title>Voilet Veil 06 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-558</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9255633060149</id>
+      <title>Coral cascade 08 / Maple Syrup 05</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-555</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9255633060149</id>
+      <title>Coral cascade 08 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">1699.00</s:price>
+      <s:sku>CCC-559</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9235052560693</id>
+    <published>2025-04-28T00:05:16+05:30</published>
+    <updated>2025-04-28T00:05:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-combo"/>
+    <title>Silk Cushion Combo</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_1_a6a649c6-3358-4ed3-82d2-5c5a590fec66.jpg?v=1710507557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Choose any 3 products from the silk cushion collection </p>
+<p>A range of buildable, blendable cream-liquid face products that are married with a convenient, easy-to-use viral cushion-tip applicator for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels smooth like silk, and the shades are designed for Indian skin tones!</p>
+<p><strong>Blush:</strong> Dot, dot, blend and pop with these pigment-packed blushes that are bound to make you flush –these silky, lightweight, easy-to-blend formulas are universally flattering and add an instant pop of colour. The collection features two blushes: Bouquet of Rose and Strawberry Champagne </p>
+<p><strong>Contour:</strong> Contour with unmatched ease: Define and sculpt like a pro with an easy-to-use precise cushion tip, combined with a silky cream-liquid formula. It blends seamlessly into the skin, delivering a natural-looking best liquid contour finish. Maple Syrup is a warm-toned medium brown, designed for light to medium skin tones, catering to the diverse beauty of Indian skin.</p>
+<p><strong>Highlighter:</strong> Highlighter: Discover the pearl-infused highlighter wands and unlock the secret to a luminous, soft-focus radiance. The collection includes two glow-giving highlighters: Dipped in Gold and Diamond Fizz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>BROWN</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>custom-swatch-option</s:tag>
+    <s:tag>Deep</s:tag>
+    <s:tag>draft</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Fair</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>no-shade-guide</s:tag>
+    <s:tag>NUDE</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>show_choose_set</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>View All</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Strawberry Champagne 01 / Diamond Fizz 03 / Maple Syrup 05</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-0239</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Strawberry Champagne 01 / Diamond Fizz 03 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-564</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Strawberry Champagne 01 / Dipped in Gold 04 / Maple Syrup 05</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-0240</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Strawberry Champagne 01 / Dipped in Gold 04 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-568</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Bouquet Of Roses 02 / Diamond Fizz 03 / Maple Syrup 05</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-0241</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Bouquet Of Roses 02 / Diamond Fizz 03 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-565</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Bouquet Of Roses 02 / Dipped in Gold 04 / Maple Syrup 05</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-0242</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Bouquet Of Roses 02 / Dipped in Gold 04 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-569</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Voilet Veil 06 / Diamond Fizz 03 / Maple Syrup 05</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-560</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Voilet Veil 06 / Diamond Fizz 03 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-566</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Voilet Veil 06 / Dipped in Gold 04 / Maple Syrup 05</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-562</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Voilet Veil 06 / Dipped in Gold 04 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-570</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Coral cascade 08 / Diamond Fizz 03 / Maple Syrup 05</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-561</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Coral cascade 08 / Diamond Fizz 03 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-567</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Coral cascade 08 / Dipped in Gold 04 / Maple Syrup 05</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-563</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9235052560693</id>
+      <title>Coral cascade 08 / Dipped in Gold 04 / Chocolate Drizzle 07</title>
+      <s:price currency="INR">2299.00</s:price>
+      <s:sku>CCC-571</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9972794130741</id>
+    <published>2025-02-06T12:06:25+05:30</published>
+    <updated>2025-02-06T12:06:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-liquid-contour-wand-chocolate-drizzle"/>
+    <title>Silk Cushion Liquid Contour Wand Chocolate Drizzle</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_2.jpg?v=1738763711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>.Introducing the Silk Cushion collection - a range of <strong>buildable, blendable cream-liquid</strong> face products that are married with a convenient, easy-to-use viral <strong>cushion-tip applicator</strong> for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels <strong>smooth like silk</strong>, and the shades are designed for Indian skin tones!</p>
+<p><br><strong>Contour:</strong> Define and sculpt like a pro with an easy-to-use precise cushion tip, paired with a silky cream-liquid formula. Blends seamlessly into skin for a natural-looking contour. Chocolate Drizzle: A taupe colour, with subtle cool undertones, designed to create a natural shadow effect.</p>
+<p><strong>Why is it Special? </strong></p>
+<p>Pigmented yet buildable matte formula that blends like a dream </p>
+<p>Precision cushion tip for easy, no-mess application </p>
+<p>Infused with skin-loving Vitamin E and Hyaluronic Acid  </p>
+<p>Weightless silky-luxe liquid formula blends evenly </p>
+<p>Designed for Indian skin tones, suitable for all skin types </p>
+<p>Remember to twist &amp; lock after each use! </p>
+<p>Formulated in Italy </p>
+<p> </p>
+<p><em>100% Vegan, Paraben and cruelty free. Dermatologically Tested.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Contour</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9972794130741</id>
+      <title>Chocolate Drizzle 07</title>
+      <s:price currency="INR">1200.00</s:price>
+      <s:sku>CCF-0030</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9972802519349</id>
+    <published>2025-02-06T12:04:49+05:30</published>
+    <updated>2025-02-06T12:04:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-liquid-blush-wand-violet-veil"/>
+    <title>Silk Cushion Liquid Blush Wand Violet Veil</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_1_b5b7518f-1b16-4d56-8b84-5ff5bac73c90.jpg?v=1738763519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">For the first time in India, introducing the <span style="color: #ff00cc;"><strong>Silk Cushion collection</strong> </span>- a range of <span style="color: #ff00cc;"><strong>buildable, blendable cream-liquid</strong></span> face products that are married with a convenient, easy-to-use <span style="color: #ff00cc;"><strong>viral cushion-tip applicator</strong></span> for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels <span style="color: #ff00cc;"><strong>smooth like silk</strong></span>, and the shades are <span style="color: #ff00cc;"><strong>designed for Indian skin tones!</strong></span></p>
+<p><meta charset="utf-8">Blush: Dot, dot, blend and pop with these pigment-packed blushes that are bound to make you flush –these silky, lightweight, easy-to-blend formulas are universally flattering and add an instant pop of colour.</p>
+<h6>Why is it special</h6>
+<ul>
+<li style="text-align: left;">Pigmented yet buildable formula that blends like a dream</li>
+<li style="text-align: left;">Precision cushion tip for easy, no-mess application</li>
+<li style="text-align: left;"><span><meta charset="utf-8">Infused with skin-loving Vitamin E and Hyaluronic Acid</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Designed for Indian skin tones, suitable for all skin types.</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Weightless silky-luxe liquid formula blends evenly</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Remember to twist &amp; lock after each use!</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">100% vegan &amp; cruelty-free</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Formulated in Italy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9972802519349</id>
+      <title>Voilet Veil 06</title>
+      <s:price currency="INR">1200.00</s:price>
+      <s:sku>CCF-0032</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9972801110325</id>
+    <published>2025-02-06T12:04:48+05:30</published>
+    <updated>2025-02-06T12:04:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-liquid-blush-wand-coral-cascade"/>
+    <title>Silk Cushion Liquid Blush Wand Coral Cascade</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/1_4b39cd21-ece4-45e3-835c-3f39e894eeee.jpg?v=1738763519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">For the first time in India, introducing the <span style="color: #ff00cc;"><strong>Silk Cushion collection</strong> </span>- a range of <span style="color: #ff00cc;"><strong>buildable, blendable cream-liquid</strong></span> face products that are married with a convenient, easy-to-use <span style="color: #ff00cc;"><strong>viral cushion-tip applicator</strong></span> for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels <span style="color: #ff00cc;"><strong>smooth like silk</strong></span>, and the shades are <span style="color: #ff00cc;"><strong>designed for Indian skin tones!</strong></span></p>
+<p><meta charset="utf-8">Blush: Dot, dot, blend and pop with these pigment-packed blushes that are bound to make you flush –these silky, lightweight, easy-to-blend formulas are universally flattering and add an instant pop of colour.</p>
+<h6>Why is it special</h6>
+<ul>
+<li style="text-align: left;">Pigmented yet buildable formula that blends like a dream</li>
+<li style="text-align: left;">Precision cushion tip for easy, no-mess application</li>
+<li style="text-align: left;"><span><meta charset="utf-8">Infused with skin-loving Vitamin E and Hyaluronic Acid</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Designed for Indian skin tones, suitable for all skin types.</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Weightless silky-luxe liquid formula blends evenly</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Remember to twist &amp; lock after each use!</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">100% vegan &amp; cruelty-free</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Formulated in Italy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9972801110325</id>
+      <title>Coral Cascade 08</title>
+      <s:price currency="INR">1200.00</s:price>
+      <s:sku>CCF-0033</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/9911431561525</id>
+    <published>2024-12-11T10:54:25+05:30</published>
+    <updated>2024-12-11T10:54:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/ph-antastic-colour-adjusting-blush"/>
+    <title>pH-antastic Colour Adjusting Blush</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/Plum-Pie_93271a68-4b43-48df-8639-4aa949b246f5.jpg?v=1746441059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Blush<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Introducing the Typsy Beauty's pH-antastic Colour Adjusting Blush – India's first Powder tint blush is here. This truly innovative product adapts to your skin's unique pH and moisture levels, delivering a custom glow, just for you. With its ultra-fine, finely milled texture, the blush blends effortlessly, giving you a fresh, radiant finish that lasts up to 8 hours. Lightweight and breathable, it feels like a second skin, offering a flawless, filter-like effect that’s universally flattering and perfect for all skin tones.<br></p>
+<h6>
+<meta charset="utf-8"> <span class="TextRun MacChromeBold SCXW246367687 BCX0" lang="EN-US" data-contrast="auto" xml:lang="EN-US"><span class="NormalTextRun SCXW246367687 BCX0">What Makes It So Good:</span></span>
+</h6>
+<ul>
+<li style="text-align: left;">
+<meta charset="utf-8">
+<strong>pH-Adaptive Formula: </strong>Reacts to your skin’s unique pH and moisture level, creating a blush shade tailored just for you<br>
+</li>
+<li style="text-align: left;">
+<meta charset="utf-8">
+<strong>Powder Tint Technology:</strong> India's first powder tint blush that offers long-lasting color that stays vibrant for up to 8 hours, giving you a flawless, fresh glow throughout the day<br>
+</li>
+<li style="text-align: left;">
+<meta charset="utf-8">
+<strong>Soft, Featherlight Texture: </strong>Ultra-fine particles ensure a breathable, lightweight feel with a “zero-powder” sensation, making it perfect for all-day wear<br>
+</li>
+<li style="text-align: left;">
+<meta charset="utf-8">
+<strong>Easy to Blend &amp; Layer:</strong> The finely milled powder blends effortlessly into your skin, creating a natural, seamless finish without harsh lines<br>
+</li>
+<li style="text-align: left;">
+<meta charset="utf-8">
+<strong>Brightening Mineral Pigments:</strong> Adds a subtle radiance, enhancing your complexion with a fresh, natural glow<br>
+</li>
+<li style="text-align: left;">
+<meta charset="utf-8">
+<strong>Oil Control:</strong> Provides a matte finish without shine, giving you a smooth, balanced look that lasts all day<br>
+</li>
+<li style="text-align: left;">
+<meta charset="utf-8">
+<strong>Moisturizing &amp; Skin Conditioning:</strong> Infused with nourishing ingredients, this blush feels hydrating and comfortable on your skin<br>
+</li>
+</ul>
+<p style="text-align: left;"><span class="TextRun SCXW205275647 BCX0" lang="EN-US" data-contrast="auto" xml:lang="EN-US"><span class="NormalTextRun SCXW205275647 BCX0"><meta charset="utf-8"> <em><span data-contrast="none" lang="EN" class="TextRun SCXW39866940 BCX0" xml:lang="EN"><span class="NormalTextRun SCXW39866940 BCX0">100% Vegan &amp; Cruelty-free.</span></span></em></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9911431561525</id>
+      <title>Plum Pie 01: Deep reddish-purple</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCF-0034</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9911431561525</id>
+      <title>Lychee Lolly 02: Vibrant pink with peach</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCF-0035</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9911431561525</id>
+      <title>Mango Milkshake 03: Soft peachy orange</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCF-0036</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/9911431561525</id>
+      <title>Cotton Candy 04: Light pastel pink</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku>CCF-0037</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/8944802398517</id>
+    <published>2024-07-22T16:37:22+05:30</published>
+    <updated>2024-07-22T16:37:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-contour"/>
+    <title>Silk Cushion Liquid Contour Wand</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/MS_133cbcbb-8667-4ab7-9420-88b4f269e7d8.jpg?v=1735894211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>.Introducing the Silk Cushion collection - a range of <strong>buildable, blendable cream-liquid</strong> face products that are married with a convenient, easy-to-use viral <strong>cushion-tip applicator</strong> for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels <strong>smooth like silk</strong>, and the shades are designed for Indian skin tones!</p>
+<p><br><strong>Contour:</strong> Define and sculpt like a pro with an easy-to-use precise cushion tip, paired with a silky cream-liquid formula. Blends seamlessly into skin for a natural-looking contour. Maple Syrup is a warm toned medium brown, designed for light to medium skintones. Chocolate Drizzle: A taupe colour, with subtle cool undertones, designed to create a natural shadow effect.</p>
+<p><strong>Why is it Special? </strong></p>
+<p>Pigmented yet buildable matte formula that blends like a dream </p>
+<p>Precision cushion tip for easy, no-mess application </p>
+<p>Infused with skin-loving Vitamin E and Hyaluronic Acid  </p>
+<p>Weightless silky-luxe liquid formula blends evenly </p>
+<p>Designed for Indian skin tones, suitable for all skin types </p>
+<p>Remember to twist &amp; lock after each use! </p>
+<p>Formulated in Italy </p>
+<p> </p>
+<p><em>100% Vegan, Paraben and cruelty free. Dermatologically Tested.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Contour</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8944802398517</id>
+      <title>Chocolate Drizzle 07</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCF-0030</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8944802398517</id>
+      <title>Maple Syrup 05</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCF-0031</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/8944824516917</id>
+    <published>2023-12-03T22:46:07+05:30</published>
+    <updated>2023-12-03T22:46:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-highlighter"/>
+    <title>Silk Cushion Liquid Highlighter Wand</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/DF_4c7ae1ef-e476-4753-953f-3b9d515e1752.jpg?v=1735894306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Silk Cushion collection - a range of <strong>buildable, blendable cream-liquid</strong> face products that are married with a convenient, easy-to-use viral <strong>cushion-tip applicator</strong> for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels <strong>smooth like silk</strong>, and the shades are designed for Indian skin tones!</p>
+<p>Highlighter: Discover the <strong>pearl-infused</strong> highlighter wands and unlock the secret to a <strong>luminous, soft-focus radiance</strong>. The collection includes two glow-giving highlighters: <strong>Dipped in Gold</strong> and <strong>Diamond Fizz</strong><br>Whether you're in search of a pink highlighter makeup, a versatile makeup highlighter stick, or a liquid highlighter for face, the Silk Cushion collection offers it all, providing every beauty enthusiast with the perfect tools for achieving a dazzling highlight. Remember to twist &amp; lock after each use to preserve the high quality of this cherished liquid highlighter collection.</p>
+<p><strong>Why is it special:</strong></p>
+<p>• Pigmented yet buildable liquid highlighter makeup formula that ensures flawless blending<br>• Precision cushion tip for easy, no-mess application of the highlighter pen makeup<br>• Treated Pearls brighten and add radiant, luminous soft glow, setting itself apart as the best liquid highlighter<br>• Enriched with skin-nourishing Vitamin E and Hyaluronic Acid, making it suitable for all skin types, including sensitive skin<br>• Designed for Indian skin tones, suitable for all skin types<br>• Weightless, silky-luxe liquid formula guarantees an even blend, setting the bar high for face highlighter makeup<br>• Remember to twist &amp; lock after each use!<br>• Formulated in Italy<br>• Dermatologically Tested.</p>
+<p><em>100% Vegan, Paraben and cruelty free. </em><meta charset="UTF-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Highlighter</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8944824516917</id>
+      <title>Diamond Fizz 03</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCF-0029</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8944824516917</id>
+      <title>Dipped in Gold 04</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCF-0028</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://typsybeauty.com/products/8943784624437</id>
+    <published>2023-12-03T22:46:06+05:30</published>
+    <updated>2023-12-03T22:46:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://typsybeauty.com/products/silk-cushion-blush"/>
+    <title>Silk Cushion Liquid Blush Wand</title>
+    <s:type>Silk Cushion</s:type>
+    <s:vendor>Typsy Beauty Procurement Services Pvt. Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0587/0531/3990/files/SC_af95e627-7f22-4ea2-970a-69d2f2275fb3.jpg?v=1735893961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typsy Beauty Procurement Services Pvt. Ltd.<br>
+        <strong>Type: </strong>Silk Cushion<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">For the first time in India, introducing the <span style="color: #ff00cc;"><strong>Silk Cushion collection</strong> </span>- a range of <span style="color: #ff00cc;"><strong>buildable, blendable cream-liquid</strong></span> face products that are married with a convenient, easy-to-use <span style="color: #ff00cc;"><strong>viral cushion-tip applicator</strong></span> for precise application that leaves you with gorgeous radiance that lasts. The name says it all, as the texture feels <span style="color: #ff00cc;"><strong>smooth like silk</strong></span>, and the shades are <span style="color: #ff00cc;"><strong>designed for Indian skin tones!</strong></span></p>
+<p><meta charset="utf-8">Blush: Dot, dot, blend and pop with these pigment-packed blushes that are bound to make you flush –these silky, lightweight, easy-to-blend formulas are universally flattering and add an instant pop of colour. The collection features 4 blushes: Bouquet of Roses, Strawberry Champagne, Coral Cascade and Violet Veil.</p>
+<h6>Why is it special</h6>
+<ul>
+<li style="text-align: left;">Pigmented yet buildable formula that blends like a dream</li>
+<li style="text-align: left;">Precision cushion tip for easy, no-mess application</li>
+<li style="text-align: left;"><span><meta charset="utf-8">Infused with skin-loving Vitamin E and Hyaluronic Acid</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Designed for Indian skin tones, suitable for all skin types.</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Weightless silky-luxe liquid formula blends evenly</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Remember to twist &amp; lock after each use!</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">100% vegan &amp; cruelty-free</span></li>
+<li style="text-align: left;"><span><meta charset="utf-8">Formulated in Italy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20%Off</s:tag>
+    <s:tag>active</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>Faqs</s:tag>
+    <s:tag>FORMULATED IN ITALY</s:tag>
+    <s:tag>group-gallery</s:tag>
+    <s:tag>guide</s:tag>
+    <s:tag>howtouse</s:tag>
+    <s:tag>ingredient</s:tag>
+    <s:tag>inside</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>MUA Approved</s:tag>
+    <s:tag>multivarient</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>preorder</s:tag>
+    <s:tag>producticons</s:tag>
+    <s:tag>show-skin-tone</s:tag>
+    <s:tag>Silkcuhsion</s:tag>
+    <s:tag>skin-shade</s:tag>
+    <s:tag>specs</s:tag>
+    <s:tag>specs_tab</s:tag>
+    <s:tag>usp</s:tag>
+    <s:tag>View All</s:tag>
+    <s:tag>VTO-Blush</s:tag>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8943784624437</id>
+      <title>Voilet Veil 06</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCF-0032</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8943784624437</id>
+      <title>Coral Cascade 08</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCF-0033</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8943784624437</id>
+      <title>Strawberry Champagne 01</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCF-0026</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://typsybeauty.com/products/8943784624437</id>
+      <title>Bouquet Of Roses 02</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>CCF-0027</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+</feed>
